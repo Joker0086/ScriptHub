@@ -197,6 +197,7 @@ ip=
 netmask=
 gateway=
 dns='8.8.8.8 8.8.4.4'
+dns6='2001:4860:4860::8888 2001:4860:4860::8844'
 hostname=
 network_console=false
 set_debian_version 12
@@ -211,7 +212,7 @@ password=
 authorized_keys_url=
 sudo_with_password=false
 timezone=UTC
-ntp=0.debian.pool.ntp.org
+ntp=time.google.com
 disk_partitioning=true
 disk=
 force_gpt=true
@@ -245,25 +246,33 @@ cidata=
 while [ $# -gt 0 ]; do
     case $1 in
         --cdn)
-            mirror_host=deb.debian.org
             ;;
         --aws)
             mirror_host=cdn-aws.deb.debian.org
+            ntp=time.aws.com
+            ;;
+        --cloudflare)
+            dns='1.1.1.1 1.0.0.1'
+            dns6='2606:4700:4700::1111 2606:4700:4700::1001'
+            ntp=time.cloudflare.com
             ;;
         --aliyun)
             dns='223.5.5.5 223.6.6.6'
+            dns6='2400:3200::1 2400:3200:baba::1'
             mirror_host=mirrors.aliyun.com
-            ntp=ntp.aliyun.com
+            ntp=time.amazonaws.cn
             ;;
         --ustc|--china)
             dns='119.29.29.29'
+            dns6='2402:4e00::'
             mirror_host=mirrors.ustc.edu.cn
-            ntp=time.ustc.edu.cn
+            ntp=time.amazonaws.cn
             ;;
         --tuna)
             dns='119.29.29.29'
+            dns6='2402:4e00::'
             mirror_host=mirrors.tuna.tsinghua.edu.cn
-            ntp=ntp.tuna.tsinghua.edu.cn
+            ntp=time.amazonaws.cn
             ;;
         --interface)
             interface=$2
@@ -283,6 +292,10 @@ while [ $# -gt 0 ]; do
             ;;
         --dns)
             dns=$2
+            shift
+            ;;
+        --dns6)
+            dns6=$2
             shift
             ;;
         --hostname)
@@ -570,7 +583,7 @@ EOF
     echo "d-i netcfg/get_ipaddress string $ip" | $save_preseed
     [ -n "$netmask" ] && echo "d-i netcfg/get_netmask string $netmask" | $save_preseed
     [ -n "$gateway" ] && echo "d-i netcfg/get_gateway string $gateway" | $save_preseed
-    [ -z "${ip%%*:*}" ] && [ -n "${dns%%*:*}" ] && dns='2001:4860:4860::8888 2001:4860:4860::8844'
+    [ -z "${ip%%*:*}" ] && [ -n "${dns%%*:*}" ] && dns="$dns6"
     [ -n "$dns" ] && echo "d-i netcfg/get_nameservers string $dns" | $save_preseed
     echo 'd-i netcfg/confirm_static boolean true' | $save_preseed
 }
