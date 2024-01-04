@@ -222,34 +222,6 @@ Resolver in Amsterdam. HTTP3, DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAFVsyYTBjOmI5YzA6Zjo0NTFkOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
-## bebasdns
-
-BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
-
-sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
-
-
-## bebasdns-family
-
-BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicious link, pornography, gambling, and hate site.
-
-sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
-
-
-## bebasdns-security
-
-BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks malicious links.
-
-sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
-
-
-## bebasdns-unfiltered-dnscrypt
-
-BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant is unfiltered and using DNSCrypt protocol.
-
-sdns://AQcAAAAAAAAAEjM1LjIxOS42Ny4xNTA6NTQ0MyAtDC9I4194j3U0lZcEBPPd43IvR8gGNOS5QNVIx_7PNyoyLmRuc2NyeXB0LWNlcnQudW5maWx0ZXJlZC5kbnMuYmViYXNpZC5jb20
-
-
 ## bebasdns-unfiltered-doh
 
 BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
@@ -1249,24 +1221,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAF1syNjAyOmZmNzU6NzpiNzk6OmI0YjRdIIhxeSuGQHwchZdstQqcoKD_RAuV4w8Qr_1XmXFZucGEGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-madrid-ipv4
-
-DNSCry.pt Madrid - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTUuMTM0LjExOS4yNDYgJbmq1K1l2Xn23vnFtmTu5lSXsfl0y4x4e-9ntiRYtlcZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-madrid-ipv6
-
-DNSCry.pt Madrid - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTAzOmM3YzA6MzM6NDU6OmIwY10gJbmq1K1l2Xn23vnFtmTu5lSXsfl0y4x4e-9ntiRYtlcZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-miami-ipv4
 
 DNSCry.pt Miami - no filter, no logs, DNSSEC support (IPv4 server)
@@ -1839,15 +1793,6 @@ Blocks adult content and enforces safe search on major search engines.
 For further customization look here: https://dnswarden.com/customfilter.html
 
 sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
-
-
-## dnswarden-uncensor-dc
-
-Hosted in multiple locations.
-For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
-Note: Anonymized DNS may not work for this server.
-
-sdns://AQcAAAAAAAAADDEzNy42Ni42LjE0NiDg_LCuCApY3CtucAKfyQyqk3g9NAq607r906qVDWVBLiwyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLXVuY2Vuc29yZWQtYW55Y2FzdA
 
 
 ## dnswarden-uncensor-dc-swiss
