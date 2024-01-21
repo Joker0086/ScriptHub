@@ -2,9 +2,12 @@
 - [~~https://github.com/v2ray/v2ray-core~~](https://github.com/v2ray/v2ray-core/)
 - [https://github.com/v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
 
-## `dlc.dat` = `geosite.dat`
+## `dlc.dat`
 - [~~https://github.com/v2ray/domain-list-community/~~](https://github.com/v2ray/domain-list-community)
 - [https://github.com/v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+
+## `geosite.dat`
+- [https://github.com/Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom)
 
 ## `geoip.dat`
 - [~~https://github.com/v2ray/geoip/~~](https://github.com/v2ray/geoip)
