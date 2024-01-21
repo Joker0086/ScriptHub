@@ -7,7 +7,7 @@
 - [https://github.com/v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
 
 ## `geosite.dat`
-- [https://github.com/Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom)
+- [https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
 ## `geoip.dat`
 - [~~https://github.com/v2ray/geoip/~~](https://github.com/v2ray/geoip)
