@@ -214,7 +214,7 @@ sudo_with_password=false
 timezone=UTC
 ntp=time.google.com
 disk_partitioning=true
-disk=
+disk="/dev/$(lsblk -no PKNAME "$(df /boot | grep -Eo '/dev/[a-z0-9]+')")"
 force_gpt=true
 efi=
 esp=106
@@ -791,6 +791,7 @@ d-i partman-partitioning/confirm_write_new_label boolean true
 d-i partman/choose_partition select finish
 d-i partman/confirm boolean true
 d-i partman/confirm_nooverwrite boolean true
+d-i partman-lvm/device_remove_lvm boolean true
 EOF
 }
 
@@ -914,6 +915,7 @@ EOF
         # shellcheck disable=SC2016
         echo 'zz_debi=/etc/default/grub.d/zz-debi.cfg; if [ -f "$zz_debi" ]; then . "$zz_debi"; fi' >> /etc/default/grub
         grub_cfg=/boot/grub2/grub.cfg
+        [ -d /sys/firmware/efi ] && grub_cfg=/boot/efi/EFI/*/grub.cfg
         grub2-mkconfig -o "$grub_cfg"
     elif command_exists grub-mkconfig; then
         tmp=$(mktemp)
