@@ -440,48 +440,6 @@ Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
 sdns://gRQxMjkuMTUxLjIyNC4xODI6NTM1Mw
 
 
-## anon-gombadi-chennai
-
-Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMjMyLjk3LjE5Ng
-
-
-## anon-gombadi-singapore
-
-Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMTA0LjQ0LjEyMA
-
-
-## anon-gombadi-sydney
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xOTQuMTk1LjEyNC40MQ
-
-
-## anon-gombadi-sydney-ipv6
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gSBbMjQwMDo4OTA3OjpmMDNjOjkzZmY6ZmVjNDo4YzQyXQ
-
-
-## anon-gombadi-tokyo
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ8yMDIuMTgyLjExMS4yMzQ
-
-
-## anon-gombadi-tokyo-ipv6
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gShbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVd
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -862,24 +820,6 @@ DNSCry.pt Düsseldorf - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serve
 https://www.dnscry.pt
 
 sdns://gRhbMmEwZjo1NzA3OmFhODE6NWUzYzo6MV0
-
-
-## dnscry.pt-anon-ebene-ipv4
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xMDIuMjIyLjEwNi4xNjU
-
-
-## dnscry.pt-anon-ebene-ipv6
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmMwZjplOGY4OjIwMDA6MjMzOjphMzliOjcxMjNd
 
 
 ## dnscry.pt-anon-eygelshoven-ipv4
@@ -1771,24 +1711,6 @@ DNSCry.pt Taos - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRtbMjYwNjo2NjgwOjUzOjE6Ojg0NmE6YmQ3OV0
-
-
-## dnscry.pt-anon-tokyo-ipv4
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw4NC4zMy4xMi4xNTg
-
-
-## dnscry.pt-anon-tokyo-ipv6
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMmEwYzo4ZmMxOjY0NDE6OjQxMjphYjM0XQ
 
 
 ## dnscry.pt-anon-tokyo02-ipv4
