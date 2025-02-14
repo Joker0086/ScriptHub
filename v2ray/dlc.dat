@@ -5126,7 +5126,7 @@ yandex.org	yandex.pl	yandex.ru	yandex.st	yandex.sx	yand
 CATEGORY-CONTAINER
 azurecr.io	docker.ioecr.aws
 gcr.ioghcr.iomcr.microsoft.comquay.ioregistry.gitlab.comregistry.k8s.io)%.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
-ˆ
+˜
 CATEGORY-CRYPTOCURRENCYasproex.comasproexapi.com
 binance.ccbinance.charitybinance.cloud
 binance.cobinance.combinance.info
@@ -5139,7 +5139,9 @@ byd3c3.com	bybit.biz
 bybdc6.combybit-global.combybit.cloudbybitglobal.combybit-exchange.github.iobybit.ada.supportcoinone.co.krcoinonecore.comcoinonecorp.comderibit.comderibit.cdn.prismic.io
 devcon.orgethereum.foundationethereum.orgetherscan.iogate.iogatedata.orggateimg.comgateio.livegateio.serviceshtx.com
 hbabit.com
-hbfile.net	huobi.comhuobi.me	huobi.prohuobi.schuobiasia.viphuobigroup.comhuobitoken.comlocalbitcoins.comlocalbitcoinschain.comokex.comokx.comokx-dns.comokx-dns1.comokx-dns2.com
+hbfile.net	huobi.comhuobi.me	huobi.prohuobi.schuobiasia.viphuobigroup.comhuobitoken.com
+kraken.com
+kraken.onllocalbitcoins.comlocalbitcoinschain.comokex.comokx.comokx-dns.comokx-dns1.comokx-dns2.com
 oklink.com
 cnonekey-asset.com	onekey.soonekeycn.comonekey.zendesk.comwisecoin.com
 wiseid.comwisekey.comwisekey.com.hkwyndlabs.aiwynd.network
@@ -5154,7 +5156,6 @@ crypto.comcryptocompare.comcurve.fi
 cyberx.com
 debank.comdogecoin.comdydx.exchangefundingrates.xyz
 gemini.comhashflow.com	infura.io	invity.iomaple.financemetalpha.financemexc.commexcsensors.commytokenapi.com
-kraken.com
 opensea.ioosl.com
 paxful.com
 ripple.comsatoshilabs.comtheblock.co	trezor.io	truefi.io	unisat.iouniswap.orgwalletconnect.comwintermute.com	zapper.fi
@@ -5475,11 +5476,12 @@ magedu.comoldboyedu.com	eduei.com
 CATEGORY-EDUCATION-IRfaradars.org
 git.ir
 learnby.irtoplearn.comdone.iriranlms.orgwebinarplus.online
-¥
+å
 CATEGORY-ENHANCE-GAMINGplaycover.ioplaycover.workers.dev
 fflogs.comrpglogs.com
 rpglogs.cn
-cnbluestacks.comlsplayer.com
+cnthetrackernetwork.com
+tracker.ggtracker.networkbluestacks.comlsplayer.com
 cn
 yeshen.com
 cnmaa.plus	prts.plusheavenlywind.cc
@@ -12034,7 +12036,7 @@ gcores.com
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-ÿ®#
+Ï¯#
 GEOLOCATION-!CNanthropic.com	claude.aiclaudeusercontent.com%!servd-anthropic-website.b-cdn.netdeepmind.comdeepmind.googlegeller-pa.googleapis.com%!generativelanguage.googleapis.com&"proactivebackend-pa.googleapis.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.comgenerativeai.googlemakersuite.google.comaistudio.google.combard.google.comgemini.google.comgroq.comchatgpt.comchat.comoaistatic.comoaiusercontent.com
 openai.comsora.com!openai.com.cdn.cloudflare.net openaiapi-site.azureedge.net2.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net1-openaicomproductionae4b.blob.core.windows.net.*production-openaicom-storage.azureedge.net=9^chatgpt-async-webps-prod-\s+-\d+\.webpubsub\.azure\.com$$o33249.ingest.sentry.io
 ads openaicom.imgix.net
@@ -12419,7 +12421,9 @@ byd3c3.com	bybit.biz
 bybdc6.combybit-global.combybit.cloudbybitglobal.combybit-exchange.github.iobybit.ada.supportcoinone.co.krcoinonecore.comcoinonecorp.comderibit.comderibit.cdn.prismic.io
 devcon.orgethereum.foundationethereum.orgetherscan.iogate.iogatedata.orggateimg.comgateio.livegateio.serviceshtx.com
 hbabit.com
-hbfile.net	huobi.comhuobi.me	huobi.prohuobi.schuobiasia.viphuobigroup.comhuobitoken.comlocalbitcoins.comlocalbitcoinschain.comokex.comokx.comokx-dns.comokx-dns1.comokx-dns2.com
+hbfile.net	huobi.comhuobi.me	huobi.prohuobi.schuobiasia.viphuobigroup.comhuobitoken.com
+kraken.com
+kraken.onllocalbitcoins.comlocalbitcoinschain.comokex.comokx.comokx-dns.comokx-dns1.comokx-dns2.com
 oklink.com
 cnonekey-asset.com	onekey.soonekeycn.comonekey.zendesk.comwyndlabs.aiwynd.network
 zb.app
@@ -12433,7 +12437,6 @@ crypto.comcryptocompare.comcurve.fi
 cyberx.com
 debank.comdogecoin.comdydx.exchangefundingrates.xyz
 gemini.comhashflow.com	infura.io	invity.iomaple.financemetalpha.financemexc.commexcsensors.commytokenapi.com
-kraken.com
 opensea.ioosl.com
 paxful.com
 ripple.comsatoshilabs.comtheblock.co	trezor.io	truefi.io	unisat.iouniswap.orgwalletconnect.comwintermute.com	zapper.fi	adidas.at	adidas.be	adidas.chadidas.co.inadidas.co.uk
@@ -14695,7 +14698,8 @@ chrome.comchromium.orgbasilisk-browser.org	brave.combromi
 floorp.appiridiumbrowser.dekiwibrowser.comkmeleonbrowser.orglibrewolf.netminbrowser.orgnetsurf-browser.org	opera.compalemoon.orgpulsebrowser.appqutebrowser.orgvivaldi.comwaterfox.net
 fflogs.comrpglogs.com
 rpglogs.cn
-cnbluestacks.comlsplayer.com
+cnthetrackernetwork.com
+tracker.ggtracker.networkbluestacks.comlsplayer.com
 cn
 yeshen.com
 cnmaa.plus	prts.plusheavenlywind.cc
@@ -19127,6 +19131,10 @@ knovel.com
 =
 KOOLEARN
 koocdn.comkoolearn.comkoopass.com
+(
+KRAKEN
+kraken.com
+kraken.onl
 2
 KU6ku6.com
 ku6cdn.com
@@ -21959,6 +21967,9 @@ A
  
 
 TORPROJECTtorproject.org
+P
+TRACKERNETWORKthetrackernetwork.com
+tracker.ggtracker.network
 =
 TRANSLATEWIKItranslatewiki.nettranslatewiki.org
 +
