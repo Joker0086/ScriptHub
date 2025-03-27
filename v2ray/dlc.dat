@@ -696,6 +696,7 @@ webkit.orgwebkitgtk.orgwpewebkit.orgwebobjects.com-)applew
 cnocsp.apple.com
 cn)ocsp2-lb.apple.com.akadns.net
 cnocsp2.apple.com
+cnvalid.apple.com
 cn!apple-tv-plus-press.apple.comhls-amt.itunes.apple.comhls.itunes.apple.comnp-edge.itunes.apple.complay-edge.itunes.apple.comtv.applemusic.comuts-api.itunes.apple.comtv.apple.comappldnld.apple.comgg.apple.comgnf-mdn.apple.comgnf-mr.apple.comgs.apple.comig.apple.commesu.apple.comns.itunes.apple.comoscdn.apple.comosrecovery.apple.comskl.apple.comswcdn.apple.comswdist.apple.comswdownload.apple.comswpost.apple.comswscan.apple.comupdates-http.cdn-apple.comupdates.cdn-apple.comxp.apple.com100beatscheap.com1monsterbeatsbydreus.com2013beatsbydrdreonline.com2013beatsbydrdreshop.com2013beatsbydreshop.com2013beatshdcybermonday.com2013cheapestbeats.com2013newbeatsworld.com2013pascherbeatsbydre.com2014cheapbeatsbydre.com2beatsdre.com2buybeatsbydre.com2drdrebeats.com40shopping.com4beatsbydre.com5beatsbydre.comaaagradeheadphones.com
 aanaan.comabcheadphones.comabeatsbydrdre.comaeasyshop.com
 airmay.com
@@ -1077,7 +1078,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
-cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -1105,7 +1105,7 @@ swiftui.cn
 webkit.orgwebkitgtk.orgwpewebkit.orgwebobjects.com-)appleworldwidedeveloper.hb-api.omtrdc.net)%appleworldwidedeveloper.sc.omtrdc.net#p-events-delivery.akamaized.net
 s
 APPLE-INTELLIGENCE"apple-relay.mask.apple-dns.netapple-relay.apple.comapple-relay.cloudflare.com
-¥
+Β
 	APPLE-PKI)certs-lb.apple.com.akadns.net
 cncerts.apple.com
 cn'crl-lb.apple.com.akadns.net
@@ -1114,6 +1114,7 @@ s
 cnocsp.apple.com
 cn)ocsp2-lb.apple.com.akadns.net
 cnocsp2.apple.com
+cnvalid.apple.com
 cn
 ξ
 APPLE-TVPLUS!apple-tv-plus-press.apple.comhls-amt.itunes.apple.comhls.itunes.apple.comnp-edge.itunes.apple.complay-edge.itunes.apple.comtv.applemusic.comuts-api.itunes.apple.comtv.apple.com
@@ -3837,7 +3838,7 @@ nobitex.irok-ex.ioompfinex.comramzinex.comtabdeal.org
 chrome
 chrome.comchromium.orgbasilisk-browser.org	brave.combromite.orgbrowser.kagi.comcromite.orgdecentr.net	dothq.org
 floorp.appiridiumbrowser.dekiwibrowser.comkmeleonbrowser.orglibrewolf.netminbrowser.orgnetsurf-browser.org	opera.compalemoon.orgpulsebrowser.appqutebrowser.orgvivaldi.comwaterfox.net
-‡>
+½G
 CATEGORY-CASactalis.com
 actalis.itamazontrust.comawstrust.com
 ss2.us)certs-lb.apple.com.akadns.net
@@ -3848,20 +3849,22 @@ actalis.itamazontrust.comawstrust.com
 cnocsp.apple.com
 cn)ocsp2-lb.apple.com.akadns.net
 cnocsp2.apple.com
+cnvalid.apple.com
 cnbuypass-ssl.combuypass.com
 buypass.no
-buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com
-comodo.com
-comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jp	dcocsp.cn
+buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com	dcocsp.cn
 cndigicert-cn.comdigicert-validation.comdigicert.cn
-cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
-thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.comentrust.netentrustdatacard.comaffirmtrust.comatos.net
+cndigicert.co.jpdigicert.comdigicert.eudigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
+thawte.com	thawte.de	thawte.frcybertrust.co.jpcybertrust.ne.jpadobe-crl.verisign.comcertipath-aia.verisign.comcertipath-crl.verisign.comcrl.verisign.comcsc3-2004-aia.verisign.comcsc3-2004-crl.verisign.com csc3-2009-2-aia.verisign.com csc3-2009-2-crl.verisign.comcsc3-2009-aia.verisign.comcsc3-2009-crl.verisign.comcsc3-2010-aia.verisign.comcsc3-2010-crl.verisign.comeca-client-crl.verisign.com eca-client-ocsp.verisign.comevintl-aia.verisign.comevintl-crl.verisign.comevintl-ocsp.verisign.comevintl-t1-crl.verisign.comevsecure-aia.verisign.comevsecure-crl.verisign.comevsecure-ocsp.verisign.com evsecure-t1-aia.verisign.com evsecure-t1-crl.verisign.comocsp.verisign.comonsitecrl.verisign.comorgc3-crl.verisign.compki-ocsp.verisign.comssp-aia.verisign.comssp-crl.verisign.comssp-ocsp.verisign.comsvr-wimax-ocsp.verisign.comsvrintl-aia.verisign.comsvrintl-crl.verisign.comsvrintl-g3-aia.verisign.comsvrintl-g3-crl.verisign.comsvrintl-t1-aia.verisign.comsvrintl-t1-crl.verisign.comsvrsecure-aia.verisign.comsvrsecure-crl.verisign.com!svrsecure-g2-aia.verisign.com!svrsecure-g2-crl.verisign.com!svrsecure-g3-aia.verisign.com!svrsecure-g3-crl.verisign.com%!svrsecure-oracle-aia.verisign.com%!svrsecure-oracle-crl.verisign.com&"svrsecure-oracle-ocsp.verisign.com!svrsecure-t1-aia.verisign.com!svrsecure-t1-crl.verisign.com svrtrial-g2-aia.verisign.com svrtrial-g2-crl.verisign.compki.symantec.comsymauth.com	symcb.com	symcd.comws.symantec.comquovadisglobal.compublic-trust.comomniroot.com
+entrust.cnentrust.comentrust.netentrustdatacard.comwww.entrust.cn
+cnaffirmtrust.comatos.net
 myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl.com
 cneasy-signing.com
 cnglobalsign-media.comglobalsign.beglobalsign.chglobalsign.cloudglobalsign.cn
 cnglobalsign.co.ukglobalsign.com
 cnglobalsign.com.auglobalsign.com.brglobalsign.com.hkglobalsign.com.sgglobalsign.esglobalsign.euglobalsign.frglobalsign.netglobalsign.nlglobalsigncdn.com
 cn4(cdn.globalsigncdn.com.cdn.cloudflare.net
+cncrl.globalsign.net
 cngodaddy.comx.cogodaddypki.goog!pki-goog.l.google.com
 cn
 c.pki.goog
@@ -3872,18 +3875,18 @@ o.pki.goog
 cnpublicca.googleapis.com#preprod-publicca.googleapis.comclients1.google.compki.google.comcrl.pki.goog
 cncrls.pki.goog
 cnocsp.pki.goog
-cneca.hinet.netgtlsca.nat.gov.twhongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
+cneca.hinet.netgtlsca.nat.gov.twpki.hinet.netpublicca.hinet.nettls.hinet.nethongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnsecom.co.jpsecomtrust.netcybertrust.co.jpcybertrust.ne.jpmanagedpki.ne.jpenterprisessl.comhackerguardian.cominstantssl.com	oemssl.cn
 cn(oemssl.cn.cdn.cloudflare.net
 cnoptimumssl.compositivessl.comsectigo.comsectigochina.com
 cn/#sectigochina.com.cdn.cloudflare.net
 cntrust-provider.cn
-cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.comssl.com	sslcom.cn
+cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.comcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comssl.com	sslcom.cn
 cnstarfieldtech.comdigital-id.chdigitalid.chmanaged-pki.chmanaged-pki.depki-post.chpki-posta.chpki-poste.chroot-signing.chrootsigning.comssl-certificate.ch
-swissid.chswissign.comswissign.liswisssign-group.chswisssign-group.comswisssign-group.liswisssign.chswisssign.comswisssign.liswisssign.netswisssign.orgswisssigner.chswisssigner.comswisssigngroup.chswisssigngroup.comswissstick.comswisstsa.chswisstsa.litrustdoc.chtrustsign.chzert.chmanagedpki.comsymantec.com	symcb.com	symcd.comtelekom.com
+swissid.chswissign.comswissign.liswisssign-group.chswisssign-group.comswisssign-group.liswisssign.chswisssign.comswisssign.liswisssign.netswisssign.orgswisssigner.chswisssigner.comswisssigngroup.chswisssigngroup.comswissstick.comswisstsa.chswisstsa.litrustdoc.chtrustsign.chzert.chtelekom.com
 telekom.de
-telesec.detrustwave.comtwca.com.twverisign.asiaverisign.bizverisign.chverisign.co.inverisign.co.ukverisign.comverisign.com.auverisign.com.brverisign.com.cnverisign.com.esverisign.com.hkverisign.com.sgverisign.com.twverisign.com.vnverisign.deverisign.dkverisign.esverisign.frverisign.hkverisign.inverisign.infoverisign.jobsverisign.mobiverisign.nameverisign.netverisign.orgverisign.proverisign.severisign.sgverisign.twverisign.usverisign.vnverisigninc.com
+telesec.detrustwave.comtwca.com.tw
 flickrflic.kr
 flickr.com
 flickr.netstaticflickr.comads.yahoo.com
@@ -3895,8 +3898,8 @@ flickr.netstaticflickr.comads.yahoo.com
 myguide.hktechcrunch.comyahoo-news.com.hkyahooapis.comyahoodns.netyahoofinance.comyahoohealth.comyahoomusic.comyahoosandbox.comyahoosportsbook.comyho.comyimg.comyimg.jp	ymail.comyusercontent.comcdn.js7k.com
 oath.cloudoath.comouroath.comstatic-verizon.com
 uplynk.comverizon.comverizon.netverizonbusinessfios.comverizondigitalmedia.comverizonenterprise.comverizonfios.comverizonmedia.comverizonwireless.comvzw.com
-xo.comomniroot.commyvodafone.com.aumyvodafone.com.wsvodafone.co.ukvodafone.comvodafone.com.auvodafone.com.trvodafone.devodafone.itwisecoin.com
-wiseid.comwisekey.comwisekey.com.hkaccv.escamerfirma.comcertsign.rod-trust.nete-szigno.hue-tugra.comfirmaprofesional.comfnmt.es	harica.grinfocert.digitalinfocert.it
+xo.commyvodafone.com.aumyvodafone.com.wsvodafone.co.ukvodafone.comvodafone.com.auvodafone.com.trvodafone.devodafone.itwisecoin.com
+wiseid.comwisekey.comwisekey.com.hkaccv.escamerfirma.comcertsign.rod-trust.nete-szigno.hue-tugra.comfirmaprofesional.comfnmt.es	harica.grinfocert.digitalinfocert.itmanagedpki.com
 netlock.hutrustcor.catrustcor.comtrustisfps.com
 Φ
 CATEGORY-COLLABORATE-CNoray.comoray.net
@@ -3923,7 +3926,7 @@ telesco.pe
 tg.dev	tx.meusercontent.devgraph.whatsapp.com
 adsgraph.whatsapp.net
 ads	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
-Υ‚
+
 
 CATEGORY-COMPANIESacer-group.comacer.comacer.com.cn
 cn3dns-1.adobe.com3dns-2.adobe.com3dns-3.adobe.com3dns-4.adobe.com3dns-5.adobe.com3dns.adobe.comactivate-sea.adobe.comactivate-sjc0.adobe.comactivate.adobe.comactivate.wip1.adobe.comactivate.wip2.adobe.comactivate.wip3.adobe.comactivate.wip4.adobe.comadobe-dns-1.adobe.comadobe-dns-2.adobe.comadobe-dns-3.adobe.comadobe-dns-4.adobe.comadobe-dns.adobe.comadobeereg.comcrl.versign.netereg.adobe.comereg.wip.adobe.comereg.wip1.adobe.comereg.wip2.adobe.comereg.wip3.adobe.comereg.wip4.adobe.comhl2rcv.adobe.comhlrcv.stage.adobe.comlm.licenses.adobe.comlmlicenses.wip4.adobe.comna1r.services.adobe.comood.opsource.netpractivate.adobepractivate.adobe.compractivate.adobe.ipppractivate.adobe.newoapractivate.adobe.ntpwip.adobe.comwip1.adobe.comwip2.adobe.comwip3.adobe.comwip4.adobe.comwwis-dubc1-vip100.adobe.comwwis-dubc1-vip101.adobe.comwwis-dubc1-vip102.adobe.comwwis-dubc1-vip103.adobe.comwwis-dubc1-vip104.adobe.comwwis-dubc1-vip105.adobe.comwwis-dubc1-vip106.adobe.comwwis-dubc1-vip107.adobe.comwwis-dubc1-vip108.adobe.comwwis-dubc1-vip109.adobe.comwwis-dubc1-vip110.adobe.comwwis-dubc1-vip111.adobe.comwwis-dubc1-vip112.adobe.comwwis-dubc1-vip113.adobe.comwwis-dubc1-vip114.adobe.comwwis-dubc1-vip115.adobe.comwwis-dubc1-vip116.adobe.comwwis-dubc1-vip117.adobe.comwwis-dubc1-vip118.adobe.comwwis-dubc1-vip119.adobe.comwwis-dubc1-vip120.adobe.comwwis-dubc1-vip121.adobe.comwwis-dubc1-vip122.adobe.comwwis-dubc1-vip123.adobe.comwwis-dubc1-vip124.adobe.comwwis-dubc1-vip125.adobe.comwwis-dubc1-vip30.adobe.comwwis-dubc1-vip31.adobe.comwwis-dubc1-vip32.adobe.comwwis-dubc1-vip33.adobe.comwwis-dubc1-vip34.adobe.comwwis-dubc1-vip35.adobe.comwwis-dubc1-vip36.adobe.comwwis-dubc1-vip37.adobe.comwwis-dubc1-vip38.adobe.comwwis-dubc1-vip39.adobe.comwwis-dubc1-vip40.adobe.comwwis-dubc1-vip41.adobe.comwwis-dubc1-vip42.adobe.comwwis-dubc1-vip43.adobe.comwwis-dubc1-vip44.adobe.comwwis-dubc1-vip45.adobe.comwwis-dubc1-vip46.adobe.comwwis-dubc1-vip47.adobe.comwwis-dubc1-vip48.adobe.comwwis-dubc1-vip49.adobe.comwwis-dubc1-vip50.adobe.comwwis-dubc1-vip51.adobe.comwwis-dubc1-vip52.adobe.comwwis-dubc1-vip53.adobe.comwwis-dubc1-vip54.adobe.comwwis-dubc1-vip55.adobe.comwwis-dubc1-vip56.adobe.comwwis-dubc1-vip57.adobe.comwwis-dubc1-vip58.adobe.comwwis-dubc1-vip59.adobe.comwwis-dubc1-vip60.adobe.comwwis-dubc1-vip61.adobe.comwwis-dubc1-vip62.adobe.comwwis-dubc1-vip63.adobe.comwwis-dubc1-vip64.adobe.comwwis-dubc1-vip65.adobe.comwwis-dubc1-vip66.adobe.comwwis-dubc1-vip67.adobe.comwwis-dubc1-vip68.adobe.comwwis-dubc1-vip69.adobe.comwwis-dubc1-vip70.adobe.comwwis-dubc1-vip71.adobe.comwwis-dubc1-vip72.adobe.comwwis-dubc1-vip73.adobe.comwwis-dubc1-vip74.adobe.comwwis-dubc1-vip75.adobe.comwwis-dubc1-vip76.adobe.comwwis-dubc1-vip77.adobe.comwwis-dubc1-vip78.adobe.comwwis-dubc1-vip79.adobe.comwwis-dubc1-vip80.adobe.comwwis-dubc1-vip81.adobe.comwwis-dubc1-vip82.adobe.comwwis-dubc1-vip83.adobe.comwwis-dubc1-vip84.adobe.comwwis-dubc1-vip85.adobe.comwwis-dubc1-vip86.adobe.comwwis-dubc1-vip87.adobe.comwwis-dubc1-vip88.adobe.comwwis-dubc1-vip89.adobe.comwwis-dubc1-vip90.adobe.comwwis-dubc1-vip91.adobe.comwwis-dubc1-vip92.adobe.comwwis-dubc1-vip93.adobe.comwwis-dubc1-vip94.adobe.comwwis-dubc1-vip95.adobe.comwwis-dubc1-vip96.adobe.comwwis-dubc1-vip97.adobe.comwwis-dubc1-vip98.adobe.comwwis-dubc1-vip99.adobe.com"advertising.adobe.com
@@ -4032,6 +4035,7 @@ webkit.orgwebkitgtk.orgwpewebkit.orgwebobjects.com-)applew
 cnocsp.apple.com
 cn)ocsp2-lb.apple.com.akadns.net
 cnocsp2.apple.com
+cnvalid.apple.com
 cn!apple-tv-plus-press.apple.comhls-amt.itunes.apple.comhls.itunes.apple.comnp-edge.itunes.apple.complay-edge.itunes.apple.comtv.applemusic.comuts-api.itunes.apple.comtv.apple.comappldnld.apple.comgg.apple.comgnf-mdn.apple.comgnf-mr.apple.comgs.apple.comig.apple.commesu.apple.comns.itunes.apple.comoscdn.apple.comosrecovery.apple.comskl.apple.comswcdn.apple.comswdist.apple.comswdownload.apple.comswpost.apple.comswscan.apple.comupdates-http.cdn-apple.comupdates.cdn-apple.comxp.apple.com100beatscheap.com1monsterbeatsbydreus.com2013beatsbydrdreonline.com2013beatsbydrdreshop.com2013beatsbydreshop.com2013beatshdcybermonday.com2013cheapestbeats.com2013newbeatsworld.com2013pascherbeatsbydre.com2014cheapbeatsbydre.com2beatsdre.com2buybeatsbydre.com2drdrebeats.com40shopping.com4beatsbydre.com5beatsbydre.comaaagradeheadphones.com
 aanaan.comabcheadphones.comabeatsbydrdre.comaeasyshop.com
 airmay.com
@@ -4413,7 +4417,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
-cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -4468,7 +4471,9 @@ mysdn.info	mysdn.netnetacad.comnetacad.netnetwork-auth.cn
 versly.comvideochampion.comvirtuata.comwballiance.com!whyiwantciscotelepresence.comwifi-mx.comyoutubecisco.comapp-dynamics.comappdynamics.co.ukappdynamics.comappdynamics.deappdynamics.frappdynamics.infoappdynamics.jpappdynamics.org
 mearki.commeraki-go.com	meraki.hkmerakigo.com
 tail-f.com	tailf.comcisco.evergage.comciscolivehls-i.akamaihd.netumbrella.comopendns.comclco.cc
-cloudc.onecloudcone.comcloudcone.netcollabora.co.ukcollabora.comcollabora.orgcollaboraoffice.com	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
+cloudc.onecloudcone.comcloudcone.netcollabora.co.ukcollabora.comcollabora.orgcollaboraoffice.com
+comodo.com
+comodo.net	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
 cfblob.comcloudchoose.comcloudvolumes.com
 cmpaas.com
 cpedge.comcrit-staging.comexperience-vmware.comgemfire.netgeodesummit.comgetboxer.comgitstar.comgitstar.netgopivotal.netgreenplum.nethwslabs.comimmidio.comitfromtheinside.comlatamvmwareforum.compivotalinitiative.comsnapvolumes.comssdevrd.comvcanedge.comvcloudair.netvfabric.netvidmpreview.com
@@ -4878,7 +4883,7 @@ webrtc.orgweltweitwachsen.dewhatbrowser.org	whats.newwide
 cngvt2-cn.com
 cngroq.comfirst-ns.dehetzner.cloudhetzner.comhetzner.company
 hetzner.dehtznr.lisecond-ns.comsecond-ns.deyour-objectstorage.comyour-server.deyour-storagebox.deyour-storageshare.de#sentry.hetzner.company
-adseca.hinet.netgtlsca.nat.gov.tw
+adseca.hinet.netgtlsca.nat.gov.twpki.hinet.netpublicca.hinet.nettls.hinet.net
 cht.com.twchtf.org.tw	emome.net	hinet.net	xuite.netcsifund.orghkbn.com.hkhkbn.net
 hkbnes.netjos.comspeedtest.com.hk
 123-hp.com123hplaserjet.com8008206616.comas-hp.cabaterias-hp.comcampushp.comcolorprotechnology.com
@@ -5246,7 +5251,7 @@ spacex.comspacemail.comspaceship.com
 st.com%stmicroelectronics.com.cn
 cn	gofile.mequickconnect.tosynology.comsynologydownload.comsynologyupdate.comquickconnect.cn
 cnsynology.cn
-cntailscale.comtailscale.io
+cnsymantec.comtailscale.comtailscale.io
 ts.netboringcompany.cominternetdownloadmanager.comregisteridm.com	tonec.comuber-assets.comuber.comubereats.comamplifi.comamplifi.com.cn
 cnfrontrow.com.cn
 cnfrontrow.comubncloud.comubnt.com
@@ -5256,10 +5261,10 @@ spacex.comspacemail.comspaceship.com
 cnuisp.com
 uum.com.cn
 cnuwn.com
-cnwifiman.com
+cnwifiman.comverisign.asiaverisign.bizverisign.chverisign.co.inverisign.co.ukverisign.comverisign.com.auverisign.com.brverisign.com.cnverisign.com.esverisign.com.hkverisign.com.sgverisign.com.twverisign.com.vnverisign.deverisign.dkverisign.esverisign.frverisign.hkverisign.inverisign.infoverisign.jobsverisign.mobiverisign.nameverisign.netverisign.orgverisign.proverisign.severisign.sgverisign.twverisign.usverisign.vnverisigninc.com
 oath.cloudoath.comouroath.comstatic-verizon.com
 uplynk.comverizon.comverizon.netverizonbusinessfios.comverizondigitalmedia.comverizonenterprise.comverizonfios.comverizonmedia.comverizonwireless.comvzw.com
-xo.comomniroot.com	vultr.comg-technology.com
+xo.com	vultr.comg-technology.com
 sandisk.ae
 sandisk.it
 sandisk.cn
@@ -11681,10 +11686,10 @@ _
 	COLLABORAcollabora.co.ukcollabora.comcollabora.orgcollaboraoffice.com
 5
 COLORFULCLOUDScaiyunai.comcaiyunapp.com
-s
+(
 COMODO
 comodo.com
-comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.com
+comodo.net
 τ
 CONNECTIVITY-CHECKping.archlinux.orgcaptive.apple.com!connectivitycheck.gstatic.comcp.cloudflare.comnetwork-test.debian.orgdetectportal.firefox.com/+connectivitycheck.platform.hihonorcloud.com*&connectivitycheck.platform.hicloud.comnetworkcheck.kde.orgconnect.rom.miui.commsftconnecttest.commsftncsi.com
 3
@@ -11845,11 +11850,11 @@ DEVIANTARTdeviantart.comdeviantart.netda-files.com
 !cndidimobility.co.jp
 !cndidistatic.comdiditaxi.com.cn
 udache.comxiaojukeji.com
-®
+¤
 DIGICERT	dcocsp.cn
 cndigicert-cn.comdigicert-validation.comdigicert.cn
-cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
-thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.com
+cndigicert.co.jpdigicert.comdigicert.eudigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
+thawte.com	thawte.de	thawte.frcybertrust.co.jpcybertrust.ne.jpadobe-crl.verisign.comcertipath-aia.verisign.comcertipath-crl.verisign.comcrl.verisign.comcsc3-2004-aia.verisign.comcsc3-2004-crl.verisign.com csc3-2009-2-aia.verisign.com csc3-2009-2-crl.verisign.comcsc3-2009-aia.verisign.comcsc3-2009-crl.verisign.comcsc3-2010-aia.verisign.comcsc3-2010-crl.verisign.comeca-client-crl.verisign.com eca-client-ocsp.verisign.comevintl-aia.verisign.comevintl-crl.verisign.comevintl-ocsp.verisign.comevintl-t1-crl.verisign.comevsecure-aia.verisign.comevsecure-crl.verisign.comevsecure-ocsp.verisign.com evsecure-t1-aia.verisign.com evsecure-t1-crl.verisign.comocsp.verisign.comonsitecrl.verisign.comorgc3-crl.verisign.compki-ocsp.verisign.comssp-aia.verisign.comssp-crl.verisign.comssp-ocsp.verisign.comsvr-wimax-ocsp.verisign.comsvrintl-aia.verisign.comsvrintl-crl.verisign.comsvrintl-g3-aia.verisign.comsvrintl-g3-crl.verisign.comsvrintl-t1-aia.verisign.comsvrintl-t1-crl.verisign.comsvrsecure-aia.verisign.comsvrsecure-crl.verisign.com!svrsecure-g2-aia.verisign.com!svrsecure-g2-crl.verisign.com!svrsecure-g3-aia.verisign.com!svrsecure-g3-crl.verisign.com%!svrsecure-oracle-aia.verisign.com%!svrsecure-oracle-crl.verisign.com&"svrsecure-oracle-ocsp.verisign.com!svrsecure-t1-aia.verisign.com!svrsecure-t1-crl.verisign.com svrtrial-g2-aia.verisign.com svrtrial-g2-crl.verisign.compki.symantec.comsymauth.com	symcb.com	symcd.comws.symantec.comquovadisglobal.compublic-trust.comomniroot.com
 _
 DIGITALOCEANdigitalocean.comdigitaloceanspaces.com	do.conginxconfig.io
 P
@@ -12132,8 +12137,10 @@ enfamil.pl
 enfamil.ptenfasmart.comenspireformula.comnutramigen.netnutramigen.pl
 :
 ENTERMEDIADBentermediadb.netentermediadb.org
-
-ENTRUSTentrust.netentrustdatacard.comaffirmtrust.comatos.net
+Μ
+ENTRUST
+entrust.cnentrust.comentrust.netentrustdatacard.comwww.entrust.cn
+cnaffirmtrust.comatos.net
 myatos.netcertificat2.comtrendmicro.com
 "
 EPICBROWSERepicbrowser.com
@@ -12370,7 +12377,7 @@ gcores.com
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-ίδ#
+¤σ#
 GEOLOCATION-!CNanthropic.com	claude.aiclaudeusercontent.com%!servd-anthropic-website.b-cdn.netdeepmind.comdeepmind.googlegeller-pa.googleapis.com%!generativelanguage.googleapis.com&"proactivebackend-pa.googleapis.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.comgenerativeai.googlemakersuite.google.comaistudio.google.combard.google.comgemini.google.comgroq.com	hf.cohuggingface.cochatgpt.comchat.comoaistatic.comoaiusercontent.com
 openai.comsora.com!openai.com.cdn.cloudflare.net openaiapi-site.azureedge.net2.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net1-openaicomproductionae4b.blob.core.windows.net.*production-openaicom-storage.azureedge.net=9^chatgpt-async-webps-prod-\s+-\d+\.webpubsub\.azure\.com$$o33249.ingest.sentry.io
 ads openaicom.imgix.net
@@ -12611,7 +12618,8 @@ visa.co.zavisa.comvisa.com.agvisa.com.aivisa.com.ar
 visabg.comvisaeurope.atvisaeurope.chvisaeurope.luvisaeurope.sivisaitalia.comvisakorea.comvisamiddleeast.comvisasoutheasteurope.comfinlitsummit.orgmyvisaluxuryhotels.comvisainfinite.cavisainfiniteluxuryhotels.ca!visaluxuryhotelcollection.com$ visaluxuryhotelcollection.com.br$ visaluxuryhotelcollection.com.mxvisaluxuryhotels.comvisaluxuryhotels.com.arvisasignaturehotels.com($connaissancesfinancierespratiques.cadnsvisa.comeubluecardvisa.comfinancialsoccer.ca"financialsoccer.com.cn
 cnlightbridge.commiamifintechfestival.commhshosting.compracticalbusinessskills.compracticalmoneyskills.ca#practicalmoneyskills.cn
 cn'practicalmoneyskills.com.cn
-cnpracticalmoneyskills.jpsoccerfinancier.catorcidadeouro.comvaultify.comvaultify.infovaultify.netvisa-atm.comvisa-news.jpvisabank.orgvisabusinessinsights.comvisacarddesignlab.comvisacards.comvisacheckout.netvisacheckout.orgvisaconciergelac.comvisadigital.comvisadigitalconcierge.comvisadns.comvisadpsonline.usvisaeverywhereshop.comvisafintechfasttrack.comvisafulfillment.comvisagiftcard.usvisaglobalfinance.comvisaicsdirect.comvisainfinite.cavisainfinite.cn
+cnpracticalmoneyskills.jpsoccerfinancier.catorcidadeouro.comvaultify.comvaultify.infovaultify.netvisa-atm.comvisa-news.jpvisabank.orgvisabusinessinsights.com
+visaca.comvisacarddesignlab.comvisacards.comvisacheckout.netvisacheckout.orgvisaconciergelac.comvisadigital.comvisadigitalconcierge.comvisadns.comvisadpsonline.usvisaeverywhereshop.comvisafintechfasttrack.comvisafulfillment.comvisagiftcard.usvisaglobalfinance.comvisaicsdirect.comvisainfinite.cavisainfinite.cn
 cnvisanet.net
 visapay.cn
 cnvisapcsdirect.comvisaplatinum.cn
@@ -12684,20 +12692,22 @@ actalis.itamazontrust.comawstrust.com
 cnocsp.apple.com
 cn)ocsp2-lb.apple.com.akadns.net
 cnocsp2.apple.com
+cnvalid.apple.com
 cnbuypass-ssl.combuypass.com
 buypass.no
-buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com
-comodo.com
-comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jp	dcocsp.cn
+buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com	dcocsp.cn
 cndigicert-cn.comdigicert-validation.comdigicert.cn
-cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
-thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.comentrust.netentrustdatacard.comaffirmtrust.comatos.net
+cndigicert.co.jpdigicert.comdigicert.eudigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
+thawte.com	thawte.de	thawte.frcybertrust.co.jpcybertrust.ne.jpadobe-crl.verisign.comcertipath-aia.verisign.comcertipath-crl.verisign.comcrl.verisign.comcsc3-2004-aia.verisign.comcsc3-2004-crl.verisign.com csc3-2009-2-aia.verisign.com csc3-2009-2-crl.verisign.comcsc3-2009-aia.verisign.comcsc3-2009-crl.verisign.comcsc3-2010-aia.verisign.comcsc3-2010-crl.verisign.comeca-client-crl.verisign.com eca-client-ocsp.verisign.comevintl-aia.verisign.comevintl-crl.verisign.comevintl-ocsp.verisign.comevintl-t1-crl.verisign.comevsecure-aia.verisign.comevsecure-crl.verisign.comevsecure-ocsp.verisign.com evsecure-t1-aia.verisign.com evsecure-t1-crl.verisign.comocsp.verisign.comonsitecrl.verisign.comorgc3-crl.verisign.compki-ocsp.verisign.comssp-aia.verisign.comssp-crl.verisign.comssp-ocsp.verisign.comsvr-wimax-ocsp.verisign.comsvrintl-aia.verisign.comsvrintl-crl.verisign.comsvrintl-g3-aia.verisign.comsvrintl-g3-crl.verisign.comsvrintl-t1-aia.verisign.comsvrintl-t1-crl.verisign.comsvrsecure-aia.verisign.comsvrsecure-crl.verisign.com!svrsecure-g2-aia.verisign.com!svrsecure-g2-crl.verisign.com!svrsecure-g3-aia.verisign.com!svrsecure-g3-crl.verisign.com%!svrsecure-oracle-aia.verisign.com%!svrsecure-oracle-crl.verisign.com&"svrsecure-oracle-ocsp.verisign.com!svrsecure-t1-aia.verisign.com!svrsecure-t1-crl.verisign.com svrtrial-g2-aia.verisign.com svrtrial-g2-crl.verisign.compki.symantec.comsymauth.com	symcb.com	symcd.comws.symantec.comquovadisglobal.compublic-trust.comomniroot.com
+entrust.cnentrust.comentrust.netentrustdatacard.comwww.entrust.cn
+cnaffirmtrust.comatos.net
 myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl.com
 cneasy-signing.com
 cnglobalsign-media.comglobalsign.beglobalsign.chglobalsign.cloudglobalsign.cn
 cnglobalsign.co.ukglobalsign.com
 cnglobalsign.com.auglobalsign.com.brglobalsign.com.hkglobalsign.com.sgglobalsign.esglobalsign.euglobalsign.frglobalsign.netglobalsign.nlglobalsigncdn.com
 cn4(cdn.globalsigncdn.com.cdn.cloudflare.net
+cncrl.globalsign.net
 cngodaddy.comx.cogodaddypki.goog!pki-goog.l.google.com
 cn
 c.pki.goog
@@ -12708,22 +12718,22 @@ o.pki.goog
 cnpublicca.googleapis.com#preprod-publicca.googleapis.comclients1.google.compki.google.comcrl.pki.goog
 cncrls.pki.goog
 cnocsp.pki.goog
-cneca.hinet.netgtlsca.nat.gov.twhongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
+cneca.hinet.netgtlsca.nat.gov.twpki.hinet.netpublicca.hinet.nettls.hinet.nethongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnsecom.co.jpsecomtrust.netcybertrust.co.jpcybertrust.ne.jpmanagedpki.ne.jpenterprisessl.comhackerguardian.cominstantssl.com	oemssl.cn
 cn(oemssl.cn.cdn.cloudflare.net
 cnoptimumssl.compositivessl.comsectigo.comsectigochina.com
 cn/#sectigochina.com.cdn.cloudflare.net
 cntrust-provider.cn
-cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.comssl.com	sslcom.cn
+cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.comcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comssl.com	sslcom.cn
 cnstarfieldtech.comdigital-id.chdigitalid.chmanaged-pki.chmanaged-pki.depki-post.chpki-posta.chpki-poste.chroot-signing.chrootsigning.comssl-certificate.ch
-swissid.chswissign.comswissign.liswisssign-group.chswisssign-group.comswisssign-group.liswisssign.chswisssign.comswisssign.liswisssign.netswisssign.orgswisssigner.chswisssigner.comswisssigngroup.chswisssigngroup.comswissstick.comswisstsa.chswisstsa.litrustdoc.chtrustsign.chzert.chmanagedpki.comsymantec.com	symcb.com	symcd.comtelekom.com
+swissid.chswissign.comswissign.liswisssign-group.chswisssign-group.comswisssign-group.liswisssign.chswisssign.comswisssign.liswisssign.netswisssign.orgswisssigner.chswisssigner.comswisssigngroup.chswisssigngroup.comswissstick.comswisstsa.chswisstsa.litrustdoc.chtrustsign.chzert.chtelekom.com
 telekom.de
-telesec.detrustwave.comtwca.com.twverisign.asiaverisign.bizverisign.chverisign.co.inverisign.co.ukverisign.comverisign.com.auverisign.com.brverisign.com.cnverisign.com.esverisign.com.hkverisign.com.sgverisign.com.twverisign.com.vnverisign.deverisign.dkverisign.esverisign.frverisign.hkverisign.inverisign.infoverisign.jobsverisign.mobiverisign.nameverisign.netverisign.orgverisign.proverisign.severisign.sgverisign.twverisign.usverisign.vnverisigninc.com
+telesec.detrustwave.comtwca.com.tw
 oath.cloudoath.comouroath.comstatic-verizon.com
 uplynk.comverizon.comverizon.netverizonbusinessfios.comverizondigitalmedia.comverizonenterprise.comverizonfios.comverizonmedia.comverizonwireless.comvzw.com
-xo.comomniroot.commyvodafone.com.aumyvodafone.com.wsvodafone.co.ukvodafone.comvodafone.com.auvodafone.com.trvodafone.devodafone.itwisecoin.com
-wiseid.comwisekey.comwisekey.com.hkaccv.escamerfirma.comcertsign.rod-trust.nete-szigno.hue-tugra.comfirmaprofesional.comfnmt.es	harica.grinfocert.digitalinfocert.it
+xo.commyvodafone.com.aumyvodafone.com.wsvodafone.co.ukvodafone.comvodafone.com.auvodafone.com.trvodafone.devodafone.itwisecoin.com
+wiseid.comwisekey.comwisekey.com.hkaccv.escamerfirma.comcertsign.rod-trust.nete-szigno.hue-tugra.comfirmaprofesional.comfnmt.es	harica.grinfocert.digitalinfocert.itmanagedpki.com
 netlock.hutrustcor.catrustcor.comtrustisfps.comclubhouse.comclubhouseapi.comjoinclubhouse.com
 dis.gd
 discord.codiscord.comdiscord.designdiscord.dev
@@ -15678,7 +15688,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
-cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -15732,7 +15741,9 @@ mysdn.info	mysdn.netnetacad.comnetacad.netnetwork-auth.cn
 versly.comvideochampion.comvirtuata.comwballiance.com!whyiwantciscotelepresence.comwifi-mx.comyoutubecisco.comapp-dynamics.comappdynamics.co.ukappdynamics.comappdynamics.deappdynamics.frappdynamics.infoappdynamics.jpappdynamics.org
 mearki.commeraki-go.com	meraki.hkmerakigo.com
 tail-f.com	tailf.comcisco.evergage.comciscolivehls-i.akamaihd.netumbrella.comopendns.comclco.cc
-cloudc.onecloudcone.comcloudcone.netcollabora.co.ukcollabora.comcollabora.orgcollaboraoffice.com	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
+cloudc.onecloudcone.comcloudcone.netcollabora.co.ukcollabora.comcollabora.orgcollaboraoffice.com
+comodo.com
+comodo.net	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
 cfblob.comcloudchoose.comcloudvolumes.com
 cmpaas.com
 cpedge.comcrit-staging.comexperience-vmware.comgemfire.netgeodesummit.comgetboxer.comgitstar.comgitstar.netgopivotal.netgreenplum.nethwslabs.comimmidio.comitfromtheinside.comlatamvmwareforum.compivotalinitiative.comsnapvolumes.comssdevrd.comvcanedge.comvcloudair.netvfabric.netvidmpreview.com
@@ -16346,7 +16357,7 @@ spacex.comspacemail.comspaceship.com
 st.com%stmicroelectronics.com.cn
 cn	gofile.mequickconnect.tosynology.comsynologydownload.comsynologyupdate.comquickconnect.cn
 cnsynology.cn
-cntailscale.comtailscale.io
+cnsymantec.comtailscale.comtailscale.io
 ts.netboringcompany.cominternetdownloadmanager.comregisteridm.com	tonec.comuber-assets.comuber.comubereats.comamplifi.comamplifi.com.cn
 cnfrontrow.com.cn
 cnfrontrow.comubncloud.comubnt.com
@@ -16356,7 +16367,7 @@ spacex.comspacemail.comspaceship.com
 cnuisp.com
 uum.com.cn
 cnuwn.com
-cnwifiman.com	vultr.comg-technology.com
+cnwifiman.comverisign.asiaverisign.bizverisign.chverisign.co.inverisign.co.ukverisign.comverisign.com.auverisign.com.brverisign.com.cnverisign.com.esverisign.com.hkverisign.com.sgverisign.com.twverisign.com.vnverisign.deverisign.dkverisign.esverisign.frverisign.hkverisign.inverisign.infoverisign.jobsverisign.mobiverisign.nameverisign.netverisign.orgverisign.proverisign.severisign.sgverisign.twverisign.usverisign.vnverisigninc.com	vultr.comg-technology.com
 sandisk.ae
 sandisk.it
 sandisk.cn
@@ -18380,7 +18391,7 @@ gitlab.com	gitlab.io
 gitlab.netgitlab-static.net.*gitlab-assets.oss-cn-hongkong.aliyuncs.com
  
 GITVgitv.cngitv.tv
-ψ
+
 
 GLOBALSIGNalphassl.com
 cneasy-signing.com
@@ -18388,6 +18399,7 @@ GLOBALSIGNalphassl.com
 cnglobalsign.co.ukglobalsign.com
 cnglobalsign.com.auglobalsign.com.brglobalsign.com.hkglobalsign.com.sgglobalsign.esglobalsign.euglobalsign.frglobalsign.netglobalsign.nlglobalsigncdn.com
 cn4(cdn.globalsigncdn.com.cdn.cloudflare.net
+cncrl.globalsign.net
 cn
 @
 GLOBALVOICESglobalvoices.orgglobalvoicesonline.org
@@ -18965,11 +18977,11 @@ E
 	HIIDO-ADSmlog.hiido.com
 adsylog.hiido.com
 ads
-
-HINETeca.hinet.netgtlsca.nat.gov.tw
+½
+HINETeca.hinet.netgtlsca.nat.gov.twpki.hinet.netpublicca.hinet.nettls.hinet.net
 cht.com.twchtf.org.tw	emome.net	hinet.net	xuite.net
-5
-	HINET-ECAeca.hinet.netgtlsca.nat.gov.tw
+s
+	HINET-ECAeca.hinet.netgtlsca.nat.gov.twpki.hinet.netpublicca.hinet.nettls.hinet.net
 ,
 HITUNhitun.ioxn--90wwvt03e.com
 i
@@ -21481,13 +21493,13 @@ m
 SEASUNseasungames.comxishanju.comxoyo.comxoyocdn.comcbjq.comtestplus.cn
 n
 SECOMsecom.co.jpsecomtrust.netcybertrust.co.jpcybertrust.ne.jpmanagedpki.ne.jp
-§
+ς
 SECTIGOenterprisessl.comhackerguardian.cominstantssl.com	oemssl.cn
 cn(oemssl.cn.cdn.cloudflare.net
 cnoptimumssl.compositivessl.comsectigo.comsectigochina.com
 cn/#sectigochina.com.cdn.cloudflare.net
 cntrust-provider.cn
-cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.com
+cntrust-provider.comusertrust.comaoc.catcatcert.catincommon-rsa.orgnetsolssl.comcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.com
 +
 SEGMENT-ADScdn.segment.com
 ads
@@ -21978,8 +21990,10 @@ swissid.chswissign.comswissign.liswisssign-group.chswiss
 .
 SXLmysxl.cn
 sxl.cn	sxlcdn.cn
-N
-SYMANTECmanagedpki.comsymantec.com	symcb.com	symcd.com
+
+SYMANTECsymantec.com
+h
+SYMANTEC-PKIpki.symantec.comsymauth.com	symcb.com	symcd.comws.symantec.com
 ¨
 SYNOLOGY	gofile.mequickconnect.tosynology.comsynologydownload.comsynologyupdate.comquickconnect.cn
 cnsynology.cn
@@ -22874,7 +22888,9 @@ vercel.comvercel.eventsvercel.live
 vercel.pub	vercel.shvercel.storezeit-world.co.ukzeit-world.comzeit-world.netzeit-world.orgzeit.cozeit.shzeitworld.com
 τ
 VERISIGNverisign.asiaverisign.bizverisign.chverisign.co.inverisign.co.ukverisign.comverisign.com.auverisign.com.brverisign.com.cnverisign.com.esverisign.com.hkverisign.com.sgverisign.com.twverisign.com.vnverisign.deverisign.dkverisign.esverisign.frverisign.hkverisign.inverisign.infoverisign.jobsverisign.mobiverisign.nameverisign.netverisign.orgverisign.proverisign.severisign.sgverisign.twverisign.usverisign.vnverisigninc.com
-Ψ
+Η
+VERISIGN-PKIadobe-crl.verisign.comcertipath-aia.verisign.comcertipath-crl.verisign.comcrl.verisign.comcsc3-2004-aia.verisign.comcsc3-2004-crl.verisign.com csc3-2009-2-aia.verisign.com csc3-2009-2-crl.verisign.comcsc3-2009-aia.verisign.comcsc3-2009-crl.verisign.comcsc3-2010-aia.verisign.comcsc3-2010-crl.verisign.comeca-client-crl.verisign.com eca-client-ocsp.verisign.comevintl-aia.verisign.comevintl-crl.verisign.comevintl-ocsp.verisign.comevintl-t1-crl.verisign.comevsecure-aia.verisign.comevsecure-crl.verisign.comevsecure-ocsp.verisign.com evsecure-t1-aia.verisign.com evsecure-t1-crl.verisign.comocsp.verisign.comonsitecrl.verisign.comorgc3-crl.verisign.compki-ocsp.verisign.comssp-aia.verisign.comssp-crl.verisign.comssp-ocsp.verisign.comsvr-wimax-ocsp.verisign.comsvrintl-aia.verisign.comsvrintl-crl.verisign.comsvrintl-g3-aia.verisign.comsvrintl-g3-crl.verisign.comsvrintl-t1-aia.verisign.comsvrintl-t1-crl.verisign.comsvrsecure-aia.verisign.comsvrsecure-crl.verisign.com!svrsecure-g2-aia.verisign.com!svrsecure-g2-crl.verisign.com!svrsecure-g3-aia.verisign.com!svrsecure-g3-crl.verisign.com%!svrsecure-oracle-aia.verisign.com%!svrsecure-oracle-crl.verisign.com&"svrsecure-oracle-ocsp.verisign.com!svrsecure-t1-aia.verisign.com!svrsecure-t1-crl.verisign.com svrtrial-g2-aia.verisign.com svrtrial-g2-crl.verisign.com
+Ζ
 VERIZON
 flickrflic.kr
 flickr.com
@@ -22887,7 +22903,7 @@ flickr.netstaticflickr.comads.yahoo.com
 myguide.hktechcrunch.comyahoo-news.com.hkyahooapis.comyahoodns.netyahoofinance.comyahoohealth.comyahoomusic.comyahoosandbox.comyahoosportsbook.comyho.comyimg.comyimg.jp	ymail.comyusercontent.comcdn.js7k.com
 oath.cloudoath.comouroath.comstatic-verizon.com
 uplynk.comverizon.comverizon.netverizonbusinessfios.comverizondigitalmedia.comverizonenterprise.comverizonfios.comverizonmedia.comverizonwireless.comvzw.com
-xo.comomniroot.com
+xo.com
 
 VGTIME
 vgtime.com
@@ -22903,7 +22919,7 @@ vhxqa2.com
 vhxqa3.com
 vhxqa4.com
 vhxqa6.comvimeo-staging.comvimeo-staging2.com	vimeo.comvimeo.frvimeobusiness.comvimeocdn.comvimeogoods.comvimeoondemand.comvimeostatus.comlivestream.com($^[0-9]+vod-adaptive\.akamaized\.net$
-Έ
+Θ
 VISAvisa.bevisa.cavisa.clvisa.cn
 cn
 visa.co.ao
@@ -22923,7 +22939,8 @@ visa.co.zavisa.comvisa.com.agvisa.com.aivisa.com.ar
 visabg.comvisaeurope.atvisaeurope.chvisaeurope.luvisaeurope.sivisaitalia.comvisakorea.comvisamiddleeast.comvisasoutheasteurope.comfinlitsummit.orgmyvisaluxuryhotels.comvisainfinite.cavisainfiniteluxuryhotels.ca!visaluxuryhotelcollection.com$ visaluxuryhotelcollection.com.br$ visaluxuryhotelcollection.com.mxvisaluxuryhotels.comvisaluxuryhotels.com.arvisasignaturehotels.com($connaissancesfinancierespratiques.cadnsvisa.comeubluecardvisa.comfinancialsoccer.ca"financialsoccer.com.cn
 cnlightbridge.commiamifintechfestival.commhshosting.compracticalbusinessskills.compracticalmoneyskills.ca#practicalmoneyskills.cn
 cn'practicalmoneyskills.com.cn
-cnpracticalmoneyskills.jpsoccerfinancier.catorcidadeouro.comvaultify.comvaultify.infovaultify.netvisa-atm.comvisa-news.jpvisabank.orgvisabusinessinsights.comvisacarddesignlab.comvisacards.comvisacheckout.netvisacheckout.orgvisaconciergelac.comvisadigital.comvisadigitalconcierge.comvisadns.comvisadpsonline.usvisaeverywhereshop.comvisafintechfasttrack.comvisafulfillment.comvisagiftcard.usvisaglobalfinance.comvisaicsdirect.comvisainfinite.cavisainfinite.cn
+cnpracticalmoneyskills.jpsoccerfinancier.catorcidadeouro.comvaultify.comvaultify.infovaultify.netvisa-atm.comvisa-news.jpvisabank.orgvisabusinessinsights.com
+visaca.comvisacarddesignlab.comvisacards.comvisacheckout.netvisacheckout.orgvisaconciergelac.comvisadigital.comvisadigitalconcierge.comvisadns.comvisadpsonline.usvisaeverywhereshop.comvisafintechfasttrack.comvisafulfillment.comvisagiftcard.usvisaglobalfinance.comvisaicsdirect.comvisainfinite.cavisainfinite.cn
 cnvisanet.net
 visapay.cn
 cnvisapcsdirect.comvisaplatinum.cn
