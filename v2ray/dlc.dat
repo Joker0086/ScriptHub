@@ -689,7 +689,7 @@ apipost.cnapipost.net
 ]
 APKPUREapkpure.comapkpure.netcdnpure.compureapk.com
 winudf.com
-Õë
+—ì
 APPLE%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
@@ -940,15 +940,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn!adcdownload.apple.com
 cn, adcdownload.apple.com.akadns.net
+cn*amp-api-updates.apps.apple.com
 cn#amp-api.media.apple.com
-cn&api-p-ap-c.smoot.apple.com
-cn&api-p-ap-d.smoot.apple.com
-cn&api-p-ap-e.smoot.apple.com
 cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
 cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
+cn/#bag-cdn.itunes-apple.com.akadns.net
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -962,6 +961,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cncds.apple.com
 cn$cds.apple.com.akadns.net
 cncdsassets.apple.com
+cncerts.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
@@ -978,10 +978,13 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn, cn-smp-paymentservices.apple.com
 cn#configuration.apple.com
 cn."configuration.apple.com.akadns.net
+cncrl.apple.com
 cncstat.apple.com
 cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cndejavu.apple.com
+cn#devimages-cdn.apple.com
+cn&devstreaming-cdn.apple.com
 cn(download.developer.apple.com
 cn!experiments.apple.com
 cngs-loc-cn.apple.com
@@ -990,16 +993,15 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cn gsp4-cn.ls.apple.com
-cn, gsp4-cn.ls.apple.com.edgekey.net
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn gsp5-cn.ls.apple.com
 cn%gsp85-cn-ssl.ls.apple.com
+cn3'gspe19-2-cn-ssl.ls-apple.com.akadns.net
 cn(gspe19-2-cn-ssl.ls.apple.com
 cn&gspe19-cn-ssl.ls.apple.com
 cn-!gspe19-cn.ls-apple.com.akadns.net
 cn"gspe19-cn.ls.apple.com
 cn#gspe21-ssl.ls.apple.com
-cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
 cn&gspe79-cn-ssl.ls.apple.com
 cn+guzzoni-apple-com.v.aaplimg.com
@@ -1007,8 +1009,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#guzzoni.smoot.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
-cnimages.apple.com
-cn'images.apple.com.akadns.net
 cn?3images.apple.com.edgekey.net.globalredir.akadns.net
 cninit-kt.apple.com
 cn3'init-p01md-lb.push-apple.com.akadns.net
@@ -1022,6 +1022,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnipcdn.apple.com
 cniphone-ld.apple.com
 cn1%iphone-ld.origin-apple.com.akadns.net
+cnA5is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
 cn is2-ssl.mzstatic.com
@@ -1087,6 +1088,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
+cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -1094,7 +1096,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn"weather-map2.apple.com
 cn weatherkit.apple.com
 cnwww.apple.com
-cn%www.apple.com.edgekey.net
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cnxp.apple.com
 cn
@@ -1160,6 +1161,8 @@ ARTSTATIONartstation.comartstationmedia.com
 ’
 ASAHI
 aiasahi.jpasagaku.com	asahi.comasahicom.jpasakonet.co.jpnikkansports.comasahishimbun.sc.omtrdc.net
+X
+ASOBOasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
 .
 ASPROEXasproex.comasproexapi.com
 X
@@ -3980,7 +3983,7 @@ telesco.pe
 tg.dev	tx.meusercontent.devgraph.whatsapp.com
 adsgraph.whatsapp.net
 ads	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
-Þ…
+¥‡
 
 CATEGORY-COMPANIESacer-group.comacer.comacer.com.cn
 cn3dns-1.adobe.com3dns-2.adobe.com3dns-3.adobe.com3dns-4.adobe.com3dns-5.adobe.com3dns.adobe.comactivate-sea.adobe.comactivate-sjc0.adobe.comactivate.adobe.comactivate.wip1.adobe.comactivate.wip2.adobe.comactivate.wip3.adobe.comactivate.wip4.adobe.comadobe-dns-1.adobe.comadobe-dns-2.adobe.comadobe-dns-3.adobe.comadobe-dns-4.adobe.comadobe-dns.adobe.comadobeereg.comcrl.versign.netereg.adobe.comereg.wip.adobe.comereg.wip1.adobe.comereg.wip2.adobe.comereg.wip3.adobe.comereg.wip4.adobe.comhl2rcv.adobe.comhlrcv.stage.adobe.comlm.licenses.adobe.comlmlicenses.wip4.adobe.comna1r.services.adobe.comood.opsource.netpractivate.adobepractivate.adobe.compractivate.adobe.ipppractivate.adobe.newoapractivate.adobe.ntpwip.adobe.comwip1.adobe.comwip2.adobe.comwip3.adobe.comwip4.adobe.comwwis-dubc1-vip100.adobe.comwwis-dubc1-vip101.adobe.comwwis-dubc1-vip102.adobe.comwwis-dubc1-vip103.adobe.comwwis-dubc1-vip104.adobe.comwwis-dubc1-vip105.adobe.comwwis-dubc1-vip106.adobe.comwwis-dubc1-vip107.adobe.comwwis-dubc1-vip108.adobe.comwwis-dubc1-vip109.adobe.comwwis-dubc1-vip110.adobe.comwwis-dubc1-vip111.adobe.comwwis-dubc1-vip112.adobe.comwwis-dubc1-vip113.adobe.comwwis-dubc1-vip114.adobe.comwwis-dubc1-vip115.adobe.comwwis-dubc1-vip116.adobe.comwwis-dubc1-vip117.adobe.comwwis-dubc1-vip118.adobe.comwwis-dubc1-vip119.adobe.comwwis-dubc1-vip120.adobe.comwwis-dubc1-vip121.adobe.comwwis-dubc1-vip122.adobe.comwwis-dubc1-vip123.adobe.comwwis-dubc1-vip124.adobe.comwwis-dubc1-vip125.adobe.comwwis-dubc1-vip30.adobe.comwwis-dubc1-vip31.adobe.comwwis-dubc1-vip32.adobe.comwwis-dubc1-vip33.adobe.comwwis-dubc1-vip34.adobe.comwwis-dubc1-vip35.adobe.comwwis-dubc1-vip36.adobe.comwwis-dubc1-vip37.adobe.comwwis-dubc1-vip38.adobe.comwwis-dubc1-vip39.adobe.comwwis-dubc1-vip40.adobe.comwwis-dubc1-vip41.adobe.comwwis-dubc1-vip42.adobe.comwwis-dubc1-vip43.adobe.comwwis-dubc1-vip44.adobe.comwwis-dubc1-vip45.adobe.comwwis-dubc1-vip46.adobe.comwwis-dubc1-vip47.adobe.comwwis-dubc1-vip48.adobe.comwwis-dubc1-vip49.adobe.comwwis-dubc1-vip50.adobe.comwwis-dubc1-vip51.adobe.comwwis-dubc1-vip52.adobe.comwwis-dubc1-vip53.adobe.comwwis-dubc1-vip54.adobe.comwwis-dubc1-vip55.adobe.comwwis-dubc1-vip56.adobe.comwwis-dubc1-vip57.adobe.comwwis-dubc1-vip58.adobe.comwwis-dubc1-vip59.adobe.comwwis-dubc1-vip60.adobe.comwwis-dubc1-vip61.adobe.comwwis-dubc1-vip62.adobe.comwwis-dubc1-vip63.adobe.comwwis-dubc1-vip64.adobe.comwwis-dubc1-vip65.adobe.comwwis-dubc1-vip66.adobe.comwwis-dubc1-vip67.adobe.comwwis-dubc1-vip68.adobe.comwwis-dubc1-vip69.adobe.comwwis-dubc1-vip70.adobe.comwwis-dubc1-vip71.adobe.comwwis-dubc1-vip72.adobe.comwwis-dubc1-vip73.adobe.comwwis-dubc1-vip74.adobe.comwwis-dubc1-vip75.adobe.comwwis-dubc1-vip76.adobe.comwwis-dubc1-vip77.adobe.comwwis-dubc1-vip78.adobe.comwwis-dubc1-vip79.adobe.comwwis-dubc1-vip80.adobe.comwwis-dubc1-vip81.adobe.comwwis-dubc1-vip82.adobe.comwwis-dubc1-vip83.adobe.comwwis-dubc1-vip84.adobe.comwwis-dubc1-vip85.adobe.comwwis-dubc1-vip86.adobe.comwwis-dubc1-vip87.adobe.comwwis-dubc1-vip88.adobe.comwwis-dubc1-vip89.adobe.comwwis-dubc1-vip90.adobe.comwwis-dubc1-vip91.adobe.comwwis-dubc1-vip92.adobe.comwwis-dubc1-vip93.adobe.comwwis-dubc1-vip94.adobe.comwwis-dubc1-vip95.adobe.comwwis-dubc1-vip96.adobe.comwwis-dubc1-vip97.adobe.comwwis-dubc1-vip98.adobe.comwwis-dubc1-vip99.adobe.com"advertising.adobe.com
@@ -4326,15 +4329,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn!adcdownload.apple.com
 cn, adcdownload.apple.com.akadns.net
+cn*amp-api-updates.apps.apple.com
 cn#amp-api.media.apple.com
-cn&api-p-ap-c.smoot.apple.com
-cn&api-p-ap-d.smoot.apple.com
-cn&api-p-ap-e.smoot.apple.com
 cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
 cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
+cn/#bag-cdn.itunes-apple.com.akadns.net
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -4348,6 +4350,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cncds.apple.com
 cn$cds.apple.com.akadns.net
 cncdsassets.apple.com
+cncerts.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
@@ -4364,10 +4367,13 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn, cn-smp-paymentservices.apple.com
 cn#configuration.apple.com
 cn."configuration.apple.com.akadns.net
+cncrl.apple.com
 cncstat.apple.com
 cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cndejavu.apple.com
+cn#devimages-cdn.apple.com
+cn&devstreaming-cdn.apple.com
 cn(download.developer.apple.com
 cn!experiments.apple.com
 cngs-loc-cn.apple.com
@@ -4376,16 +4382,15 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cn gsp4-cn.ls.apple.com
-cn, gsp4-cn.ls.apple.com.edgekey.net
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn gsp5-cn.ls.apple.com
 cn%gsp85-cn-ssl.ls.apple.com
+cn3'gspe19-2-cn-ssl.ls-apple.com.akadns.net
 cn(gspe19-2-cn-ssl.ls.apple.com
 cn&gspe19-cn-ssl.ls.apple.com
 cn-!gspe19-cn.ls-apple.com.akadns.net
 cn"gspe19-cn.ls.apple.com
 cn#gspe21-ssl.ls.apple.com
-cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
 cn&gspe79-cn-ssl.ls.apple.com
 cn+guzzoni-apple-com.v.aaplimg.com
@@ -4393,8 +4398,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#guzzoni.smoot.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
-cnimages.apple.com
-cn'images.apple.com.akadns.net
 cn?3images.apple.com.edgekey.net.globalredir.akadns.net
 cninit-kt.apple.com
 cn3'init-p01md-lb.push-apple.com.akadns.net
@@ -4408,6 +4411,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnipcdn.apple.com
 cniphone-ld.apple.com
 cn1%iphone-ld.origin-apple.com.akadns.net
+cnA5is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
 cn is2-ssl.mzstatic.com
@@ -4473,6 +4477,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
+cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -4480,7 +4485,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn"weather-map2.apple.com
 cn weatherkit.apple.com
 cnwww.apple.com
-cn%www.apple.com.edgekey.net
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cnxp.apple.com
 cnasus.comasus.com.cn
@@ -5068,9 +5072,9 @@ vscode.devvscode-cdn.netvscode-unpkg.netxamarin.comaz764
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnmicrosoftnews.ccmicrosoftnews.cn
 cnmicrosoftnews.commicrosoftnews.netmicrosoftnews.orgmicrosoftnewsforkids.commicrosoftnewsforkids.netmicrosoftnewsforkids.orgmicrosoftnewskids.commicrosoftnewskids.netmicrosoftnewskids.orgmsn.cn
-cnmsn.commsnewskids.commsnewskids.netmsnewskids.orgmsnkids.commicrosoftstart.com	start.com1drv.com1drv.mslivefilestore.comonedrive.coonedrive.co.ukonedrive.comonedrive.euonedrive.netonedrive.orgonedrive.live.comstorage.live.com
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+cnmsn.commsnewskids.commsnewskids.netmsnewskids.orgmsnkids.commicrosoftstart.com	start.com1drv.com1drv.mslivefilestore.comonedrive.coonedrive.co.ukonedrive.comonedrive.euonedrive.netonedrive.orgonedrive.live.comstorage.live.comasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
@@ -5705,7 +5709,7 @@ yeshen.com
 cn
 Ù
 %CATEGORY-ENTERPRISE-QUERY-PLATFORM-CNaiqicha.baidu.comhongdunwang.com.cnqcc.comqichacha.comqichamao.com	qixin.comqyyjt.cnjindidata.comtianyancha.comx315.com
-à“
+å”
 CATEGORY-ENTERTAINMENTabema.ioabema.tvabema-tv.comabematv.co.jp	adx.promoameba.jpamebame.comamebaownd.comamebaowndme.com	ameblo.jpbucketeer.jpdokusho-ojikan.jphayabusa.devhayabusa.iohayabusa.mediawinticket.jpabematv.akamaized.net#ds-linear-abematv.akamaized.net ds-vod-abematv.akamaized.net linear-abematv.akamaized.netvod-abematv.akamaized.netamc.comamcn.comamcnetworks.comamcplus.comrne5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com	9anime.cz	9anime.id	9anime.to	9anime.ws
 age.tv	agedm.orgagedm.tvagefans.com
 agemys.org	agedm.appanimedao-tv.comcrunchyroll.comfunimation.com
@@ -5893,9 +5897,9 @@ scescdn.cn
 17roco.com
 cnroco.qq.com
 cnubi.comubisoft.comubisoftconnect.com	uplay.com,(ubisoft-uplay-savegames.s3.amazonaws.com,(ubisoft-orbit-savegames.s3.amazonaws.comubistatic3-a.akamaihd.net)uplaypc-s-ubisoft.cdn.ubi.com
-cn
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+cnasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
@@ -6083,7 +6087,7 @@ youtube.vnyoutubeeducation.com($youtubeembeddedplayer.googleapis.com
 odysee.comomobi.cc
 oranum.comovercast.fmsyosetu.comthetvdb.com
 weverse.ioyande.reamp-api.podcast.apple.combag.itunes.apple.combookeeper.itunes.apple.com
-¡=
+‡E
 CATEGORY-ENTERTAINMENT-CN3dmgame.com3304399.com3304399.net3839.com3839apk.com3839app.com3839app.net3839img.com3839pay.com3839pic.com
 3839vc.com3839video.com4399.cn4399.com4399.net4399api.com4399api.net4399biule.com4399dmw.com
 4399er.com4399hhh.com4399inc.com4399mail.com
@@ -6210,7 +6214,8 @@ mihoyo.com
 cnjuequling.com
 cn'^.+-mihayo\.akamaized\.net$
 cn	muwai.com	pplive.cn
-pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn	sfacg.com
+pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn13a.com
+natfrp.comfrp-air.comfrp-all.comfrp-arm.comfrp-art.comfrp-bag.comfrp-bid.comfrp-car.comfrp-dog.comfrp-dry.comfrp-egg.comfrp-era.comfrp-fan.comfrp-fee.comfrp-fog.comfrp-fox.comfrp-gas.comfrp-gym.comfrp-hat.comfrp-hen.comfrp-hip.comfrp-hub.comfrp-ice.comfrp-key.comfrp-kit.comfrp-lab.comfrp-leg.comfrp-mad.comfrp-mix.comfrp-mom.comfrp-nut.comfrp-oak.comfrp-one.comfrp-own.comfrp-pen.comfrp-rug.comfrp-run.comfrp-say.comfrp-shy.comfrp-act.comfrp-any.comfrp-bar.comfrp-box.comfrp-boy.comfrp-bus.comfrp-dad.comfrp-end.comfrp-fun.comfrp-gap.comfrp-man.comfrp-net.comfrp-now.comfrp-off.comfrp-oil.comfrp-put.comfrp-rib.comfrp-sea.comfrp-six.com	sfacg.com
 61.com
 taomee.com	tgbus.comtiancity.comtiancitycdn.comu17.comu17i.comu17t.com
 vgtime.comvrzwk.cn	vrzwk.com	vrzwk.net	vrzwk.topaichongzoo.cnhzdtv.tv	hzman.netwasu.cnwasu.tvwasumedia.cn
@@ -6309,7 +6314,7 @@ guaiku.com
 cn)cdn-ws.content.steamchina.com
 cn)cdn-qc.content.steamchina.com
 cn!cache10-atl3.steamcontent.com!cache10-fra1.steamcontent.com!cache10-fra2.steamcontent.com!cache10-iad1.steamcontent.com!cache10-lax1.steamcontent.com!cache10-lhr1.steamcontent.com!cache10-ord1.steamcontent.com!cache10-seo1.steamcontent.com!cache10-sgp1.steamcontent.com!cache10-tyo3.steamcontent.com!cache11-fra1.steamcontent.com!cache11-fra2.steamcontent.com!cache11-iad1.steamcontent.com!cache11-lhr1.steamcontent.com!cache11-tyo3.steamcontent.com!cache12-fra1.steamcontent.com!cache12-fra2.steamcontent.com!cache12-iad1.steamcontent.com!cache12-lhr1.steamcontent.com!cache12-tyo3.steamcontent.com!cache13-fra1.steamcontent.com!cache13-fra2.steamcontent.com!cache13-iad1.steamcontent.com!cache13-lhr1.steamcontent.com!cache14-fra1.steamcontent.com!cache14-fra2.steamcontent.com!cache14-iad1.steamcontent.com!cache14-lhr1.steamcontent.com!cache15-fra2.steamcontent.com!cache15-iad1.steamcontent.com!cache15-lhr1.steamcontent.com!cache16-fra2.steamcontent.com!cache16-iad1.steamcontent.com!cache16-lhr1.steamcontent.com cache1-ams1.steamcontent.com cache1-atl1.steamcontent.com cache1-atl3.steamcontent.com cache1-bom1.steamcontent.com cache1-bom2.steamcontent.com cache1-dfw1.steamcontent.com cache1-eze1.steamcontent.com cache1-fra1.steamcontent.com cache1-fra2.steamcontent.com cache1-gru1.steamcontent.com cache1-hkg1.steamcontent.com cache1-iad1.steamcontent.com cache1-jnb1.steamcontent.com cache1-lax1.steamcontent.com cache1-lhr1.steamcontent.com cache1-maa1.steamcontent.com cache1-maa2.steamcontent.com cache1-mad1.steamcontent.com cache1-ord1.steamcontent.com cache1-par1.steamcontent.com cache1-scl1.steamcontent.com cache1-sea1.steamcontent.com cache1-seo1.steamcontent.com cache1-sgp1.steamcontent.com cache1-sto1.steamcontent.com cache1-sto2.steamcontent.com cache1-syd1.steamcontent.com cache1-tyo3.steamcontent.com cache1-vie1.steamcontent.com cache1-waw1.steamcontent.com cache2-ams1.steamcontent.com cache2-atl1.steamcontent.com cache2-atl3.steamcontent.com cache2-bom2.steamcontent.com cache2-dfw1.steamcontent.com cache2-eze1.steamcontent.com cache2-fra1.steamcontent.com cache2-fra2.steamcontent.com cache2-gru1.steamcontent.com cache2-hkg1.steamcontent.com cache2-iad1.steamcontent.com cache2-jnb1.steamcontent.com cache2-lax1.steamcontent.com cache2-lhr1.steamcontent.com cache2-maa2.steamcontent.com cache2-mad1.steamcontent.com cache2-ord1.steamcontent.com cache2-par1.steamcontent.com cache2-scl1.steamcontent.com cache2-sea1.steamcontent.com cache2-seo1.steamcontent.com cache2-sgp1.steamcontent.com cache2-sto1.steamcontent.com cache2-sto2.steamcontent.com cache2-syd1.steamcontent.com cache2-tyo3.steamcontent.com cache2-vie1.steamcontent.com cache2-waw1.steamcontent.com cache3-ams1.steamcontent.com cache3-atl1.steamcontent.com cache3-atl3.steamcontent.com cache3-dfw1.steamcontent.com cache3-dxb1.steamcontent.com cache3-eze1.steamcontent.com cache3-fra1.steamcontent.com cache3-fra2.steamcontent.com cache3-gru1.steamcontent.com cache3-hkg1.steamcontent.com cache3-iad1.steamcontent.com cache3-jnb1.steamcontent.com cache3-lax1.steamcontent.com cache3-lhr1.steamcontent.com cache3-lim1.steamcontent.com cache3-mad1.steamcontent.com cache3-ord1.steamcontent.com cache3-par1.steamcontent.com cache3-scl1.steamcontent.com cache3-sea1.steamcontent.com cache3-seo1.steamcontent.com cache3-sgp1.steamcontent.com cache3-sto1.steamcontent.com cache3-sto2.steamcontent.com cache3-syd1.steamcontent.com cache3-tyo3.steamcontent.com cache3-vie1.steamcontent.com cache3-waw1.steamcontent.com cache4-ams1.steamcontent.com cache4-atl1.steamcontent.com cache4-atl3.steamcontent.com cache4-dfw1.steamcontent.com cache4-dxb1.steamcontent.com cache4-eze1.steamcontent.com cache4-fra1.steamcontent.com cache4-fra2.steamcontent.com cache4-gru1.steamcontent.com cache4-hkg1.steamcontent.com cache4-iad1.steamcontent.com cache4-jnb1.steamcontent.com cache4-lax1.steamcontent.com cache4-lhr1.steamcontent.com cache4-lim1.steamcontent.com cache4-mad1.steamcontent.com cache4-ord1.steamcontent.com cache4-par1.steamcontent.com cache4-scl1.steamcontent.com cache4-sea1.steamcontent.com cache4-seo1.steamcontent.com cache4-sgp1.steamcontent.com cache4-sto1.steamcontent.com cache4-sto2.steamcontent.com cache4-syd1.steamcontent.com cache4-tyo3.steamcontent.com cache4-vie1.steamcontent.com cache4-waw1.steamcontent.com cache5-ams1.steamcontent.com cache5-atl1.steamcontent.com cache5-atl3.steamcontent.com cache5-dfw1.steamcontent.com cache5-fra1.steamcontent.com cache5-fra2.steamcontent.com cache5-gru1.steamcontent.com cache5-hkg1.steamcontent.com cache5-iad1.steamcontent.com cache5-lax1.steamcontent.com cache5-lhr1.steamcontent.com cache5-mad1.steamcontent.com cache5-ord1.steamcontent.com cache5-par1.steamcontent.com cache5-sea1.steamcontent.com cache5-seo1.steamcontent.com cache5-sgp1.steamcontent.com cache5-sto1.steamcontent.com cache5-sto2.steamcontent.com cache5-syd1.steamcontent.com cache5-tyo3.steamcontent.com cache5-vie1.steamcontent.com cache5-waw1.steamcontent.com cache6-ams1.steamcontent.com cache6-atl1.steamcontent.com cache6-atl3.steamcontent.com cache6-dfw1.steamcontent.com cache6-fra1.steamcontent.com cache6-fra2.steamcontent.com cache6-gru1.steamcontent.com cache6-hkg1.steamcontent.com cache6-iad1.steamcontent.com cache6-lax1.steamcontent.com cache6-lhr1.steamcontent.com cache6-mad1.steamcontent.com cache6-ord1.steamcontent.com cache6-par1.steamcontent.com cache6-sea1.steamcontent.com cache6-seo1.steamcontent.com cache6-sgp1.steamcontent.com cache6-sto1.steamcontent.com cache6-sto2.steamcontent.com cache6-syd1.steamcontent.com cache6-tyo3.steamcontent.com cache6-vie1.steamcontent.com cache6-waw1.steamcontent.com cache7-ams1.steamcontent.com cache7-atl3.steamcontent.com cache7-dfw1.steamcontent.com cache7-fra1.steamcontent.com cache7-fra2.steamcontent.com cache7-gru1.steamcontent.com cache7-hkg1.steamcontent.com cache7-iad1.steamcontent.com cache7-lax1.steamcontent.com cache7-lhr1.steamcontent.com cache7-ord1.steamcontent.com cache7-par1.steamcontent.com cache7-seo1.steamcontent.com cache7-sgp1.steamcontent.com cache7-sto2.steamcontent.com cache7-tyo3.steamcontent.com cache7-vie1.steamcontent.com cache7-waw1.steamcontent.com cache8-ams1.steamcontent.com cache8-atl3.steamcontent.com cache8-dfw1.steamcontent.com cache8-fra1.steamcontent.com cache8-fra2.steamcontent.com cache8-gru1.steamcontent.com cache8-hkg1.steamcontent.com cache8-iad1.steamcontent.com cache8-lax1.steamcontent.com cache8-lhr1.steamcontent.com cache8-ord1.steamcontent.com cache8-par1.steamcontent.com cache8-seo1.steamcontent.com cache8-sgp1.steamcontent.com cache8-sto2.steamcontent.com cache8-tyo3.steamcontent.com cache8-vie1.steamcontent.com cache8-waw1.steamcontent.com cache9-atl3.steamcontent.com cache9-fra1.steamcontent.com cache9-fra2.steamcontent.com cache9-iad1.steamcontent.com cache9-lax1.steamcontent.com cache9-lhr1.steamcontent.com cache9-ord1.steamcontent.com cache9-seo1.steamcontent.com cache9-sgp1.steamcontent.com cache9-tyo3.steamcontent.com!cache11-lax1.steamcontent.com!cache12-lax1.steamcontent.com!cache13-lax1.steamcontent.com!cache14-lax1.steamcontent.com!cache15-lax1.steamcontent.com!cache16-lax1.steamcontent.com!cache17-lax1.steamcontent.com!cache18-lax1.steamcontent.com!cache19-lax1.steamcontent.com!cache20-lax1.steamcontent.com!cache21-lax1.steamcontent.com!cache17-iad1.steamcontent.com!cache18-iad1.steamcontent.com!cache19-iad1.steamcontent.com!cache20-iad1.steamcontent.com!cache21-iad1.steamcontent.com!cache22-iad1.steamcontent.com!cache23-iad1.steamcontent.com!cache24-iad1.steamcontent.com!cache25-iad1.steamcontent.com!cache26-iad1.steamcontent.com!cache27-iad1.steamcontent.com!cache28-iad1.steamcontent.com!cache15-fra1.steamcontent.com!cache16-fra1.steamcontent.com!cache21-fra1.steamcontent.com!cache22-fra1.steamcontent.com!cache23-fra1.steamcontent.com!cache24-fra1.steamcontent.com!cache25-fra1.steamcontent.com!cache26-fra1.steamcontent.com!cache27-fra1.steamcontent.com!cache28-fra1.steamcontent.com!cache29-fra1.steamcontent.com!cache30-fra1.steamcontent.com!cache31-fra1.steamcontent.com!cache32-fra1.steamcontent.com!cache33-fra1.steamcontent.com!cache34-fra1.steamcontent.com!cache35-fra1.steamcontent.com!cache36-fra1.steamcontent.com!cache37-fra1.steamcontent.com!cache38-fra1.steamcontent.com!cache39-fra1.steamcontent.com!cache40-fra1.steamcontent.com!cache41-fra1.steamcontent.com!cache42-fra1.steamcontent.com!cache43-fra1.steamcontent.com!cache44-fra1.steamcontent.com!cache45-fra1.steamcontent.com!cache46-fra1.steamcontent.com!cache47-fra1.steamcontent.com!cache48-fra1.steamcontent.com!cache49-fra1.steamcontent.com!cache50-fra1.steamcontent.com!cache51-fra1.steamcontent.com!cache52-fra1.steamcontent.com!cache53-fra1.steamcontent.com!cache54-fra1.steamcontent.com!cache55-fra1.steamcontent.com!cache56-fra1.steamcontent.com!cache57-fra1.steamcontent.com!cache58-fra1.steamcontent.com!cache59-fra1.steamcontent.com!cache61-fra1.steamcontent.com!cache62-fra1.steamcontent.com!cache63-fra1.steamcontent.com!cache64-fra1.steamcontent.com!cache65-fra1.steamcontent.com!cache66-fra1.steamcontent.com!cache67-fra1.steamcontent.com!cache68-fra1.steamcontent.com!cache69-fra1.steamcontent.com cache7-atl1.steamcontent.com cache8-atl1.steamcontent.com cache9-atl1.steamcontent.com!cache10-atl1.steamcontent.com!cache11-atl1.steamcontent.com cache7-sto1.steamcontent.com cache8-sto1.steamcontent.com cache9-sto1.steamcontent.com!cache10-sto1.steamcontent.com!cache11-ord1.steamcontent.com!cache12-ord1.steamcontent.com!cache13-ord1.steamcontent.com!cache14-ord1.steamcontent.com!cache15-ord1.steamcontent.com!cache16-ord1.steamcontent.com!cache17-ord1.steamcontent.com!cache18-ord1.steamcontent.com!cache19-ord1.steamcontent.com!cache20-ord1.steamcontent.com cache1-man1.steamcontent.com cache2-man1.steamcontent.com cache8-sea1.steamcontent.com!cache10-sea1.steamcontent.com!cache11-sea1.steamcontent.com!cache12-sea1.steamcontent.com!cache19-lhr1.steamcontent.com!cache20-lhr1.steamcontent.com!cache21-lhr1.steamcontent.com!cache22-lhr1.steamcontent.com!cache23-lhr1.steamcontent.com!cache24-lhr1.steamcontent.com!cache25-lhr1.steamcontent.com!cache26-lhr1.steamcontent.com!cache27-lhr1.steamcontent.com!cache28-lhr1.steamcontent.com!cache29-lhr1.steamcontent.com!cache30-lhr1.steamcontent.com!cache31-lhr1.steamcontent.com!cache32-lhr1.steamcontent.com!cache33-lhr1.steamcontent.com!cache34-lhr1.steamcontent.com!cache35-lhr1.steamcontent.com cache1-tyo1.steamcontent.com cache2-tyo1.steamcontent.com cache1-tyo2.steamcontent.com cache2-tyo2.steamcontent.com cache3-tyo2.steamcontent.com cache4-tyo2.steamcontent.com cache9-ams1.steamcontent.com!cache10-ams1.steamcontent.com!cache11-ams1.steamcontent.com!cache12-ams1.steamcontent.com!cache13-ams1.steamcontent.com!cache14-ams1.steamcontent.com!cache15-ams1.steamcontent.com!cache16-ams1.steamcontent.com!cache17-ams1.steamcontent.com!cache18-ams1.steamcontent.com!cache11-sgp1.steamcontent.com!cache12-sgp1.steamcontent.com cache1-okc1.steamcontent.com cache2-okc1.steamcontent.com cache3-okc1.steamcontent.com cache4-okc1.steamcontent.com cache5-okc1.steamcontent.com cache6-okc1.steamcontent.com cache7-okc1.steamcontent.com cache8-okc1.steamcontent.com cache9-vie1.steamcontent.com!cache10-vie1.steamcontent.com!cache11-vie1.steamcontent.com!cache12-vie1.steamcontent.com cache9-sto2.steamcontent.com!cache10-sto2.steamcontent.com cache1-lim1.steamcontent.com cache2-lim1.steamcontent.com cache1-dxb1.steamcontent.com cache2-dxb1.steamcontent.com!cache10-gru1.steamcontent.com!cache12-atl1.steamcontent.com!cache13-atl1.steamcontent.com!cache17-fra1.steamcontent.com!cache18-fra1.steamcontent.com!cache19-fra1.steamcontent.com!cache20-fra1.steamcontent.com cache3-tyo1.steamcontent.com cache4-tyo1.steamcontent.com cache5-tyo1.steamcontent.com cache6-tyo1.steamcontent.com cache9-gru1.steamcontent.comsteampipe.akamaized.netsteampipe-kr.akamaized.net#steampipe-partner.akamaized.net)%akamai.cdn.steampipe.steamcontent.com)%fastly.cdn.steampipe.steamcontent.comsteam.eca.qtlglb.comsteam.naeu.qtlglb.comsteam.ru.qtlglb.com"edge.steam-dns.top.comcast.net
-…‹
+ŠŒ
 CATEGORY-GAMES
 2k.com2kcoretech.online2kgames.comtake2games.combilibiligame.cn
 cnbilibiligame.co
@@ -6506,9 +6511,9 @@ scescdn.cn
 17roco.com
 cnroco.qq.com
 cnubi.comubisoft.comubisoftconnect.com	uplay.com,(ubisoft-uplay-savegames.s3.amazonaws.com,(ubisoft-orbit-savegames.s3.amazonaws.comubistatic3-a.akamaihd.net)uplaypc-s-ubisoft.cdn.ubi.com
-cn
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+cnasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
@@ -9947,7 +9952,7 @@ cmbuat.com	cmburl.cn cmbwinglungbank.com
 !cncmf.bizcmf.ltdcmfchina.com
 cmfunds.cntest-cignacmb.com
 joying.com
-íü
+Ó„
 CNcn	citic	baidu
 unicomsohuxn--zfr164b
 xn--fiqs8s
@@ -10407,7 +10412,8 @@ mihoyo.com
 cnjuequling.com
 cn'^.+-mihayo\.akamaized\.net$
 cn	muwai.com	pplive.cn
-pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn	sfacg.com
+pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn13a.com
+natfrp.comfrp-air.comfrp-all.comfrp-arm.comfrp-art.comfrp-bag.comfrp-bid.comfrp-car.comfrp-dog.comfrp-dry.comfrp-egg.comfrp-era.comfrp-fan.comfrp-fee.comfrp-fog.comfrp-fox.comfrp-gas.comfrp-gym.comfrp-hat.comfrp-hen.comfrp-hip.comfrp-hub.comfrp-ice.comfrp-key.comfrp-kit.comfrp-lab.comfrp-leg.comfrp-mad.comfrp-mix.comfrp-mom.comfrp-nut.comfrp-oak.comfrp-one.comfrp-own.comfrp-pen.comfrp-rug.comfrp-run.comfrp-say.comfrp-shy.comfrp-act.comfrp-any.comfrp-bar.comfrp-box.comfrp-boy.comfrp-bus.comfrp-dad.comfrp-end.comfrp-fun.comfrp-gap.comfrp-man.comfrp-net.comfrp-now.comfrp-off.comfrp-oil.comfrp-put.comfrp-rib.comfrp-sea.comfrp-six.com	sfacg.com
 61.com
 taomee.com	tgbus.comtiancity.comtiancitycdn.comu17.comu17i.comu17t.com
 vgtime.comvrzwk.cn	vrzwk.com	vrzwk.net	vrzwk.topaichongzoo.cnhzdtv.tv	hzman.netwasu.cnwasu.tvwasumedia.cn
@@ -12548,6 +12554,8 @@ FONTSINUSEfontsinuse.com
 +
 FORBES
 forbes.comforbesimg.com
+†
+FORZA	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.net
 "
 FOUNDERTYPEfoundertype.com
 Ë'
@@ -12627,7 +12635,7 @@ gcores.com
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-«Ž$
+ò$
 GEOLOCATION-!CNanthropic.com	claude.aiclaudeusercontent.com%!servd-anthropic-website.b-cdn.netdeepmind.comdeepmind.googlegeller-pa.googleapis.com%!generativelanguage.googleapis.com&"proactivebackend-pa.googleapis.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.com62webchannel-alkalimakersuite-pa.clients6.google.comgenerativeai.googlemakersuite.google.comaistudio.google.combard.google.comgemini.googlegemini.google.comnotebooklm.googlenotebooklm.google.comjules.googlejules.google.comgroq.com	hf.cohuggingface.cochatgpt.comchat.comoaistatic.comoaiusercontent.com
 openai.comsora.com!openai.com.cdn.cloudflare.net openaiapi-site.azureedge.net2.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net1-openaicomproductionae4b.blob.core.windows.net.*production-openaicom-storage.azureedge.net=9^chatgpt-async-webps-prod-\s+-\d+\.webpubsub\.azure\.com$$o33249.ingest.sentry.io
 ads openaicom.imgix.net
@@ -14287,9 +14295,9 @@ scescdn.cn
 17roco.com
 cnroco.qq.com
 cnubi.comubisoft.comubisoftconnect.com	uplay.com,(ubisoft-uplay-savegames.s3.amazonaws.com,(ubisoft-orbit-savegames.s3.amazonaws.comubistatic3-a.akamaihd.net)uplaypc-s-ubisoft.cdn.ubi.com
-cn
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+cnasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
@@ -15810,15 +15818,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn!adcdownload.apple.com
 cn, adcdownload.apple.com.akadns.net
+cn*amp-api-updates.apps.apple.com
 cn#amp-api.media.apple.com
-cn&api-p-ap-c.smoot.apple.com
-cn&api-p-ap-d.smoot.apple.com
-cn&api-p-ap-e.smoot.apple.com
 cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
 cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
+cn/#bag-cdn.itunes-apple.com.akadns.net
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -15832,6 +15839,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cncds.apple.com
 cn$cds.apple.com.akadns.net
 cncdsassets.apple.com
+cncerts.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
@@ -15848,10 +15856,13 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn, cn-smp-paymentservices.apple.com
 cn#configuration.apple.com
 cn."configuration.apple.com.akadns.net
+cncrl.apple.com
 cncstat.apple.com
 cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cndejavu.apple.com
+cn#devimages-cdn.apple.com
+cn&devstreaming-cdn.apple.com
 cn(download.developer.apple.com
 cn!experiments.apple.com
 cngs-loc-cn.apple.com
@@ -15860,16 +15871,15 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cn gsp4-cn.ls.apple.com
-cn, gsp4-cn.ls.apple.com.edgekey.net
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn gsp5-cn.ls.apple.com
 cn%gsp85-cn-ssl.ls.apple.com
+cn3'gspe19-2-cn-ssl.ls-apple.com.akadns.net
 cn(gspe19-2-cn-ssl.ls.apple.com
 cn&gspe19-cn-ssl.ls.apple.com
 cn-!gspe19-cn.ls-apple.com.akadns.net
 cn"gspe19-cn.ls.apple.com
 cn#gspe21-ssl.ls.apple.com
-cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
 cn&gspe79-cn-ssl.ls.apple.com
 cn+guzzoni-apple-com.v.aaplimg.com
@@ -15877,8 +15887,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#guzzoni.smoot.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
-cnimages.apple.com
-cn'images.apple.com.akadns.net
 cn?3images.apple.com.edgekey.net.globalredir.akadns.net
 cninit-kt.apple.com
 cn3'init-p01md-lb.push-apple.com.akadns.net
@@ -15892,6 +15900,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnipcdn.apple.com
 cniphone-ld.apple.com
 cn1%iphone-ld.origin-apple.com.akadns.net
+cnA5is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
 cn is2-ssl.mzstatic.com
@@ -15957,6 +15966,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn&updates-http.cdn-apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn!updates.cdn-apple.com
+cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
 cn"weather-data.apple.com
 cn-!weather-data.apple.com.akadns.net
@@ -15964,7 +15974,6 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn"weather-map2.apple.com
 cn weatherkit.apple.com
 cnwww.apple.com
-cn%www.apple.com.edgekey.net
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cnxp.apple.com
 cnasus.comasus.com.cn
@@ -16742,7 +16751,7 @@ rea.global
 rea.iorea.techrealcommercial.com.aurealestate.com.aurealtor.comreastatic.netrumah123.comsmartexpos.comsmartline.com.auspacely.com.ausquarefoot.com.hkthinkofliving.comscenesource.me	scnsrc.mesbux.com.mysbuxcard.comstarbucks-stars.comstarbucks.adstarbucks.atstarbucks.bestarbucks.bgstarbucks.castarbucks.chstarbucks.co.idstarbucks.co.jpstarbucks.co.nzstarbucks.co.thstarbucks.co.ukstarbucks.co.zastarbucks.comstarbucks.com.arstarbucks.com.bnstarbucks.com.cn
 cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.com
 tsquare.tv	windy.comxdty.org	xingrz.me
-¼ø
+¢€
 GEOLOCATION-CN
 42r.cn
 5566ua.comaurorapush.cn
@@ -17190,7 +17199,8 @@ mihoyo.com
 cnjuequling.com
 cn'^.+-mihayo\.akamaized\.net$
 cn	muwai.com	pplive.cn
-pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn	sfacg.com
+pplive.compptv.comjiuyue919.com	qimao.com	qm989.com	qmniu.com	quehu.comwtzw.comqingting.fmqtfm.cn13a.com
+natfrp.comfrp-air.comfrp-all.comfrp-arm.comfrp-art.comfrp-bag.comfrp-bid.comfrp-car.comfrp-dog.comfrp-dry.comfrp-egg.comfrp-era.comfrp-fan.comfrp-fee.comfrp-fog.comfrp-fox.comfrp-gas.comfrp-gym.comfrp-hat.comfrp-hen.comfrp-hip.comfrp-hub.comfrp-ice.comfrp-key.comfrp-kit.comfrp-lab.comfrp-leg.comfrp-mad.comfrp-mix.comfrp-mom.comfrp-nut.comfrp-oak.comfrp-one.comfrp-own.comfrp-pen.comfrp-rug.comfrp-run.comfrp-say.comfrp-shy.comfrp-act.comfrp-any.comfrp-bar.comfrp-box.comfrp-boy.comfrp-bus.comfrp-dad.comfrp-end.comfrp-fun.comfrp-gap.comfrp-man.comfrp-net.comfrp-now.comfrp-off.comfrp-oil.comfrp-put.comfrp-rib.comfrp-sea.comfrp-six.com	sfacg.com
 61.com
 taomee.com	tgbus.comtiancity.comtiancitycdn.comu17.comu17i.comu17t.com
 vgtime.comvrzwk.cn	vrzwk.com	vrzwk.net	vrzwk.topaichongzoo.cnhzdtv.tv	hzman.netwasu.cnwasu.tvwasumedia.cn
@@ -20346,7 +20356,7 @@ metart.commetartnetwork.commetcams.comnaiadsystems.com	ns
 MIAOMIAOZHEmiaomiaoz.commiaomiaozhe.com
 
 MIAOPAImiaopai.com
-ÿ‚
+„„
 	MICROSOFT	azure	21vbc.com
 cn21vbluecloud.com
 cn21vbluecloud.net
@@ -20460,9 +20470,9 @@ vscode.devvscode-cdn.netvscode-unpkg.netxamarin.comaz764
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnmicrosoftnews.ccmicrosoftnews.cn
 cnmicrosoftnews.commicrosoftnews.netmicrosoftnews.orgmicrosoftnewsforkids.commicrosoftnewsforkids.netmicrosoftnewsforkids.orgmicrosoftnewskids.commicrosoftnewskids.netmicrosoftnewskids.orgmsn.cn
-cnmsn.commsnewskids.commsnewskids.netmsnewskids.orgmsnkids.commicrosoftstart.com	start.com1drv.com1drv.mslivefilestore.comonedrive.coonedrive.co.ukonedrive.comonedrive.euonedrive.netonedrive.orgonedrive.live.comstorage.live.com
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+cnmsn.commsnewskids.commsnewskids.netmsnewskids.orgmsnkids.commicrosoftstart.com	start.com1drv.com1drv.mslivefilestore.comonedrive.coonedrive.co.ukonedrive.comonedrive.euonedrive.netonedrive.orgonedrive.live.comstorage.live.comasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
@@ -21744,6 +21754,9 @@ D
 RUTENrimg.com.twruten.com.tw
 
 	RUTRACKERmaintracker.orgrutracker.ccrutracker.crrutracker.merutracker.nlrutracker.orgrutrecker.net	rutrk.org
+ñ
+	SAKURAFRP13a.com
+natfrp.comfrp-air.comfrp-all.comfrp-arm.comfrp-art.comfrp-bag.comfrp-bid.comfrp-car.comfrp-dog.comfrp-dry.comfrp-egg.comfrp-era.comfrp-fan.comfrp-fee.comfrp-fog.comfrp-fox.comfrp-gas.comfrp-gym.comfrp-hat.comfrp-hen.comfrp-hip.comfrp-hub.comfrp-ice.comfrp-key.comfrp-kit.comfrp-lab.comfrp-leg.comfrp-mad.comfrp-mix.comfrp-mom.comfrp-nut.comfrp-oak.comfrp-one.comfrp-own.comfrp-pen.comfrp-rug.comfrp-run.comfrp-say.comfrp-shy.comfrp-act.comfrp-any.comfrp-bar.comfrp-box.comfrp-boy.comfrp-bus.comfrp-dad.comfrp-end.comfrp-fun.comfrp-gap.comfrp-man.comfrp-net.comfrp-now.comfrp-off.comfrp-oil.comfrp-put.comfrp-rib.comfrp-sea.comfrp-six.com
 ñ
 
 SALESFORCEappcloud.comappexchange.comattic.iobeyondcore.combuddymedia.comchatter.comcloudcraze.comcotweet.comdata.comdemandware.comdesk.comdocumentforce.comdreamforce.comeinstein.comexacttarget.com	force.comgovforce.comgravitytank.comheywire.comkrux.commarketingcloud.commetamind.io
@@ -23461,10 +23474,10 @@ twitter.jptwitter.map.fastly.nettwittercommunity.comtwitterfli
 X315x315.com
 
 XAIgrok.comx.ai
-“
-XBOX
-beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.comcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
-mojang.comxboxforzamotorsport.netforzaracingchampionship.comforzarc.comgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
+˜
+XBOXasobostudio.comflightsimulator.com!flightsimulator.azureedge.net
+beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com	forza.netforzamotorsport.netforzaracingchampionship.comforzarc.com#prodforza.blob.core.windows.netcallersbane.comminecraft-services.netminecraft.netminecraftservices.comminecraftshop.com
+mojang.comxboxgamepass.comorithegame.comrenovacionxboxlive.comtellmewhygame.comxbox.coxbox.comxbox.euxbox.org
 xbox360.coxbox360.com
 xbox360.euxbox360.org
 xboxab.comxboxgamepass.comxboxgamestudios.comxboxlive.cn
