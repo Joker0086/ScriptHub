@@ -2322,15 +2322,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyNjA3OmE2ODA6NDpmMDAzOjplYzMyXSAKQZEj8OAMOEB3ZaY36Jovz59wKeyFhBAMV6eOK384rhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-jakarta-ipv4
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjE1MS4yNDMuMjIyLjk0IMp-kt2QTVeHxfHuzsBm8Y-j_LnTTldhKbHfA61KITsfGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-jakarta-ipv6
 
 DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2509,24 +2500,6 @@ DNSCry.pt Lima 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6NTU1Ojo3Ml0gS8jVegUFP4sDSXKIm9PYxfLCJ_rnACQS31CLlx2UA9YZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-lisbon-ipv4
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE4NS4yMTkuMTMwLjIgHK9ZDGB_hDz_YHLGqdsTmT_RzQElksp6DBaYUSXst2oZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-lisbon-ipv6
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGlsyYTBlOmJjMDA6OjE4NToyMTk6MTMwOjJdIByvWQxgf4Q8_2ByxqnbE5k_0c0BJZLKegwWmFEl7LdqGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-london-ipv4
@@ -3456,15 +3429,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADjE5My4xMDguMTEyLjc0IG7QPzr27aqzdTjaPc4_rNjuyP4-Bc8KtStU-0no294yGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-tirana-ipv6
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syNjA1OmU0NDA6NDY6OjI5Ml0gbtA_OvbtqrN1ONo9zj-s2O7I_j4Fzwq1K1T7Sejb3jIZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-tokyo-ipv4
 
 DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3926,15 +3890,6 @@ An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Fre
 https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XaD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaD1dX14bxc_arUxl-ycIpCKwG0q5Oqipbb1jrvwA5eh36CzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KDs8GIL_DDURN71d63GXDdQWnO6LS_Z5v9Bw-060NZaD6Ci4ydDY3bY52QFq-n-yIy0HeLU0DUNToKSpTEYxLjfW6CQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOaDWrXBNNBdOEgjJUqqrmDXrHAZrDc2jtNrUD0UT6OGCWqCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdKDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_KAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVaDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
-
-
-## doh.ibksturm
-
-DOH Server, No Logging, No Filters, DNSSEC, OpenNIC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
 
 ## doh.tiar.app
