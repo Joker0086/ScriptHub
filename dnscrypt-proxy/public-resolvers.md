@@ -194,14 +194,6 @@ sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjE6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjI6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 
 
-## ahadns-doh-la
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=la
-
-sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDig9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2g9XV9eG8XP2q1MZfsnCKQisBtKuTqoqW29Y678AOXod-gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeig7PBiC_ww1ETe9Xetxlw3UFpzui0v2eb_QcPtOtDWWg-gouMnQ2N22OdkBavp_siMtB3i1NA1DU6CkqUxGMS431ugkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDmg1q1wTTQXThIIyVKqq5g16xwGaw3No7Ta1A9FE-jhglqgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XSg5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvygKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1Wg1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gRZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
@@ -1252,14 +1244,6 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiAOp5Svj-oV-Fz-65-8H2VKHLKJ0egmfEgrdPeAQ
 sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIA6nlK-P6hX4XP7rn7wfZUocsonR6CZ8SCt094BCVQUUCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
-## dns0-unfiltered
-
-The unfiltered version of dns0.eu.
-https://open.dns0.eu/
-
-sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxvcGVuLmRuczAuZXUKL2Rucy1xdWVyeQ
-
-
 ## dns4all-ipv4
 
 A DoH resolver operated by sidnlabs.nl. No-logs, DNSSEC. Filters domains sanctioned by the EU.
@@ -1334,7 +1318,7 @@ Designed to block ads, malware, and surveillance. No logs.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADTQ1LjEzNi4zMC4xMzQgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkNZG5zYnVua2VyLm9yZwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE1Mi41My4yMDcuMTkxIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5DWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-adelaide-ipv4
@@ -1877,15 +1861,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyYTBmOjU3MDc6YWE4MTo1ZTNjOjoxXSBuUQimZ1nASFsDCfcH3SJC4VkbjQnM7_mlXIa6sCMwJhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-dusseldorf02-ipv4
-
-DNSCry.pt Düsseldorf 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTQ1LjEzMy43NS4xMjIgWAo_MyYybZGGBQKsA41WpC5TjjpfvgviHteGEKBXNIwZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-dusseldorf02-ipv6
 
 DNSCry.pt Düsseldorf 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2001,24 +1976,6 @@ DNSCry.pt Frankfurt 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAFFsyYTA3OmQ4ODQ6MTAwOjozNDRdICF8IgKd58zEmqckaKewG1jRvKxXw9Whob7xklxXX79uGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-fremont-ipv4
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDIzLjEzNC44OC43MSBywAheyGUw9-6xRRd9vJpQ9_so9hVXnOc-T50u1HjNlxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-fremont-ipv6
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjAyOmZiYTE6MTAwOjo3MToxXSBywAheyGUw9-6xRRd9vJpQ9_so9hVXnOc-T50u1HjNlxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-fremont02-ipv4
@@ -2145,24 +2102,6 @@ DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 ser
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAFlsyYTAzOmY4MDozNTQ6MzhiNzo6MV0g2G18e9zdTlwTr-SyUBkmzCnOOGC9gpBjta3pgKLqEhYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-halifax-ipv4
-
-DNSCry.pt Halifax - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDIzLjE5MS44MC43MiDWU4t3XLrMS6HgwPKxB17yx4QrCA3dwd2kWcDZNhlkzRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-halifax-ipv6
-
-DNSCry.pt Halifax - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjAyOmZjMWM6ZmEwOjExOjoxXSDWU4t3XLrMS6HgwPKxB17yx4QrCA3dwd2kWcDZNhlkzRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-hanoi-ipv4
@@ -2867,15 +2806,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyNjAyOmZjMjQ6MTI6OTg3Mzo6YWIxXSAIDj6De26zf2mqbvz8Kg5zxvJEFst-5zlx4SIU0Vac3hkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-newcastle-ipv4
-
-DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTg5LjIxMy4xOTYuNzcg5RbLPYmW92CbBRwDaa6GBYf95W2i80v7XGR0sV0BNuoZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-newcastle-ipv6
 
 DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2921,24 +2851,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAJVsyYTAzOjQwMDA6NWM6NTE6MjRiOTo1MWZmOmZlODA6ZjNhN10gr2UzWGeubsFSZXP-_a8P2GA-gsZJ81sKZuhdsgsGqscZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-oradea-ipv4
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE5My4zMi44Ny4xMjcgqGZV4dUptaXgY6MX4VJhhQfNcTb8Kd0AVhegLHQzJogZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-oradea-ipv6
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAHlsyYTBkOjgxNDM6MDoxMjQ6MjkxNTphZjowOjE4XSCoZlXh1Sm1peBjoxfhUmGFB81xNvwp3QBWF6AsdDMmiBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-ottoville-ipv4
 
 DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2955,24 +2867,6 @@ DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAE1syNjAyOmY5NTM6NjoyNTo6YV0gVScmW_w9Ems3sm531o-Q1mfDVIMYovs4Pa_jfFTUlrQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-palermo-ipv4
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE4NS4xOTguMjM1LjUgQtv_8oRO151V7Zj38GTD4htork4CX1jLcjZ7zBU9M74ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-palermo-ipv6
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjA1OmU0NDA6MTI6OjI6MmRiXSBC2__yhE7XnVXtmPfwZMPiG2iuTgJfWMtyNnvMFT0zvhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-paris-ipv4
@@ -3281,24 +3175,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMzpmOjphXSBfgO2Adqvwp-0GfeOlxxbg7wFDZUVy3CHC7-sx-YJaxhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-sofia-ipv4
-
-DNSCry.pt Sofia - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAACzc5LjEyNC43Ny4zIGjOJralcFGh38dFov6MP6OkkaSPIlSCbku5I7J2NZUfGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-sofia-ipv6
-
-DNSCry.pt Sofia - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTAxOjg3NDA6MTo0MDo6OGEyNV0gaM4mtqVwUaHfx0Wi_ow_o6SRpI8iVIJuS7kjsnY1lR8ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-spokane-ipv4
 
 DNSCry.pt Spokane - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3443,24 +3319,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGlsyYTEyOmUzNDA6MzAwOjoxNzY4OmE5NWZdIPJzhjdxZyM26tndoRa3Wn6BzROxmvxxTEWO0Kd-ffu8GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-telaviv-ipv4
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTQ1LjE0NC4xNzIuNDUg15UYwcHp4Rx55fvGCR3MIfmgcHtYPobK5mjIGyMcRXUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-telaviv-ipv6
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjA1OmU0NDA6Mjc6OjE6MzQ2XSDXlRjBwenhHHnl-8YJHcwh-aBwe1g-hsrmaMgbIxxFdRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-timisoara-ipv4
 
 DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3477,15 +3335,6 @@ DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAHlsyYTBjOjlmMDA6MjpkOTI4OjZmMGE6YjRlMjo6XSDMuhfc1PfFxgp4ZbNQKp6bPc46GjmBvoitb_MrP20o9xkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-tirana-ipv4
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjE5My4xMDguMTEyLjc0IG7QPzr27aqzdTjaPc4_rNjuyP4-Bc8KtStU-0no294yGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-tokyo-ipv4
