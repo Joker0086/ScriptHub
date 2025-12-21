@@ -243,13 +243,6 @@ India Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMxNjUuMjMxLjI1My4xNjM6NDQz
 
 
-## anon-cs-india6
-
-India IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRtbMjAwMTo0NzA6MWYyOToyMDQ6OjUzXTo0NDM
-
-
 ## anon-cs-la
 
 US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -1466,24 +1459,6 @@ DNSCry.pt Guayaquil - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRhbMjgwMzpjMzEwOmZmMDI6M2IxNDo6MV0
-
-
-## dnscry.pt-anon-hafnarfjordur-ipv4
-
-DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xNTEuMjM2LjI0LjE5MA
-
-
-## dnscry.pt-anon-hafnarfjordur-ipv6
-
-DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMmEwMzpmODA6MzU0OjM4Yjc6OjFd
 
 
 ## dnscry.pt-anon-hanoi-ipv4
