@@ -678,8 +678,9 @@ apipost.cnapipost.net
 ]
 APKPUREapkpure.comapkpure.netcdnpure.compureapk.com
 winudf.com
-¶‚
-APPLE%api-adservices.apple.com
+ ‚
+APPLE"advertising.apple.com
+ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
 ads	qwapi.com
@@ -1047,8 +1048,9 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cnxp.apple.com
 cn
-Ö
-	APPLE-ADS%api-adservices.apple.com
+©
+	APPLE-ADS"advertising.apple.com
+ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
 ads	qwapi.com
@@ -1856,7 +1858,7 @@ byapis.com	bycbe.combymj.iobyabcde.com
 byapps.net
 byd3c3.com	bybit.biz
 bybdc6.combybit-global.combybit.cloudbybitglobal.combybit-exchange.github.iobybit.ada.support
-Ö~
+‰~
 	BYTEDANCE(ads3-normal-hl.zijieapi.com
 ads%ads3-normal.zijieapi.com
 ads(ads5-normal-hl.zijieapi.com
@@ -1872,12 +1874,15 @@ bybdc6.combybit-global.combybit.cloudbybitglobal.combybi
 ads&rtlog3-applog.fqnovel.com
 ads)rtlog5-applog-hl.fqnovel.com
 ads&rtlog5-applog.fqnovel.com
+adsad.toutiao.com
+ads!analytics.tiktok.com
 adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -2005,7 +2010,7 @@ ppxhhh.com
 ppximg.comppxstatic.com
 ppxvod.comxiaoxiaapi.comdouyinec.comecombdapi.comecombdstatic.comjinritemai.com	faceu.comulikecam.com
 rsproxy.cn
-¥
+ì
 BYTEDANCE-ADS(ads3-normal-hl.zijieapi.com
 ads%ads3-normal.zijieapi.com
 ads(ads5-normal-hl.zijieapi.com
@@ -2021,12 +2026,15 @@ rsproxy.cn
 ads&rtlog3-applog.fqnovel.com
 ads)rtlog5-applog-hl.fqnovel.com
 ads&rtlog5-applog.fqnovel.com
+adsad.toutiao.com
+ads!analytics.tiktok.com
 adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -2087,7 +2095,7 @@ csdl.ac.cniscas.ac.cn	las.ac.cn
 •
 CATEGORY-ACGcolorfulstage.comcrypton.co.jplapriere.jpmagicalmirai.commikuexpo.com
 piapro.netsnowmiku.combowlroll.net
-öñ
+—ò
 CATEGORY-ADS apilog-web.acfun.cn
 adsadcolony.com
 ads
@@ -2165,6 +2173,7 @@ adjust.com
 ads$v6-adashx.ut.taobao.com
 ads amazon-adsystem.com
 adsserving-sys.com
+ads"advertising.apple.com
 ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
@@ -2243,12 +2252,15 @@ applvn.com
 ads&rtlog3-applog.fqnovel.com
 ads)rtlog5-applog-hl.fqnovel.com
 ads&rtlog5-applog.fqnovel.com
+adsad.toutiao.com
+ads!analytics.tiktok.com
 adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -2269,7 +2281,8 @@ applvn.com
 adsshoppingads.cn
 adsadivery.com
 adivery.irkaprila.com	najva.comsabavision.com
-tapsell.iryektanet.comclearbit.com
+tapsell.iryektanet.comad.cctv.com
+adsclearbit.com
 adsclearbitjs.com
 ads clearbitscripts.com
 adsad.games.dmm.com
@@ -2289,8 +2302,6 @@ microad.jp
 ads'analytics.vpc.duolingo.com
 ads	emogi.com
 adsdata.flurry.com
-ads!collector.github.com
-ads4'copilot-telemetry.githubusercontent.com
 ads2mdn-cn.net
 ads2mdn.net
 adsadmob-cn.com
@@ -2399,6 +2410,8 @@ adkwai.com
 ads)graph-fallback.instagram.com
 adsgraph.whatsapp.com
 adsgraph.whatsapp.net
+ads!collector.github.com
+ads4'copilot-telemetry.githubusercontent.com
 ads'browser.events.data.msn.cn
 ads(browser.events.data.msn.com
 ads
@@ -2513,6 +2526,7 @@ ssacdn.com
 adsxy-log.tagtic.cn
 adsssp.api.tappx.com
 adsad.hpplay.cn
+adsadc.hpplay.cn
 adsadeng.hpplay.cn
 ads#ads-uo.api.leiniao.com
 ads#ads-ut.api.leiniao.com
@@ -2569,6 +2583,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -2577,10 +2592,12 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
 wit.qq.com
+adstdsdk.cpatrk.net
 adsuberads.com
 adsaaid.umeng.com
 adsalog.umeng.com
@@ -2642,7 +2659,7 @@ w.cnzz.com
 ads*zhihu-web-analytics.zhihu.com
 ads	51.la51y5.neta.adtng.com
 aaxads.com
-ad-srv.netad.api.moji.comad.wang502.comadbutter.netaddthisedge.comads.trafficjunky.netads.wteam.xyzadtechus.com
+ad-srv.netad.api.moji.comad.wang502.comadbutter.netaddthisedge.comads.trafficjunky.netads.wteam.xyzadservice.sigmob.cnadtechus.com
 adtrue.comadxprtz.comcdn.advertserve.comcdn.banclip.comcfts1tifqr.comcontentabc.comcretgate.comdecide.mixpanel.comero-advertising.comeroadvertising.comexoclick.com
 exosrv.com
 go2.globalgozendata.com	gzads.comgz-data.comimg-bss.csdn.netimglnkc.comimglnkd.cominnovid.comjads.cojl3.yjaxa.topjuicyads.comkepler-37b.comleanplum.com
@@ -2650,11 +2667,12 @@ lqc006.commoat.commoatads.commobwithad.comonesignal.com
 yfanads.cnyfanads.com
 shuzilm.cnchina-caa.orgcnaa123.comchinaciaf.orgiabchina.cnzxid-api.mobileservice.cnzxid-m.mobileservice.cnipinyou.comipinyou.com.cn
 optaim.comreachmax.cn	reyun.comzhugeapi.comzhugeapi.netzhugeio.comatrace.chelaile.net.cnlogs.chelaile.net.cn
-‡ö
+»ù
 CATEGORY-ADS-ALL7box.vip
 adsad-delivery.net
 adsadinplay.com
 ads	adnxs.com
+ads	adview.cn
 ads!ads.trafficjunky.net
 adsadvertserve.com
 adscasalemedia.com
@@ -2669,6 +2687,8 @@ demdex.net
 adsmgid.com
 adsns1p.net
 adspubmatic.com
+ads
+sigmob.com
 adssnapads.com
 adsspotxchange.com
 ads
@@ -2751,6 +2771,7 @@ adjust.com
 ads$v6-adashx.ut.taobao.com
 ads amazon-adsystem.com
 adsserving-sys.com
+ads"advertising.apple.com
 ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
@@ -2829,12 +2850,15 @@ applvn.com
 ads&rtlog3-applog.fqnovel.com
 ads)rtlog5-applog-hl.fqnovel.com
 ads&rtlog5-applog.fqnovel.com
+adsad.toutiao.com
+ads!analytics.tiktok.com
 adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -2855,7 +2879,8 @@ applvn.com
 adsshoppingads.cn
 adsadivery.com
 adivery.irkaprila.com	najva.comsabavision.com
-tapsell.iryektanet.comclearbit.com
+tapsell.iryektanet.comad.cctv.com
+adsclearbit.com
 adsclearbitjs.com
 ads clearbitscripts.com
 adsad.games.dmm.com
@@ -2875,8 +2900,6 @@ microad.jp
 ads'analytics.vpc.duolingo.com
 ads	emogi.com
 adsdata.flurry.com
-ads!collector.github.com
-ads4'copilot-telemetry.githubusercontent.com
 ads2mdn-cn.net
 ads2mdn.net
 adsadmob-cn.com
@@ -2985,6 +3008,8 @@ adkwai.com
 ads)graph-fallback.instagram.com
 adsgraph.whatsapp.com
 adsgraph.whatsapp.net
+ads!collector.github.com
+ads4'copilot-telemetry.githubusercontent.com
 ads'browser.events.data.msn.cn
 ads(browser.events.data.msn.com
 ads
@@ -3099,6 +3124,7 @@ ssacdn.com
 adsxy-log.tagtic.cn
 adsssp.api.tappx.com
 adsad.hpplay.cn
+adsadc.hpplay.cn
 adsadeng.hpplay.cn
 ads#ads-uo.api.leiniao.com
 ads#ads-ut.api.leiniao.com
@@ -3155,6 +3181,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -3163,10 +3190,12 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
 wit.qq.com
+adstdsdk.cpatrk.net
 adsuberads.com
 adsaaid.umeng.com
 adsalog.umeng.com
@@ -3228,7 +3257,7 @@ w.cnzz.com
 ads*zhihu-web-analytics.zhihu.com
 ads	51.la51y5.neta.adtng.com
 aaxads.com
-ad-srv.netad.api.moji.comad.wang502.comadbutter.netaddthisedge.comads.trafficjunky.netads.wteam.xyzadtechus.com
+ad-srv.netad.api.moji.comad.wang502.comadbutter.netaddthisedge.comads.trafficjunky.netads.wteam.xyzadservice.sigmob.cnadtechus.com
 adtrue.comadxprtz.comcdn.advertserve.comcdn.banclip.comcfts1tifqr.comcontentabc.comcretgate.comdecide.mixpanel.comero-advertising.comeroadvertising.comexoclick.com
 exosrv.com
 go2.globalgozendata.com	gzads.comgz-data.comimg-bss.csdn.netimglnkc.comimglnkd.cominnovid.comjads.cojl3.yjaxa.topjuicyads.comkepler-37b.comleanplum.com
@@ -3719,7 +3748,7 @@ telesco.pe
 tg.dev	tx.meusercontent.devtemp-mail.org	viber.comviber.coviber.mes-bid.rmp.rakuten.com	vbcdn.com	vbcdn.netgraph.whatsapp.com
 adsgraph.whatsapp.net
 ads	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
-ª’
+ﬂ’
 
 CATEGORY-COMPANIESacer-group.comacer.comacer.com.cn
 cn3dns-1.adobe.com3dns-2.adobe.com3dns-3.adobe.com3dns-4.adobe.com3dns-5.adobe.com3dns.adobe.comactivate-sea.adobe.comactivate-sjc0.adobe.comactivate.adobe.comactivate.wip1.adobe.comactivate.wip2.adobe.comactivate.wip3.adobe.comactivate.wip4.adobe.comadobe-dns-1.adobe.comadobe-dns-2.adobe.comadobe-dns-3.adobe.comadobe-dns-4.adobe.comadobe-dns.adobe.comadobeereg.comcrl.versign.netereg.adobe.comereg.wip.adobe.comereg.wip1.adobe.comereg.wip2.adobe.comereg.wip3.adobe.comereg.wip4.adobe.comhl2rcv.adobe.comhlrcv.stage.adobe.comlm.licenses.adobe.comlmlicenses.wip4.adobe.comna1r.services.adobe.comood.opsource.netpractivate.adobepractivate.adobe.compractivate.adobe.ipppractivate.adobe.newoapractivate.adobe.ntpwip.adobe.comwip1.adobe.comwip2.adobe.comwip3.adobe.comwip4.adobe.comwwis-dubc1-vip100.adobe.comwwis-dubc1-vip101.adobe.comwwis-dubc1-vip102.adobe.comwwis-dubc1-vip103.adobe.comwwis-dubc1-vip104.adobe.comwwis-dubc1-vip105.adobe.comwwis-dubc1-vip106.adobe.comwwis-dubc1-vip107.adobe.comwwis-dubc1-vip108.adobe.comwwis-dubc1-vip109.adobe.comwwis-dubc1-vip110.adobe.comwwis-dubc1-vip111.adobe.comwwis-dubc1-vip112.adobe.comwwis-dubc1-vip113.adobe.comwwis-dubc1-vip114.adobe.comwwis-dubc1-vip115.adobe.comwwis-dubc1-vip116.adobe.comwwis-dubc1-vip117.adobe.comwwis-dubc1-vip118.adobe.comwwis-dubc1-vip119.adobe.comwwis-dubc1-vip120.adobe.comwwis-dubc1-vip121.adobe.comwwis-dubc1-vip122.adobe.comwwis-dubc1-vip123.adobe.comwwis-dubc1-vip124.adobe.comwwis-dubc1-vip125.adobe.comwwis-dubc1-vip30.adobe.comwwis-dubc1-vip31.adobe.comwwis-dubc1-vip32.adobe.comwwis-dubc1-vip33.adobe.comwwis-dubc1-vip34.adobe.comwwis-dubc1-vip35.adobe.comwwis-dubc1-vip36.adobe.comwwis-dubc1-vip37.adobe.comwwis-dubc1-vip38.adobe.comwwis-dubc1-vip39.adobe.comwwis-dubc1-vip40.adobe.comwwis-dubc1-vip41.adobe.comwwis-dubc1-vip42.adobe.comwwis-dubc1-vip43.adobe.comwwis-dubc1-vip44.adobe.comwwis-dubc1-vip45.adobe.comwwis-dubc1-vip46.adobe.comwwis-dubc1-vip47.adobe.comwwis-dubc1-vip48.adobe.comwwis-dubc1-vip49.adobe.comwwis-dubc1-vip50.adobe.comwwis-dubc1-vip51.adobe.comwwis-dubc1-vip52.adobe.comwwis-dubc1-vip53.adobe.comwwis-dubc1-vip54.adobe.comwwis-dubc1-vip55.adobe.comwwis-dubc1-vip56.adobe.comwwis-dubc1-vip57.adobe.comwwis-dubc1-vip58.adobe.comwwis-dubc1-vip59.adobe.comwwis-dubc1-vip60.adobe.comwwis-dubc1-vip61.adobe.comwwis-dubc1-vip62.adobe.comwwis-dubc1-vip63.adobe.comwwis-dubc1-vip64.adobe.comwwis-dubc1-vip65.adobe.comwwis-dubc1-vip66.adobe.comwwis-dubc1-vip67.adobe.comwwis-dubc1-vip68.adobe.comwwis-dubc1-vip69.adobe.comwwis-dubc1-vip70.adobe.comwwis-dubc1-vip71.adobe.comwwis-dubc1-vip72.adobe.comwwis-dubc1-vip73.adobe.comwwis-dubc1-vip74.adobe.comwwis-dubc1-vip75.adobe.comwwis-dubc1-vip76.adobe.comwwis-dubc1-vip77.adobe.comwwis-dubc1-vip78.adobe.comwwis-dubc1-vip79.adobe.comwwis-dubc1-vip80.adobe.comwwis-dubc1-vip81.adobe.comwwis-dubc1-vip82.adobe.comwwis-dubc1-vip83.adobe.comwwis-dubc1-vip84.adobe.comwwis-dubc1-vip85.adobe.comwwis-dubc1-vip86.adobe.comwwis-dubc1-vip87.adobe.comwwis-dubc1-vip88.adobe.comwwis-dubc1-vip89.adobe.comwwis-dubc1-vip90.adobe.comwwis-dubc1-vip91.adobe.comwwis-dubc1-vip92.adobe.comwwis-dubc1-vip93.adobe.comwwis-dubc1-vip94.adobe.comwwis-dubc1-vip95.adobe.comwwis-dubc1-vip96.adobe.comwwis-dubc1-vip97.adobe.comwwis-dubc1-vip98.adobe.comwwis-dubc1-vip99.adobe.com"advertising.adobe.com
@@ -3822,7 +3851,8 @@ netcup.netnetcup-news.denetcup-sonderangebote.denetcup-wiki.de
 nicesrv.depowersrv.dequicksrv.deservercontrolpanel.desupersrv.deultrasrv.deyourvserver.net	anexia.at
 anexia.comanexia-engine.comanexia-it.comfifthns.com
 firstns.ccfourthns.systemssecondns.at
-thirdns.de%api-adservices.apple.com
+thirdns.de"advertising.apple.com
+ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
 ads	qwapi.com
@@ -6798,12 +6828,13 @@ socrec.orgstorm.mgtaipeitimes.comtaiwannews.com.twtheaff
 upmedia.mgvjmedia.com.hkwarroom.orgwashingtonpost.comwatch.impress.co.jpwealth.com.twweiyuksj.com
 wenzhao.ca	wired.com
 ydn.com.twyibaochina.comyoulucky.comzerohedge.comzoomingin.tv
-∂(
+–(
 CATEGORY-MEDIA-CN36dianping.com36kr.com36krcdn.com36krcnd.comcctv.cncctv.com
 cctvlib.cncctvlib.com.cncctvlibrary.cncctvlibrary.com.cncctvpic.com
 cctvpro.cncctvpro.com.cnchinaepg.cnchinalive.comchinaott.comcitv.net.cncnms.net.cncntv.cncntv.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cnicntvcdn.com	ipanda.cn
 ipanda.comipanda.com.cn
-ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnchinanews.comchinanews.com.cn
+ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnad.cctv.com
+adschinanews.comchinanews.com.cn
 cns.com.cnecns.cninewsweek.cncoolbuy.comifanr.cn	ifanr.comifanr.inifanrusercontent.com
 ifanrx.com
 minapp.comjiemian.comjiemian.com.cn
@@ -7062,10 +7093,10 @@ pornmd.comseancody.comthumbzilla.comtwistys.com
 webcams.tvwhynotbi.com	missav.ai
 missav.com
 missav.uno
-missav.vip	missav.wsmoxing.mobimoxing.newsnetflav.comnetflav1.comnetflav5.comnudevista.comnudevista.esnudevista.netnudevista.vip$ad-channel.diwodiwo.xyz
+missav.vip	missav.wsmoxing.mobimoxing.newsnetflav.comnetflav1.comnetflav5.comnudevista.comnudevista.esnudevista.netnudevista.vip	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
+picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyz$ad-channel.diwodiwo.xyz
 ads$ad-display.diwodiwo.xyz
-ads	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
-picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyzplayboy.complayboy.com.ukgaytube.com
+adsplayboy.complayboy.com.ukgaytube.com
 phncdn.comphprcdn.comporngub.compornhub-deutsch.netpornhubapparel.compornhub.compornhub.orgpornhubpremium.compornpros.compornprosnetwork.compoi.icupoi6.net
 poihub.comproject-poi.comsehuatang.netsehuatang.orgshireyishunjian.comyingpianqu.comjhxl.orgxn--sgt856gbjl.ccspankbang.comspankbang.party	sb-cd.com	5w.agswag-live.co	swag.liveporndude2.comporndudecasting.compornsites.compornwebmasters.comtheporndude.cctheporndude.comtheporndude.vip18eighteen.com40somethingmag.com50plusmilfs.com60plusmilfs.comanalqts.comashleysageellison.comasiancoochies.comautumn-jade.combeascoremodel.combigboobalexya.combigboobbundle.combigboobdaria.combigboobspov.combigboobvanessay.combigtitangelawhite.combigtithitomi.combigtithooker.combigtitkatiethornton.combigtitterrynova.combigtitvenera.comblackandstacked.combonedathome.combootyliciousmag.combustyangelique.combustyarianna.combustydanniashe.combustydustystash.combustyinescudna.combustykellykay.combustykerrymarie.combustylezzies.combustylornamorgan.combustymerilyn.combustyoldsluts.combustysammieblack.comcherrybrady.comchicksonblackdicks.comchloesworld.comchristymarks.comcock4stepmom.comcodivorexxx.comcreampieforgranny.comcrystalgunnsworld.comdaylenerio.comdesiraesworld.comdianepoppos.comebonythots.comeboobstore.comevanottyvideos.comfeedherfuckher.comflatandfuckedmilfs.comgetscorecash.comgrannygetsafacial.comgrannylovesbbc.comgrannylovesyoungcock.comhairycoochies.comhomealonemilfs.comhornyasianmilfs.comibonedyourmom.comifuckedtheboss.comjessicaturner.co.ukjessicaturner.comjoanabliss.comjuliamiles.comkarinahart.comkarlajames.comlatinacoochies.comlatinmommas.comleannecrowvideos.com
 legsex.comlinseysworld.commegatitsminka.commickybells.commilfbundle.commilfthreesomes.commilftugs.commillymarks.commommystoytime.comnataliefiore.comnaughtyfootjobs.comnaughtymag.comnaughtytugs.comnicolepeters.comoldhornymilfs.compickinguppussy.compornloser.compornmegaload.comreneerossvideos.comroxired.comsarennasworld.comscoreclassics.comscoregroup.comscoreland.comscoreland2.comscorepass.com
@@ -7997,9 +8028,9 @@ sinajs.comt.cnth.weibo.com
 xhscdn.com
 xhscdn.netxhslink.comxiaohongshu.com
 duowan.comdwstatic.com
-yy.comyystatic.comcrash2.zhihu.com
+yy.comyystatic.com	zhihu.com	zhimg.comcrash2.zhihu.com
 ads*zhihu-web-analytics.zhihu.com
-ads	zhihu.com	zhimg.comtieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
+adstieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
 ≈
 CATEGORY-SOCIAL-MEDIA-IRbale.ai	eitaa.comeitaa.ir
 gap.imgaplication.com	mizito.irniniban.comninisite.com	rubika.irsplus.irvirasty.com
@@ -8087,12 +8118,13 @@ ccbcos.com
 ccbfund.cnccbfund.comccbfund.com.cnccbfutures.cnccbfutures.comccbintl.com.hk
 !cnccbleasing.comccblife-test.com.cnccbseoul.com
 !cnccbtrust.com.cn	ccbxt.com
-ﬁ
+¯
 CCTVcctv.cncctv.com
 cctvlib.cncctvlib.com.cncctvlibrary.cncctvlibrary.com.cncctvpic.com
 cctvpro.cncctvpro.com.cnchinaepg.cnchinalive.comchinaott.comcitv.net.cncnms.net.cncntv.cncntv.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cnicntvcdn.com	ipanda.cn
 ipanda.comipanda.com.cn
-ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cn
+ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnad.cctv.com
+ads
 %
 CDN77	cdn77.com	cdn77.org
 
@@ -8294,7 +8326,7 @@ cmbuat.com	cmburl.cn cmbwinglungbank.com
 !cncmf.bizcmf.ltdcmfchina.com
 cmfunds.cntest-cignacmb.com
 joying.com
-¢π
+Äª
 CNalibaba
 alipay	baidu	citiccnicbcsohu
 taobao	tmall
@@ -8545,7 +8577,8 @@ ztoapp.comztoglobal.comztogroup.com	ztoyh.comguoocang.com
 cctvlib.cncctvlib.com.cncctvlibrary.cncctvlibrary.com.cncctvpic.com
 cctvpro.cncctvpro.com.cnchinaepg.cnchinalive.comchinaott.comcitv.net.cncnms.net.cncntv.cncntv.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cnicntvcdn.com	ipanda.cn
 ipanda.comipanda.com.cn
-ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnchinanews.comchinanews.com.cn
+ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnad.cctv.com
+adschinanews.comchinanews.com.cn
 cns.com.cnecns.cninewsweek.cncoolbuy.comifanr.cn	ifanr.comifanr.inifanrusercontent.com
 ifanrx.com
 minapp.comjiemian.comjiemian.com.cn
@@ -8649,9 +8682,9 @@ sinajs.comt.cnth.weibo.com
 xhscdn.com
 xhscdn.netxhslink.comxiaohongshu.com
 duowan.comdwstatic.com
-yy.comyystatic.comcrash2.zhihu.com
+yy.comyystatic.com	zhihu.com	zhimg.comcrash2.zhihu.com
 ads*zhihu-web-analytics.zhihu.com
-ads	zhihu.com	zhimg.comtieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
+adstieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
 gepush.comgetui.cn	getui.com	getui.net
 igehuo.com
 igetui.com
@@ -9192,7 +9225,8 @@ moonvy.commoonvy.coolnewcoder.comnowcoder.comnowcoder.ne
 renren.comrenren-inc.com	feidee.cn
 feidee.com
 feidee.netssjlicai.comsui.comtendcloud.comtalkingdata.comtalkinggame.com
-cpatrk.netvaptcha.comvaptcha.nethf-aw.cn	hf-aw.comhuafeng-accuweather.cnhuafengaw.comweathercn.comwamawama.com
+cpatrk.nettdsdk.cpatrk.net
+adsvaptcha.comvaptcha.nethf-aw.cn	hf-aw.comhuafeng-accuweather.cnhuafengaw.comweathercn.comwamawama.com
 wiwide.com
 sojump.com
 wjx.cnwjx.comwjx.top	wolai.com
@@ -9431,12 +9465,15 @@ dxmlcf.comdxmlcfintech.com
 dxmpay.comdxmstatic.com
 dxmyqh.com
 paydxm.com
-beisen.com	beisen.cnbeisenapp.combeisencloud.combeisenpaas.combsurl.ccbsurl.cn	zhiye.com	sl916.combluepoch.combds.snssdk.com
+beisen.com	beisen.cnbeisenapp.combeisencloud.combeisenpaas.combsurl.ccbsurl.cn	zhiye.com	sl916.combluepoch.comad.toutiao.com
+ads!analytics.tiktok.com
+adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -9875,6 +9912,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -9883,6 +9921,7 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
@@ -11066,7 +11105,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-»é
+Ïé
 GEOLOCATION-!CNanthropic.com	claude.ai
 claude.comclaudeusercontent.comclaudemcpclient.com%!servd-anthropic-website.b-cdn.netcici.com
 ciciai.comciciaicdn.comdola.comcoze.commarscode.comtrae.aicerebras.aioystermercury.top	comfy.orgcomfyci.orgcomfyregistry.orgcursor-cdn.com
@@ -12251,10 +12290,10 @@ pornmd.comseancody.comthumbzilla.comtwistys.com
 webcams.tvwhynotbi.com	missav.ai
 missav.com
 missav.uno
-missav.vip	missav.wsmoxing.mobimoxing.newsnetflav.comnetflav1.comnetflav5.comnudevista.comnudevista.esnudevista.netnudevista.vip$ad-channel.diwodiwo.xyz
+missav.vip	missav.wsmoxing.mobimoxing.newsnetflav.comnetflav1.comnetflav5.comnudevista.comnudevista.esnudevista.netnudevista.vip	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
+picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyz$ad-channel.diwodiwo.xyz
 ads$ad-display.diwodiwo.xyz
-ads	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
-picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyzplayboy.complayboy.com.ukgaytube.com
+adsplayboy.complayboy.com.ukgaytube.com
 phncdn.comphprcdn.comporngub.compornhub-deutsch.netpornhubapparel.compornhub.compornhub.orgpornhubpremium.compornpros.compornprosnetwork.compoi.icupoi6.net
 poihub.comproject-poi.comsehuatang.netsehuatang.orgshireyishunjian.comyingpianqu.comjhxl.orgxn--sgt856gbjl.ccspankbang.comspankbang.party	sb-cd.com	5w.agswag-live.co	swag.liveporndude2.comporndudecasting.compornsites.compornwebmasters.comtheporndude.cctheporndude.comtheporndude.vip18eighteen.com40somethingmag.com50plusmilfs.com60plusmilfs.comanalqts.comashleysageellison.comasiancoochies.comautumn-jade.combeascoremodel.combigboobalexya.combigboobbundle.combigboobdaria.combigboobspov.combigboobvanessay.combigtitangelawhite.combigtithitomi.combigtithooker.combigtitkatiethornton.combigtitterrynova.combigtitvenera.comblackandstacked.combonedathome.combootyliciousmag.combustyangelique.combustyarianna.combustydanniashe.combustydustystash.combustyinescudna.combustykellykay.combustykerrymarie.combustylezzies.combustylornamorgan.combustymerilyn.combustyoldsluts.combustysammieblack.comcherrybrady.comchicksonblackdicks.comchloesworld.comchristymarks.comcock4stepmom.comcodivorexxx.comcreampieforgranny.comcrystalgunnsworld.comdaylenerio.comdesiraesworld.comdianepoppos.comebonythots.comeboobstore.comevanottyvideos.comfeedherfuckher.comflatandfuckedmilfs.comgetscorecash.comgrannygetsafacial.comgrannylovesbbc.comgrannylovesyoungcock.comhairycoochies.comhomealonemilfs.comhornyasianmilfs.comibonedyourmom.comifuckedtheboss.comjessicaturner.co.ukjessicaturner.comjoanabliss.comjuliamiles.comkarinahart.comkarlajames.comlatinacoochies.comlatinmommas.comleannecrowvideos.com
 legsex.comlinseysworld.commegatitsminka.commickybells.commilfbundle.commilfthreesomes.commilftugs.commillymarks.commommystoytime.comnataliefiore.comnaughtyfootjobs.comnaughtymag.comnaughtytugs.comnicolepeters.comoldhornymilfs.compickinguppussy.compornloser.compornmegaload.comreneerossvideos.comroxired.comsarennasworld.comscoreclassics.comscoregroup.comscoreland.comscoreland2.comscorepass.com
@@ -13273,7 +13312,8 @@ netcup.netnetcup-news.denetcup-sonderangebote.denetcup-wiki.de
 nicesrv.depowersrv.dequicksrv.deservercontrolpanel.desupersrv.deultrasrv.deyourvserver.net	anexia.at
 anexia.comanexia-engine.comanexia-it.comfifthns.com
 firstns.ccfourthns.systemssecondns.at
-thirdns.de%api-adservices.apple.com
+thirdns.de"advertising.apple.com
+ads%api-adservices.apple.com
 adsiadsdk.apple.com
 adsiad.apple.com
 ads	qwapi.com
@@ -14450,7 +14490,7 @@ rea.global
 rea.iorea.techrealcommercial.com.aurealestate.com.aurealtor.comreastatic.netrumah123.comsmartexpos.comsmartline.com.auspacely.com.ausquarefoot.com.hkthinkofliving.compredb.mescenesource.me	scnsrc.mesbux.com.mysbuxcard.comstarbucks-stars.comstarbucks.adstarbucks.atstarbucks.bestarbucks.bgstarbucks.castarbucks.chstarbucks.co.idstarbucks.co.jpstarbucks.co.nzstarbucks.co.thstarbucks.co.ukstarbucks.co.zastarbucks.comstarbucks.com.arstarbucks.com.bnstarbucks.com.cn
 cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.com
 tsquare.tv	windy.comxdty.org	xingrz.me
-¶¥
+Ñ∂
 GEOLOCATION-CNautohome.comautohome.com.cnautohome.tel
 autoimg.cnautoimg.com.cnbitauto.combitautoimg.comcheyisou.com	yiche.com	yccdn.comdcarapi.comdcarimg.comdcarlive.comdcarstatic.comdcarvod.com
 dcdapp.comdongchedi.comdongchediapp.combyd.com	geely.com
@@ -14687,7 +14727,8 @@ ztoapp.comztoglobal.comztogroup.com	ztoyh.comguoocang.com
 cctvlib.cncctvlib.com.cncctvlibrary.cncctvlibrary.com.cncctvpic.com
 cctvpro.cncctvpro.com.cnchinaepg.cnchinalive.comchinaott.comcitv.net.cncnms.net.cncntv.cncntv.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cnicntvcdn.com	ipanda.cn
 ipanda.comipanda.com.cn
-ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnchinanews.comchinanews.com.cn
+ipanda.netlivechina.cnlivechina.comolympicchannelchina.cn	ottcn.comtvcc.cntvcc.com.cn%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn%!xn--kprv4ewxfr9cpxcc7joo6apn8a.cn-)xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8syangshipin.cnzggbdszt.cnzggbdszt.com.cnzggbdszt.net.cnzygbdszt.net.cnad.cctv.com
+adschinanews.comchinanews.com.cn
 cns.com.cnecns.cninewsweek.cncoolbuy.comifanr.cn	ifanr.comifanr.inifanrusercontent.com
 ifanrx.com
 minapp.comjiemian.comjiemian.com.cn
@@ -14791,9 +14832,9 @@ sinajs.comt.cnth.weibo.com
 xhscdn.com
 xhscdn.netxhslink.comxiaohongshu.com
 duowan.comdwstatic.com
-yy.comyystatic.comcrash2.zhihu.com
+yy.comyystatic.com	zhihu.com	zhimg.comcrash2.zhihu.com
 ads*zhihu-web-analytics.zhihu.com
-ads	zhihu.com	zhimg.comtieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
+adstieba.baidu.com	tieba.comdandan818.comdandanvoice.com	maimai.cntaou.com
 gepush.comgetui.cn	getui.com	getui.net
 igehuo.com
 igetui.com
@@ -15334,7 +15375,8 @@ moonvy.commoonvy.coolnewcoder.comnowcoder.comnowcoder.ne
 renren.comrenren-inc.com	feidee.cn
 feidee.com
 feidee.netssjlicai.comsui.comtendcloud.comtalkingdata.comtalkinggame.com
-cpatrk.netvaptcha.comvaptcha.nethf-aw.cn	hf-aw.comhuafeng-accuweather.cnhuafengaw.comweathercn.comwamawama.com
+cpatrk.nettdsdk.cpatrk.net
+adsvaptcha.comvaptcha.nethf-aw.cn	hf-aw.comhuafeng-accuweather.cnhuafengaw.comweathercn.comwamawama.com
 wiwide.com
 sojump.com
 wjx.cnwjx.comwjx.top	wolai.com
@@ -15573,12 +15615,15 @@ dxmlcf.comdxmlcfintech.com
 dxmpay.comdxmstatic.com
 dxmyqh.com
 paydxm.com
-beisen.com	beisen.cnbeisenapp.combeisencloud.combeisenpaas.combsurl.ccbsurl.cn	zhiye.com	sl916.combluepoch.combds.snssdk.com
+beisen.com	beisen.cnbeisenapp.combeisencloud.combeisenpaas.combsurl.ccbsurl.cn	zhiye.com	sl916.combluepoch.comad.toutiao.com
+ads!analytics.tiktok.com
+adsbds.snssdk.com
 adsbyteadverts.com
 adsctobsnssdk.com
 adsdig.bdurl.net
 adsextlog.snssdk.com
 adsi.snssdk.com
+adslog.zijieapi.com
 adsmcs.snssdk.com
 ads'pangolin-dsp-toutiao-b.com
 ads%pangolin-dsp-toutiao.com
@@ -16017,6 +16062,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -16025,6 +16071,7 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
@@ -18433,8 +18480,10 @@ yammer.comskype-edf.akadns.netskypedata.akadns.net(dl.delivery.
 cn&wscont1.apps.microsoft.com
 cn&wscont2.apps.microsoft.com
 cn/+img-prod-cms-rt-microsoft-com.akamaized.netimg-s-msn-com.akamaized.netmwf-service.akamaized.net)%officecdn-microsoft-com.akamaized.net3/statics-marketingsites-eas-ms-com.akamaized.net3/statics-marketingsites-eus-ms-com.akamaized.net40statics-marketingsites-wcus-ms-com.akamaized.net
-œ
-MICROSOFT-ADS'browser.events.data.msn.cn
+®
+MICROSOFT-ADS!collector.github.com
+ads4'copilot-telemetry.githubusercontent.com
+ads'browser.events.data.msn.cn
 ads(browser.events.data.msn.com
 ads
 clarity.ms
@@ -19062,13 +19111,8 @@ v
 PHOENIX
 fengcx.com	ifeng.comifengimg.comphoenixcenter.cnfengedu.comifengweekly.com
 ì
-PICACG$ad-channel.diwodiwo.xyz
-ads$ad-display.diwodiwo.xyz
-ads	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
-picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyz
-X
-
-PICACG-ADS$ad-channel.diwodiwo.xyz
+PICACG	bikaa.xyz	bikac.xyzbikaios.xyzmanhuabika.compicacgp.compicacgy.com
+picacn.xyzpicacomic.compicacomic.xyzwikawika.xyzdiwodiwo.xyz$ad-channel.diwodiwo.xyz
 ads$ad-display.diwodiwo.xyz
 ads
 Z
@@ -20164,8 +20208,9 @@ telesco.pe
 TELEKOMtelekom.com
 telekom.de
 telesec.de
-±
+Õ
 TELEVISION-ADSad.hpplay.cn
+adsadc.hpplay.cn
 adsadeng.hpplay.cn
 ads#ads-uo.api.leiniao.com
 ads#ads-ut.api.leiniao.com
@@ -20181,7 +20226,7 @@ telesec.de
 ads
 
 	TEMP-MAILtemp-mail.org
-±i
+˜i
 TENCENTcomsenz.com
 discuz.net
 discuz.orgdns.pub	dnsapi.cn	dnspod.cn
@@ -20345,6 +20390,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -20353,6 +20399,7 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
@@ -20393,7 +20440,7 @@ fyeds6.com
 fyeds7.com
 fyeds8.com
 fyeds9.comfymall0.comfymall1.comfymall4.comfymall7.comfymall9.comfymallqa0.comfymallqa1.comfymallqa2.comfymallqa3.comfymallqa4.comfymallqa7.comfymallqa9.com
-∞
+ˆ
 TENCENT-ADSad.browser.qq.com
 ads	ad.qq.com
 adsad.qun.qq.com
@@ -20438,6 +20485,7 @@ mdt.qq.com
 adspingjs.qq.com
 adspmir.3g.qq.com
 adspush.qq.com
+adsqqdata.ab.qq.com
 ads report.qqweb.qq.com
 adsrmonitor.qq.com
 adssngmta.qq.com
@@ -20446,6 +20494,7 @@ mdt.qq.com
 adstcss.qq.com
 adstmead.y.qq.com
 adstmeadcomm.y.qq.com
+ads%tpstelemetry.tencent.com
 adstrace.qq.com
 adsugdtimg.com
 ads
@@ -20465,9 +20514,10 @@ gtgres.comrealcybertron.com
 wegame.comwegame.com.cnwegameplus.comwerepository.com.cnbrawlstars.cnhaydaypop.cnlabycore.cnsccreator.cnsccreators.cn
 scescdn.cnscid.cnscsentry.cnsupercellcommunity.cnsupercellsupport.cncodm.combcfmglobal.comtcfmglobal.comanticheatexpert.com
 17roco.comroco.qq.com
-X
+w
 	TENDCLOUDtendcloud.comtalkingdata.comtalkinggame.com
-cpatrk.net
+cpatrk.nettdsdk.cpatrk.net
+ads
 .
 TERABOXterabox.comteraboxcdn.com
 8
@@ -21600,11 +21650,7 @@ zeplin.dev	zeplin.io
 dutils.comhiaiabc.commobsdks.com
 yksdks.com
 p
-ZHIHUcrash2.zhihu.com
-ads*zhihu-web-analytics.zhihu.com
-ads	zhihu.com	zhimg.com
-V
-	ZHIHU-ADScrash2.zhihu.com
+ZHIHU	zhihu.com	zhimg.comcrash2.zhihu.com
 ads*zhihu-web-analytics.zhihu.com
 ads
 f
