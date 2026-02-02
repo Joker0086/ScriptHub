@@ -432,13 +432,6 @@ Romania Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExNDYuNzAuNjYuMjI3OjQ0Mw
 
 
-## anon-cs-ro6
-
-Romania IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRlbMmEwNDo5ZGMwOjA6MTYyOjo1M106NDQz
-
-
 ## anon-cs-sea
 
 US - Seattle, WA Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -572,20 +565,6 @@ IPv4 server. Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and main
 sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
 
 
-## anon-dnscrypt.uk-ipv4
-
-Anonymized DNS relay in London. https://www.dnscrypt.uk
-
-sdns://gQ0xNjUuMjMyLjMyLjk1
-
-
-## anon-dnscrypt.uk-ipv6
-
-Anonymized DNS relay in London. https://www.dnscrypt.uk
-
-sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
-
-
 ## anon-dnswarden-swiss
 
 Relay hosted in swizterland.
@@ -600,34 +579,6 @@ Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
 Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 
 sdns://gQ4xMDQuMjM4LjE1My40Ng
-
-
-## anon-jp1.vr.ekinao.com
-
-Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
-
-sdns://gRQxMzMuMjQyLjE2MS4yNTE6NTM1Mw
-
-
-## anon-jp1.vr.ekinao.com-ipv6
-
-Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
-
-sdns://gSlbMjQwMToyNTAwOjEwMjoxMTExOjEzMzoyNDI6MTYxOjI1MV06NTM1Mw
-
-
-## anon-jp2.vr.ekinao.com
-
-Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
-
-sdns://gRMxNTMuMTI3LjE2LjIzNTo1MzUz
-
-
-## anon-jp2.vr.ekinao.com-ipv6
-
-Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
-
-sdns://gShbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo1MzUz
 
 
 ## anon-kama
@@ -707,20 +658,6 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 Anonymized DNS relay hosted in Singapore
 
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
-
-
-## anon-v.dnscrypt.uk-ipv4
-
-Anonymized DNS relay hosted in UK on Vultr
-
-sdns://gQ8xMDQuMjM4LjE4Ni4xOTI
-
-
-## anon-v.dnscrypt.uk-ipv6
-
-Anonymized DNS relay hosted in UK on Vultr
-
-sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
 
 
 ## dnscry.pt-anon-adelaide-ipv4
