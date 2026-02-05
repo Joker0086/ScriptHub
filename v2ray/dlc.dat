@@ -2087,7 +2087,7 @@ csdl.ac.cniscas.ac.cn	las.ac.cn
 •
 CATEGORY-ACGbowlroll.netcolorfulstage.comcrypton.co.jplapriere.jpmagicalmirai.commikuexpo.com
 piapro.netsnowmiku.com
-’ñ
+ªñ
 CATEGORY-ADS2mdn-cn.net
 ads2mdn.net
 ads	51.la51y5.neta.adtng.coma.alimama.cn
@@ -2234,7 +2234,7 @@ adtrue.comadukwai.com
 applvn.comar.umeng.com
 adsark.letv.com
 ads#aspect-upush.umeng.com
-adsassets.growingio.comassp.sohu.com
+adsassp.sohu.com
 adsatanx.alicdn.com
 adsatanx2.alicdn.com
 adsatm.youku.com
@@ -2626,7 +2626,7 @@ yfanads.cnyfanads.com yk-ssp.ad.youku.com
 ads>1^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 adsOB^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 ads
-∫†
+Ä°
 CATEGORY-ADS-ALL1rx.io
 ads2mdn-cn.net
 ads2mdn.net
@@ -2787,7 +2787,7 @@ adtrue.comadukwai.com
 applvn.comar.umeng.com
 adsark.letv.com
 ads#aspect-upush.umeng.com
-adsassets.growingio.comassp.sohu.com
+adsassp.sohu.com
 adsatanx.alicdn.com
 adsatanx2.alicdn.com
 adsatm.youku.com
@@ -2851,7 +2851,7 @@ clarity.ms
 ads(data.mistat.intl.xiaomi.com
 ads'data.mistat.rus.xiaomi.com
 ads#data.mistat.xiaomi.com
-adsdc.letv.com
+ads	datayi.cndc.letv.com
 adsdecide.mixpanel.com
 demdex.net
 adsdig.bdurl.net
@@ -2895,7 +2895,8 @@ gdt.qq.com
 adsgemini.yahoo.com
 ads
 gia.jd.com
-adsgmossp-sp.jp
+adsgio.ren
+giocdn.comgmossp-sp.jp
 ads
 go2.global$google-analytics-cn.com
 ads!google-analytics.com
@@ -2922,7 +2923,7 @@ go2.global$google-analytics-cn.com
 ads graph.instagram.com
 adsgraph.whatsapp.com
 adsgraph.whatsapp.net
-ads!guanggaoad.youku.com
+ads	growin.cngrowingio.cngrowingio.com!guanggaoad.youku.com
 adsgz-data.com	gzads.comh-adashx.ut.ele.me
 ads#h-adashx.ut.taobao.com
 ads"h-adashx.ut.youku.com
@@ -3574,7 +3575,7 @@ srtcdn.netstackpath.comstackpath.devtl88.net
 cntrycloudflare.comvideodelivery.netvrcdn.cloud
 vrcdn.livevrcdn.video	warp.plusworkers.dev
 zencdn.net
-»
+⁄
 CATEGORY-CDN-CN	51cdn.com	8686c.comacadn.cn	acadn.com	aicdn.combbbcdns.com
 bootcdn.cnbootcdn.netbootcss.com
 bsclink.cn	cdn20.com	cdn30.org	cdnmg.comcf-china.info
@@ -3600,7 +3601,7 @@ cftest6.cn
 cncloudflareprod.com
 cn!cloudflarestaging.com
 cn#cloudflarestoragegw.com
-cn	dlgslb.cn
+cndfyun.com.cn	dlgslb.cn
 dlgslb.net	dwion.comfastcdn.comfastcdn.com.cn	flxdns.cn
 flxdns.com
 funcdn.comglobalcdn.cnjiashule.comjiasule.comlxdns.cn	lxdns.com
@@ -3614,8 +3615,8 @@ trpcdn.netupai.comupaiyun.com	upcdn.net	upyun.com
 wangsu.com
 wscdns.comwscdns.info
 wscdns.org	wsdvs.com	wsglb.com	wsglb.netwswebcdn.comwswebpic.com	yunaq.com
-ñ
-CATEGORY-COLLABORATE-CNasklink.comeasytier.cnganjiangvpn.com	glxcc.net	nlark.comoray.comoray.net
+©
+CATEGORY-COLLABORATE-CNasklink.comeasytier.cnfeihengip.comganjiangvpn.com	glxcc.net	nlark.comoray.comoray.net
 orayer.comorayimg.comprivateapi.xyzshimo.imshimonote.comsmgv.cnsunlogin.net	todesk.cn
 todesk.comtower.imtritoninfo.netwoodo.cnxedge.ccxiumi.usxiumius.com
 xn0.cc	yuque.com
@@ -5241,8 +5242,9 @@ vscode.devwapm.io	wasmer.iowebflow.com
 webkit.orgwebkitgtk.orgweblate.orgwebobjects.comwireshark.orgwpewebkit.org	x.orgxamarin.comxposed.infoyarnpkg.comyogalayout.comyoutrack.cloudzsh.orgamp.akamaized.netandroid.googlesource.com-)appleworldwidedeveloper.hb-api.omtrdc.net)%appleworldwidedeveloper.sc.omtrdc.netaz764295.vo.msecnd.net)%bingsettingssearch.trafficmanager.netcdn.ampproject.org
 cn!d29vzk4ow07wi7.cloudfront.netdefault.exp-tas.comdeveloper.microsoft.comdevelopers.facebook.comPLdocker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com*&docker-pinata-support.s3.amazonaws.com'#download.visualstudio.microsoft.comdtlgalleryint.cloudapp.net-!firebase-settings.crashlytics.com
 cnfirebase.google.comfirebase.googleapis.com#firebaseappcheck.googleapis.com,(firebasedynamiclinks-ipv4.googleapis.com,(firebasedynamiclinks-ipv6.googleapis.com'#firebasedynamiclinks.googleapis.com)%firebaseinappmessaging.googleapis.com($firebaseinstallations.googleapis.com%!firebaselogging-pa.googleapis.com"firebaselogging.googleapis.com+'firebaseperusertopics-pa.googleapis.com'#firebaseremoteconfig.googleapis.comgithub-api.arkoselabs.com!github-cloud.s3.amazonaws.com.*gitlab-assets.oss-cn-hongkong.aliyuncs.com73notary-submissions-prod.s3-accelerate.amazonaws.com62notary-submissions-prod.s3.us-west-2.amazonaws.com#p-events-delivery.akamaized.netpackages.microsoft.com poshtestgallery.cloudapp.net"psg-int-centralus.cloudapp.netpsg-int-eastus.cloudapp.netrink.hockeyapp.net+'vscode-sync-insiders.trafficmanager.net"vscode-sync.trafficmanager.netvscode.search.windows.net vsmarketplacebadge.apphb.com)%.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$HD^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
-ÿ
-CATEGORY-DEV-CN51changxie.com51jianxie.cn91changxie.comads.unitychina.cn
+Ë
+CATEGORY-DEV-CN51changxie.com51jianxie.cn91changxie.com
+aardio.comads.unitychina.cn
 adsaixcoder.com	apifox.cn
 apifox.com
 apipost.cnapipost.net
@@ -5453,10 +5455,10 @@ walmart.cn
 ÷
 CATEGORY-ECOMMERCE-RUgeobasket.ruozon.ruozone.ruozonusercontent.com	paywb.com
 rwb.ruwb-basket.ru	wb.ruwbbasket.ruwbpay.ruwibes.ruwildberries.ru
-∑
+…
 CATEGORY-EDUCATION-CN
 17zuoye.cn17zuoye.com17zuoye.net91yunxiao.comaiyunxiao.comapplysquare.comapplysquare.netbaicizhan.combaicizhan.orgbanmaaike.com	baydn.com
-bczcdn.combczeducation.cnburningvocabulary.cnburningvocabulary.comcbern.com.cn
+bczcdn.combczeducation.cnbiyehome.netburningvocabulary.cnburningvocabulary.comcbern.com.cn
 cctalk.comcedf.cncedf.org.cncenturyenglish.comchdi.com.cnchei.com.cn
 chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchinesemooc.orgchsi.cnchsi.com.cn
 cnmooc.orgcugbonline.cndearedu.comdgjy.net
@@ -5525,9 +5527,10 @@ rpglogs.cn
 tracker.ggtracker.network
 yeshen.com
 cn
-‚
+Å
 %CATEGORY-ENTERPRISE-QUERY-PLATFORM-CNaiqicha.baidu.com
-aiqicha.cnaiqicha.comjindidata.comqcc.comqichacha.comqichamao.com	qixin.comqyyjt.cntianyancha.comx315.com
+aiqicha.cnaiqicha.comjindidata.comqcc.comqichacha.comqichamao.com	qixin.comqyyjt.cntianyancha.comx315.com
+xcc.cnxinchacha.com
 Ö®
 CATEGORY-ENTERTAINMENT100classicbooks.com
 112263.com2025copy.com20thcenturystudios.com.au20thcenturystudios.com.br20thcenturystudios.jp
@@ -6657,7 +6660,7 @@ wenzhao.cawhatthefox.comwhereilive.com.auwhimn.com.auwho
 ydn.com.twyes123.com.twyibaochina.com!yiqiedoushiganggangkaishi.org	ync.ne.jpyo1health.comyomikyo.or.jpyomilogi.comyomiuri-johkai.co.jpyomiuri-ryokou.co.jp#yomiuri-shimbun.pressreader.comyomiuri-systec.co.jpyomiuri.co.jpyoulucky.comyourtv.com.auyuanming.netyuming.qxbbs.orgyzzk.comzakzak.co.jp
 zaobao.comzaobao.com.sg	zaobao.sg	zdnet.comzdnet.redvideo.iozee.com
 zeebiz.comzeeentertainment.comzeenews.comzeriamerikes.comzerohedge.comzhengjian.orgzhengwunet.orgzhenxiang.bizzhuichaguoji.orgzoomingin.tvzwtvusa.com!aod-pod-uk-live.akamaized.net!as-dash-uk-live.akamaized.net as-hls-uk-live.akamaized.netasahishimbun.sc.omtrdc.netcbsi.live.ott.irdeto.com%!cbsplaylistserver.aws.syncbak.comcbsservice.aws.syncbak.comdeutschewelle.h-cdn.com foxnewsplayer-a.akamaihd.net!himalaya-exchange.zendesk.comlink.theplatform.com!ve-dash-uk-live.akamaized.net%!ve-uhd-push-uk-live.akamaized.net"vod-dash-uk-live.akamaized.net"vod-dash-ww-live.akamaized.net!vod-hls-uk-live.akamaized.net!vod-sub-uk-live.akamaized.net#vod-thumb-uk-live.akamaized.net#vod-thumb-ww-live.akamaized.net&"vs-cmaf-push-uk-live.akamaized.net'#vs-cmaf-pushb-ww-live.akamaized.net%!vs-hls-push-uk-live.akamaized.net&"vs-hls-pushb-uk-live.akamaized.net"zeenews-fonts.s3.amazonaws.com
-–(
+ˇ(
 CATEGORY-MEDIA-CN10jqka.com.cn21jingji.com36dianping.com36kr.com36krcdn.com36krcnd.com3conline.com6655.com
 72whys.comad.cctv.com
 ads
@@ -6680,7 +6683,7 @@ dzh.com.cndzng.com	dzwww.comecns.cnexpreview.comfen
 fengcx.comfengedu.comfengimg.comfocus-img.cnfocus.cnfpb.sohu.com
 adsfreebuf.comgeekpark.netggoplay.com
 ggowan.comgjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cngmw.com
-go2map.com	gw.com.cn	hexun.comhndt.comhntv.tvhuanqiu.comhuanqiucdn.cn	huxiu.comhuxiucdn.comicntvcdn.com	icpcw.comidcquan.comifanr.cn	ifanr.comifanr.inifanrusercontent.com
+go2map.com	guigu.org	gw.com.cn	hexun.comhndt.comhntv.tvhuanqiu.comhuanqiucdn.cn	huxiu.comhuxiucdn.comicntvcdn.com	icpcw.comidcquan.comifanr.cn	ifanr.comifanr.inifanrusercontent.com
 ifanrx.com	ifeng.comifengimg.comifengweekly.com
 imedao.comimp.go.sohu.com
 adsinewsweek.cninte.sogou.com
@@ -6699,7 +6702,9 @@ minapp.commydrivers.comnanyuenews.com
 nbd.com.cnnews.cn
 ofweek.comolympicchannelchina.cn	ottcn.comourl.cop.aty.sohu.com
 adspb.i.sogou.com
-adspconline.com.cn	people.cnpeople.com.cnphoenixcenter.cnpingwest.com	pinyin.cnpv.hd.sohu.com
+ads
+pchome.net
+pchpic.netpconline.com.cn	people.cnpeople.com.cnphoenixcenter.cnpingwest.com	pinyin.cnpv.hd.sohu.com
 adspv.sohu.com
 ads
 qbitai.com
@@ -7765,7 +7770,7 @@ vk.company	vk.designvk.link	vk.me	vk.ruvk.teamv
 vklive.appvkmessenger.appvkmessenger.comvkontakte.ru
 vkuser.netvkuseraudio.comvkuseraudio.netvkuseraudio.ruvkusercdn.ruvkuserlive.netvkuserphoto.ruvkuservideo.comvkuservideo.netvkuservideo.ru
 vkvideo.ruweb-instagram.netwhyfacebook.comworkplace.comworkplaceusecases.comworldhack.comwww-facebook.comwwwfacebok.comwwwfacebook.comwwwinstagram.comwwwmfacebook.com	x.comzuckerberg.comzuckerberg.nete122475.dscg.akamaiedge.netfbcdn-a.akamaihd.netlicdn.cn.cdn20.comlinkedin.sc.omtrdc.net
-◊
+Á
 CATEGORY-SOCIAL-MEDIA-CN	97973.comad.sina.com.cn
 adsad.us.sinaimg.cn
 adsadbox.sina.com.cn
@@ -7780,7 +7785,8 @@ vkvideo.ruweb-instagram.netwhyfacebook.comworkplace.comw
 adscoolapk.comcoolapkmarket.comcoolapkmarket.netcrash2.zhihu.com
 adsdandan818.comdandanvoice.comdiandianlife.top
 douban.com	douban.fmdoubanio.com
-duowan.comdwstatic.com	gracg.comhoopchina.com.cnhupu.comhupucdn.com	ivwen.com	jike.cityjikecdn.com log.mix.sina.com.cn
+duowan.comdwstatic.com
+fanfou.com	gracg.comhoopchina.com.cnhupu.comhupucdn.com	ivwen.com	jike.cityjikecdn.com log.mix.sina.com.cn
 adslog.sina.cn
 adslog2.sina.cn
 ads	maimai.cn
@@ -7871,8 +7877,8 @@ archive.li
 archive.mdarchive.org
 archive.pharchive.today
 archive.vneotarchive.orgghostarchive.orgmegalodon.jpmementoweb.orgopenlibrary.orgperma.ccwebcitation.org
-Î
-CATEGORY-WIKI-CNfgo.wikihuijistatic.comhuijiwiki.comjikipedia.com
+˘
+CATEGORY-WIKI-CNchaz.funfgo.wikihuijistatic.comhuijiwiki.comjikipedia.com
 mbalib.commcmod.cnmoegirl.orgmoegirl.org.cnqiuwen.wikiqiuwenbaike.cnsec-wiki.comshidianbaike.com
 V
 CAVPORNcavporn.comcavporn.github.io#(^|\.)cav1(0[2-9]|1[0-9])\.com$
@@ -8100,7 +8106,7 @@ cmbuat.com	cmburl.cn cmbwinglungbank.com
 !cncmf.bizcmf.ltdcmfchina.com
 cmfunds.cn
 joying.comtest-cignacmb.com
-î∑
+Â∑
 CN	00cdn.com0123456789.com0379home.com
 055110.com	05sun.com0759job.com	10010.com	100bt.com100offer.com	10155.com	11467.com114blog.com
 114chn.com114menhu.com114piaowu.com114shouji.com115.com
@@ -8507,7 +8513,7 @@ dginfo.comdgjy.netdgphospital.com	dgtle.comdianchacha.com
 diopic.net
 discuz.net
 discuz.orgdiyiyou.comdj99.comdjdjapp.comdji.comdji.inkdji.net
-djicdn.com
+djicdn.comdjigate.com
 djiits.com
 djiops.comdjiservice.org
 dlgslb.net	dlnel.com	dlnel.orgdlswbr.baidu.com
@@ -8581,7 +8587,8 @@ erp321.net	ersjk.comesp8266.comespressif.com
 essurl.com
 et-api.com	et001.cometao.com
 ets100.comeverbright.comexcelhome.netexmailgz.comexpreview.comextfans.comextlog.snssdk.com
-ads	eziot.com	ezpro.pro	ezviz.comf.cxfa-part.com	faceu.comfadfunds.comfalconsending.com	faloo.comfamulei.comfang.comfangxiaoer.com	fanli.comfanmingming.comfanqienovel.comfanqieopen.comfanqieopenpic.comfanqieopenstatic.comfanqieopenvod.comfanqiesdk.comfanqiesdkpic.comfanqiesdkstatic.comfanqiesdkvod.comfanxian.comfanxingliveshow.comfastapi.netfastcdn.comfaxingbao.com	fbank.com	fcapp.run	fcbox.comfcboxmall.comfclick.baidu.com
+ads	eziot.com	ezpro.pro	ezviz.comf.cxfa-part.com	faceu.comfadfunds.comfalconsending.com	faloo.comfamulei.com
+fanfou.comfang.comfangxiaoer.com	fanli.comfanmingming.comfanqienovel.comfanqieopen.comfanqieopenpic.comfanqieopenstatic.comfanqieopenvod.comfanqiesdk.comfanqiesdkpic.comfanqiesdkstatic.comfanqiesdkvod.comfanxian.comfanxingliveshow.comfastapi.netfastcdn.comfaxingbao.com	fbank.com	fcapp.run	fcbox.comfcboxmall.comfclick.baidu.com
 adsfclog.baidu.com
 ads
 fdcyun.comfedlearner.net
@@ -8631,7 +8638,7 @@ gezida.comgfan.com	gfbzb.com	gfbzb.net	gfund.com
 ggkuai.comggoplay.com
 ggowan.comghxi.com
 gia.jd.com
-adsgifshow.comgiftatdw.comgiftattoday.com	gijsq.com
+adsgifshow.comgiftatdw.comgiftattoday.com	gijsq.comgio.ren
 giocdn.comgitcode.comgitcode.net	gitee.comgitee.iogitv.tv	gk100.comglobrand.com	glxcc.netgm86.comgmw.com	gmz88.com	gneec.com
 gneec3.com
 gneec4.com
@@ -9011,7 +9018,8 @@ paipai.compaipaibang.compandarzli.com'pangolin-dsp-toutiao-b.co
 paydxm.compb.i.sogou.com
 adspc6.com
 pcbeta.com
-pchome.net	pcpop.com
+pchome.net
+pchpic.net	pcpop.com
 pddcdn.com	pddim.com
 pddpic.com
 pddugc.compearvideo.com	peccn.compengyoudewu.compgdt.gtimg.cn
@@ -9329,7 +9337,7 @@ xhscdn.com
 xhscdn.netxhslink.comxiachufang.com
 xiamai.netxiamenair.com	xiami.comxiami.fm	xiami.netxianfae.comxiangbababus.comxiangrikuijianzhan.comxiangrikuisite.comxianjiqun.comxiaoaiassist.comxiaobaixitong.comxiaodutv.comxiaoe-tech.comxiaogouh5.comxiaohongshu.comxiaojukeji.com	xiaoka.tvxiaokaxiu.comxiaoluyouxuan.comxiaoluzhidian.com
 xiaomi.com
-xiaomi.netxiaomicp.comxiaomidns.comxiaomidns.netxiaomiev.comxiaomiflash.comxiaomiinc.comxiaomiinc.netxiaomimimo.comxiaomimobile.comxiaomingtaiji.comxiaominr.comxiaomiprint.comxiaomisa.comxiaomisa.netxiaomisa.orgxiaomiwear.comxiaomixiaoai.comxiaomiyoupin.comxiaopeng.comxiaoxiaapi.comxiaoxiongxitong.comxiaoyuankousuan.comxiaoyuxitong.comxiaoyuzhoufm.com	xiayx.comxiazaiba.comxiezuocat.comxiguaapp.comxiguashipin.netxiguavideo.netximalaya.comxin.xinxinchong.comxindong.comxingjiesj.comxingtan001.comxingyeai.comxinhuanet.comxinhuaxmt.comxinrenxinshi.comxinshipu.comxinwuji.comxinyuanfin.comxishanju.comxitong8.comxitu.comxitu.ioxiu8.com
+xiaomi.netxiaomicp.comxiaomidns.comxiaomidns.netxiaomiev.comxiaomiflash.comxiaomiinc.comxiaomiinc.netxiaomimimo.comxiaomimobile.comxiaomingtaiji.comxiaominr.comxiaomiprint.comxiaomisa.comxiaomisa.netxiaomisa.orgxiaomiwear.comxiaomixiaoai.comxiaomiyoupin.comxiaopeng.comxiaoxiaapi.comxiaoxiongxitong.comxiaoyuankousuan.comxiaoyuxitong.comxiaoyuzhoufm.com	xiayx.comxiazaiba.comxiezuocat.comxiguaapp.comxiguashipin.netxiguavideo.netximalaya.comxin.xinxinchacha.comxinchong.comxindong.comxingjiesj.comxingtan001.comxingyeai.comxinhuanet.comxinhuaxmt.comxinrenxinshi.comxinshipu.comxinwuji.comxinyuanfin.comxishanju.comxitong8.comxitu.comxitu.ioxiu8.com
 xiucai.comxiumi.usxiumius.comxiziwang.netxjietiao.comxjoycity.comxkw.com	xmcdn.comxmhouse.comxn--1qqw23axn--3bst00mxn--3ds443gxn--55qw42g
 xn--55qx5d
 xn--5tzm5gxn--6frz82gxn--6qq986b3xlxn--8y0a063a
@@ -9791,9 +9799,9 @@ B
 disqus.comdisquscdn.comdisqusservice.com
 8
 DIVARdivar.clouddivar.irdivarcdn.com
-ñ
+ß
 DJIdji.comdji.inkdji.net
-djicdn.com
+djicdn.comdjigate.com
 djiits.com
 djiops.comdjiservice.orgrobomaster.comskypixel.com
 T
@@ -13734,7 +13742,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 cnE9^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 cnI=^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 cnjavdb\d+\.com$
-•‚
+ƒ„
 GEOLOCATION-CN	00cdn.com0123456789.com0379home.com
 055110.com	05sun.com0759job.com	10010.com10010.com.cn10044.cn10086.cn10099.com.cn	100bt.com100offer.com	10155.com10jqka.com.cn	11467.com114blog.com
 114chn.com114menhu.com114piaowu.com114shouji.com115.com
@@ -14194,7 +14202,7 @@ daojia.comdaovoice.io)data.mistat.india.xiaomi.com
 ads'data.mistat.rus.xiaomi.com
 ads#data.mistat.xiaomi.com
 adsdataeye.com
-datasea.cndaton.com.cndayainfo.com
+datasea.cn	datayi.cndaton.com.cndayainfo.com
 dayin8.comdaytx.cndayu.comdayukaoshi.comdazijia.com	dbank.comdbankcdn.cndbankcdn.comdbankcloud.cndbankcloud.comdbankedge.cndbankedge.netdbfund.com.cndc.letv.com
 adsdcarapi.comdcarimg.comdcarlive.comdcarstatic.comdcarvod.comdccnet.com.cn
 dcdapp.com
@@ -14205,13 +14213,13 @@ deppon.comdeppon.com.cndevelenv.comdevui.designdewu-inc.
 dewuapp.cndewucdn.comdewuhaowu.cn	dewuhd.cn
 dewuhd.com
 dewuhui.cndewuhui.comdewumall.comdewus.cndewuyouhui.cndewuyouhui.com	dfcfw.com	dfham.com
-dfkhgj.comdfzq.com.cn
+dfkhgj.comdfyun.com.cndfzq.com.cn
 dginfo.comdgjy.netdgphospital.com	dgtle.comdgzq.com.cndhsvc.cndianchacha.comdiandao.orgdiandian.comdiandianlife.topdiandianqi.comdianping.comdianwannan.comdianzhenkeji.comdida365.comdidi.cndidialift.comdidichuxing.comdidistatic.comdiditaxi.com.cndig.bdurl.net
 ads	diiing.cndingdachuxing.comdingdatech.comdingding.xindingtalk.cndingtalk.comdingtalk.netdingtalkapps.comdingtalkcloud.comdingxiang-inc.com
 diopic.net
 discuz.net
 discuz.orgdiyiyou.comdj99.comdjdjapp.comdji.comdji.inkdji.net
-djicdn.com
+djicdn.comdjigate.com
 djiits.com
 djiops.comdjiservice.org	dlgslb.cn
 dlgslb.net	dlnel.com	dlnel.orgdlswbr.baidu.com
@@ -14298,7 +14306,8 @@ et-api.com	et001.cometao.com
 ets100.comeverbright.comewww.com.cnexcelhome.netexmailgz.comexpreview.comextfans.comextlog.snssdk.com
 ads	eziot.com	ezpro.pro	ezviz.comf.cxfa-part.com
 faasapp.cn
-faasdev.cn	faceu.comfadfunds.comfalconsending.com	faloo.comfamulei.comfang.comfangxiaoer.com	fanli.comfanmingming.comfanqienovel.comfanqieopen.comfanqieopenpic.comfanqieopenstatic.comfanqieopenvod.comfanqiesdk.comfanqiesdkpic.comfanqiesdkstatic.comfanqiesdkvod.comfanxian.comfanxingliveshow.comfastapi.netfastcdn.comfastcdn.com.cnfaxingbao.com	fbank.comfbstatic.cn	fcapp.run	fcbox.comfcboxmall.comfclick.baidu.com
+faasdev.cn	faceu.comfadfunds.comfalconsending.com	faloo.comfamulei.com
+fanfou.comfang.comfangxiaoer.com	fanli.comfanmingming.comfanqienovel.comfanqieopen.comfanqieopenpic.comfanqieopenstatic.comfanqieopenvod.comfanqiesdk.comfanqiesdkpic.comfanqiesdkstatic.comfanqiesdkvod.comfanxian.comfanxingliveshow.comfastapi.netfastcdn.comfastcdn.com.cnfaxingbao.com	fbank.comfbstatic.cn	fcapp.run	fcbox.comfcboxmall.comfclick.baidu.com
 adsfclog.baidu.com
 adsfcsc.cn
 fdcyun.comfedlearner.netfeelgood.cn
@@ -14354,7 +14363,7 @@ gezida.com	gf.com.cngfan.comgfbzb.cn	gfbzb.comgfbzb.
 ggkuai.comggoplay.com
 ggowan.comghsl.cnghxi.comghzq.com.cn
 gia.jd.com
-adsgifshow.comgiftatdw.cngiftatdw.comgiftattoday.com	gijsq.com
+adsgifshow.comgiftatdw.cngiftatdw.comgiftattoday.com	gijsq.comgio.ren
 giocdn.com
 gitbook.cn
 gitchat.cngitcode.comgitcode.netgitdrone.cn	gitee.comgitee.iogitv.cngitv.tvgjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cngjzq.com.cn	gk100.comgkzq.com.cnglobalcdn.cnglobalrdp.cnglobalssh.cnglobrand.comglsc.com.cn	glxcc.netgm86.com	gmedev.cngmw.com	gmz88.com	gneec.comgneec.com.cn
@@ -14366,7 +14375,7 @@ golink.comgolinkapi.comgolinkcn.com	golue.comgongqingyun.
 gongyi.xingoofish.comgoosail.com
 goproxy.cn
 goproxy.iogoselling.comgoto-game.comgoto-game.mobigoto-game.net.cngoto-game.orggotokeep.comgotolink.net	goufw.com
-gov.cngovqcloud.comgowinamc.comgpall.cn	gpall.net	gracg.comgree.cngree.comgree.com.cngreenxiazai.comgreeyun.comgrowingio.comgrowthsharebounce.cngrowthsharequestion.cngrowthsharetubular.cngrzq.com
+gov.cngovqcloud.comgowinamc.comgpall.cn	gpall.net	gracg.comgree.cngree.comgree.com.cngreenxiazai.comgreeyun.com	growin.cngrowingio.cngrowingio.comgrowthsharebounce.cngrowthsharequestion.cngrowthsharetubular.cngrzq.com
 gsadds.comgsctyiptv.cngsgh.cngsjtyiptv.cngslbdns.comgslbdns.netgszq.com	gtags.net
 gtarsc.com
 gtgres.comgtimg.cn	gtimg.comgtimg.com.cngtja.comgtm.pub	guabu.comguaiguai.com
@@ -14776,7 +14785,8 @@ paipai.compaipaibang.compandarzli.com'pangolin-dsp-toutiao-b.co
 paydxm.compb.i.sogou.com
 adspc6.com
 pcbeta.com
-pchome.netpconline.com.cn	pcpop.com
+pchome.net
+pchpic.netpconline.com.cn	pcpop.com
 pddcdn.com	pddim.com
 pddpic.com
 pddugc.compearvideo.com	peccn.compengyoudewu.cnpengyoudewu.com	people.cnpeople.com.cn
@@ -15122,7 +15132,8 @@ wscdns.org	wsdvs.com	wsglb.com	wsglb.net	wsoso.com
 wukong.comwukongwenda.cnwukongwenda.com"wuliao.epro.sogou.com
 adswuliujie.cnwuliujie.com	wumii.com
 wuming.comwuuxiang.comwuximediaglobal.com	wuyou.netwxcloudrun.comwxgateway.comwxlivecdn.comwxsbank.comwxzq.com	wywyx.comwzlib.cnwztsy.cn	wztsy.com
-x-cloud.ccx-station.cnx315.comx9exk.cnxa-bank.comxafc.com	xbext.com	xbiao.comxcsc.com	xd.cn
+x-cloud.ccx-station.cnx315.comx9exk.cnxa-bank.comxafc.com	xbext.com	xbiao.com
+xcc.cnxcsc.com	xd.cn
 xd.com	xdcdn.netxdqtech.com
 xdtool.com	xdwan.comxedge.cc
 xesimg.comxf-fund.com
@@ -15132,7 +15143,7 @@ xhscdn.com
 xhscdn.netxhslink.comxiachufang.com
 xiamai.netxiamenair.com	xiami.comxiami.fm	xiami.netxianfae.comxiangbababus.comxiangrikuijianzhan.comxiangrikuisite.comxianjiqun.comxiaoaiassist.comxiaobaixitong.comxiaodutv.comxiaoe-tech.comxiaogouh5.comxiaoheihe.cnxiaohongshu.comxiaojukeji.com	xiaoka.tvxiaokaxiu.comxiaoluyouxuan.comxiaoluzhidian.com	xiaomi.cn
 xiaomi.com
-xiaomi.netxiaomicp.comxiaomidns.cnxiaomidns.comxiaomidns.com.cnxiaomidns.netxiaomiev.comxiaomiflash.comxiaomiinc.cnxiaomiinc.comxiaomiinc.com.cnxiaomiinc.netxiaomimimo.comxiaomimobile.comxiaomingtaiji.comxiaominr.comxiaomiprint.comxiaomisa.cnxiaomisa.comxiaomisa.netxiaomisa.orgxiaomiwear.comxiaomixiaoai.comxiaomiyoupin.comxiaopeng.comxiaoxiaapi.comxiaoxiongxitong.comxiaoyuankousuan.comxiaoyuxitong.comxiaoyuzhoufm.com	xiayx.comxiazaiba.comxiezuocat.comxiguaapp.cnxiguaapp.comxiguashipin.cnxiguashipin.netxiguavideo.cnxiguavideo.netximalaya.comxin.xinxinchong.comxindong.comxingjiesj.comxingtan001.comxingyeai.comxinhuanet.comxinhuaxmt.comxinlingshou.cnxinrenxinshi.comxinshipu.comxinwuji.com	xinyan.cnxinyuanfin.com
+xiaomi.netxiaomicp.comxiaomidns.cnxiaomidns.comxiaomidns.com.cnxiaomidns.netxiaomiev.comxiaomiflash.comxiaomiinc.cnxiaomiinc.comxiaomiinc.com.cnxiaomiinc.netxiaomimimo.comxiaomimobile.comxiaomingtaiji.comxiaominr.comxiaomiprint.comxiaomisa.cnxiaomisa.comxiaomisa.netxiaomisa.orgxiaomiwear.comxiaomixiaoai.comxiaomiyoupin.comxiaopeng.comxiaoxiaapi.comxiaoxiongxitong.comxiaoyuankousuan.comxiaoyuxitong.comxiaoyuzhoufm.com	xiayx.comxiazaiba.comxiezuocat.comxiguaapp.cnxiguaapp.comxiguashipin.cnxiguashipin.netxiguavideo.cnxiguavideo.netximalaya.comxin.xinxinchacha.comxinchong.comxindong.comxingjiesj.comxingtan001.comxingyeai.comxinhuanet.comxinhuaxmt.comxinlingshou.cnxinrenxinshi.comxinshipu.comxinwuji.com	xinyan.cnxinyuanfin.com
 xir.cnxishanju.comxitong8.comxitu.comxitu.ioxiu8.com
 xiucai.comxiumi.usxiumius.comxiziwang.netxjietiao.comxjoycity.com
 xkb.com.cnxkw.com	xmcdn.comxmhouse.comxn--8y0a063a%!xn--fiq53l6wcx3kp9bc7joo6apn8a.cn-)xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s%!xn--fiq53l90et9fpncc7joo6apn8a.cn
@@ -15829,6 +15840,9 @@ $
 zhlyen.com
 
 GROQgroq.com
+k
+	GROWINGIO	datayi.cngio.ren
+giocdn.com	growin.cngrowingio.cngrowingio.com
 é
 GUCCIchimeforchange.org	guccigucci.cn
 cn	gucci.comguccimuseo.comguccitimeless.comregiongold.com
