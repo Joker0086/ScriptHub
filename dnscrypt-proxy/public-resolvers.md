@@ -86,6 +86,15 @@ Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Clie
 sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
 
 
+## adfilter-syd-ipv6
+
+Hosted in Sydney, Australia.
+
+Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6MjE0ZTplYTAwOjoxXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORBzeWQuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+
+
 ## adguard-dns
 
 Remove ads and protect your computer from malware
@@ -4216,15 +4225,8 @@ sdns://AgcAAAAAAAAAACCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZ
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
-
-
-## doh.ffmuc.net-2
-
-An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
-https://ffmuc.net/
-
-sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1IJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYDWRvaC5mZm11Yy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACjUuMS42Ni4yNTWgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gg1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1oJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTDWRvaC5mZm11Yy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## doh.ffmuc.net-v6
@@ -4232,15 +4234,8 @@ sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1IJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1y
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1Lkw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
-
-
-## doh.ffmuc.net-v6-2
-
-An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
-https://ffmuc.net/
-
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XSCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XaCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmCDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1Lkw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XaCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmCDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1Lkw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
 ## doh.ibksturm
@@ -4834,22 +4829,57 @@ sdns://AgYAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRJtYXgucmV0aGlua
 
 ## safesurfer
 
-Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
-Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
-usage, data never sold - https://safesurfer.io
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
+sdns://AQAAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## safesurfer-doh
 
-Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
-Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
-usage, data never sold - https://safesurfer.io
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
 
-sdns://AgAAAAAAAAAAACBW1D4A3rPRi8QazGGnZq98S8bEb0ZyDjFdjqVEtSPc3BFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAADjM1LjIyNy4yMjYuMTQyIKTcZA-_I4o3BTA0ntL7eQj7seY3QRbt-WfobX_DSjw_EWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+
+
+## safesurfer-doh-ipv6
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAAFFsyNjAwOjE5MDE6MDo1YTgyOjpdIKTcZA-_I4o3BTA0ntL7eQj7seY3QRbt-WfobX_DSjw_EWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+
+
+## safesurfer-doh-secondary-ipv4
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAADDQuMTUwLjE2OC41NyApOBQpAcz9-ZvoWm1Tthky3Ywrrkt8do50JL5t154GjhRkbnMuc2FmZXN1cmZlci5jby5uegovZG5zLXF1ZXJ5
+
+
+## safesurfer-doh-secondary-ipv6
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAAE1syNjAzOjEwMzA6Nzo3OjozYl0gKTgUKQHM_fmb6FptU7YZMt2MK65LfHaOdCS-bdeeBo4UZG5zLnNhZmVzdXJmZXIuY28ubnoKL2Rucy1xdWVyeQ
 
 
 ## saldns01-conoha-ipv4
