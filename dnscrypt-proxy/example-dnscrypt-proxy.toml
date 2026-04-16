@@ -243,7 +243,7 @@ keepalive = 30
 
 ## Automatic log files rotation
 
-# Maximum log files size in MB - Set to 0 for unlimited.
+# Maximum log files size in MB - 0 uses the logger's default size limit.
 log_files_max_size = 10
 
 # How long to keep backup files, in days
