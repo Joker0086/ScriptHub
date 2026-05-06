@@ -484,20 +484,6 @@ Singapore IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRhbMmEwZDo1NjAwOjFmOjc6OjUzXTo0NDM
 
 
-## anon-cs-sk
-
-South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxMDguMTgxLjUwLjIxODo0NDM
-
-
-## anon-cs-sk6
-
-South Korea IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRdbMjQwNjo0ZjQwOjQ6Yzo6NTNdOjQ0Mw
-
-
 ## anon-cs-swe
 
 Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -2533,7 +2519,7 @@ DNSCry.pt Phoenix - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 
 https://www.dnscry.pt
 
-sdns://gQwyMy45NS4xMzQuMTU
+sdns://gQ8xNzMuMjQ5LjIwNS4xOTg
 
 
 ## dnscry.pt-anon-phoenix-ipv6
@@ -2542,7 +2528,7 @@ DNSCry.pt Phoenix - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRJbMjYwNTo4MzQwOjM6Nzo6YV0
+sdns://gRdbMjYwNzo5MDAwOjcwMDoxMDMwOjphXQ
 
 
 ## dnscry.pt-anon-portedwards-ipv4
@@ -2868,24 +2854,6 @@ https://www.dnscry.pt
 sdns://gRRbMjYwNjphOGMwOjM6MjAyOjphXQ
 
 
-## dnscry.pt-anon-stockholm02-ipv4
-
-DNSCry.pt Stockholm 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xODUuMjMxLjEwMC4xMDY
-
-
-## dnscry.pt-anon-stockholm02-ipv6
-
-DNSCry.pt Stockholm 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gShbMmEwYzo1NzAwOjMxMzM6NjUwOjk2ZDU6OTlmZjpmZThiOjc0ZjRd
-
-
 ## dnscry.pt-anon-sydney02-ipv4
 
 DNSCry.pt Sydney 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3090,7 +3058,7 @@ DNSCry.pt Tokyo 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRNbMmEwYTo2MDQwOjk3M2Q6OmFd
+sdns://gRNbMjQwMTo0NTIwOjMwMWU6OmFd
 
 
 ## dnscry.pt-anon-toronto-ipv4
