@@ -813,14 +813,14 @@ sdns://AQcAAAAAAAAAF1syMDAxOjRiYTA6ZmZlZDo3Njo6NTNdIDEzcq1ZVjLCQWuHLwmPhRvduWUoT
 
 ## cs-finland
 
-Finland DNSCrypt server provided by https://cryptostorm.is
+Finland DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQcAAAAAAAAADTgzLjE0My4yNDIuNDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-finland6
 
-Finland IPv6 DNSCrypt server provided by https://cryptostorm.is
+Finland IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQcAAAAAAAAAFlsyYTBkOjU2MDA6MTQyOjExOjo1M10gMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
@@ -1265,12 +1265,12 @@ sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0g1h2W6_s_oZCW4sAC42A79_2q7
 
 ## dns.sb
 
-DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
+DoH server run by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0CzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50CzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
 ## dns4all-ipv4
@@ -1394,6 +1394,15 @@ DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADTIzLjEzNy4yNTMuMjQg3Z0YI7udXIjKWcPC5GdTm4Uk6D1x2DuyYuj2OZz2cKQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+
+
+## dnscry.pt-allentown-ipv6
+
+DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAAHFsyNjAyOmZjMjQ6MTk6NzRiMDo1Mjg1OjoxMl0g3Z0YI7udXIjKWcPC5GdTm4Uk6D1x2DuyYuj2OZz2cKQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-amsterdam-ipv4
@@ -1887,6 +1896,24 @@ DNSCry.pt Denver - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAGFsyNjA3OmE2ODA6NjpmMDE2OjozYTI1XSD_srgVun60gzUrte8QS0YJAqSBHZ_X6PpY_bOU1eMegxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+
+
+## dnscry.pt-detroit-ipv4
+
+DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADDY2LjE4Ny43LjE0MCBpn2OKcwbE01MLSkSXcaPKLf8IOmKbuE9GGZvAOBwaNRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+
+
+## dnscry.pt-detroit-ipv6
+
+DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAAI1syNjA2OjY1YzA6NDA6NDo1ZjM6NTRjNDo4ZDEwOjliOThdIGmfY4pzBsTTUwtKRJdxo8ot_wg6Ypu4T0YZm8A4HBo1GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-dhaka-ipv4
@@ -3639,6 +3666,15 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADzEwMy4xMzEuMTg5LjE5MSAl1jOdIay4Ch7r2CgrehwgnU1olQWj8A7t2WAMmoGbMxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
+## dnscry.pt-taipeh-ipv6
+
+DNSCry.pt Taipeh - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAAGlsyNDAzOmNmYzA6MTAwNDo6YjViOjQ3ZmZdICXWM50hrLgKHuvYKCt6HCCdTWiVBaPwDu3ZYAyagZszGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+
+
 ## dnscry.pt-tallinn-ipv4
 
 DNSCry.pt Tallinn - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -4020,7 +4056,7 @@ sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2ID8EEe3pxEdwV9V-V4g7HyBbIM3A8yYxKbHuAmmiZ
 
 ## dnsforfamily
 
-(DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4037,7 +4073,7 @@ sdns://AQMAAAAAAAAADDc4LjQ3LjY0LjE2MSATJeLOABXNSYcSJIoqR5_iUYz87Y4OecMLB84aEAKPr
 
 ## dnsforfamily-doh
 
-(DoH Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DoH Protocol) (Supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4052,7 +4088,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9
 
 ## dnsforfamily-doh-no-safe-search
 
-(DoH Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DoH Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4069,7 +4105,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9
 
 ## dnsforfamily-no-safe-search
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4086,7 +4122,7 @@ sdns://AQMAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8b
 
 ## dnsforfamily-v6
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4220,7 +4256,7 @@ Hosted in Vienna, Austria.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAACCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
+sdns://AgcAAAAAAAAAACCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
 
 ## doh.ffmuc.net
@@ -4631,7 +4667,7 @@ sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwm
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360, has logs, GFW filtering rules are applied.
+DoH server run by Qihoo 360, has logs, GFW filtering rules are applied.
 Homepage: https://sdns.360.net
 
 sdns://AgAAAAAAAAAAACB0U9UiRYe3qyTSjk1AVT4byYiucktDNFVJEcHmRNnlYwpkb2guMzYwLmNuCi9kbnMtcXVlcnk
@@ -4986,20 +5022,6 @@ No logs | IPv6 | Filtered
 
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9oHjkzJkuS4EIP7-_aYKaU5t7y2YXv6GoW4EdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
-
-
-## vpsdns-za
-
-High-performance privacy DNSCrypt resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
-
-sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprRwyLmRuc2NyeXB0LWNlcnQudnBzZG5zLmNvLnph
-
-
-## vpsdns-za-doh
-
-High-performance privacy DoH resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
-
-sdns://AgcAAAAAAAAAETEwMi4yMTQuMTAuODI6NDQzIObxHsgGwcfmTCgwrLr0momTVQu6RFr1ZfshJ3FvHSJIEGRvaC52cHNkbnMuY28uemEKL2Rucy1xdWVyeQ
 
 
 ## wikimedia
