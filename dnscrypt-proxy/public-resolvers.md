@@ -2519,24 +2519,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAF1syYTAxOjZlZTA6MTo6ZmZmZjpiYWVdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2J1ZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
-## dnscry.pt-doh-calgary-ipv4
-
-dnscry.pt Calgary DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTIzLjEzMy42NC4xMjEgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPeXljMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-calgary-ipv6
-
-dnscry.pt Calgary DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFlsyNjAyOmZlZDI6ZmUwOjI4Mzo6MV0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPeXljMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
 ## dnscry.pt-doh-capetown-ipv4
 
 dnscry.pt Cape Town DoH resolver.
@@ -3275,15 +3257,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qa3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
-## dnscry.pt-doh-jena-ipv4
-
-dnscry.pt Jena DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAACzgxLjcuMTEuMjQ2IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2plbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
 ## dnscry.pt-doh-jena-ipv6
 
 dnscry.pt Jena DoH resolver.
@@ -3489,24 +3462,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://AgcAAAAAAAAAD1syYTBmOmM0NDQ6Ojk4XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9saXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-ljubljana-ipv4
-
-dnscry.pt Ljubljana DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADDkxLjEzMi45NC45OCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA9sanUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-ljubljana-ipv6
-
-dnscry.pt Ljubljana DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFlsyYTAzOmY4MDozODY6YjdmNjo6MV0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPbGp1MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-london-ipv4
@@ -3912,24 +3867,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://AgcAAAAAAAAAE1syNjAyOmY5NTM6NjoyNTo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPb3R0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-palermo-ipv4
-
-dnscry.pt Palermo DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTkxLjIwMS42Ny4xMDcgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPcG1vMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-palermo-ipv6
-
-dnscry.pt Palermo DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFVsyYTA2OmY5MDU6MToxMDA6OjQwXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA9wbW8wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-paris-ipv4
@@ -4652,24 +4589,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ZpZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
-## dnscry.pt-doh-vientiane-ipv4
-
-dnscry.pt Vientiane DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADzEwMy4yMjguMTAxLjE3OCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA92dGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-vientiane-ipv6
-
-dnscry.pt Vientiane DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFlsyNDAwOjgxYzA6ZGMwMTo4NTo6Ml0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPdnRlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
 ## dnscry.pt-doh-vilnius-ipv4
 
 dnscry.pt Vilnius DoH resolver.
@@ -4802,16 +4721,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGlsyYTBmOjYyODQ6NDMwMDoxMDE6OjEyYTVdIP-cORh-m55qSj3KrUefMeVR3tqg-fpkmXhiLKmrpIa-GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-dusseldorf02-ipv4
-
-dnscry.pt Düsseldorf 02 resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTM3LjExNC41OC4xMTUgWAo_MyYybZGGBQKsA41WpC5TjjpfvgviHteGEKBXNIwZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-dusseldorf02-ipv6
 
 dnscry.pt Düsseldorf 02 resolver.
@@ -4820,16 +4729,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAFlsyYTA2OmRlMDA6NDAxOjIyNzo6Ml0gWAo_MyYybZGGBQKsA41WpC5TjjpfvgviHteGEKBXNIwZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-dusseldorf03-ipv4
-
-dnscry.pt Düsseldorf 03 resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTExOC45MS4xODQuODkgBVOdxEWkG9yUyaviAaCbPJMqAG36WK_rVLkYvKSqCgwZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-dusseldorf03-ipv6
@@ -5592,26 +5491,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAD1syYTBmOmM0NDQ6Ojk4XSAGvEQ0hj1cw5V6NbFAljIPcHjo22MzFVFq2cpPXKKu5BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-ljubljana-ipv4
-
-dnscry.pt Ljubljana resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDkxLjEzMi45NC45OCACvBJyHsVWMWuLmBwYaIeKVinb5d_crmke9J6x-r52NhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-ljubljana-ipv6
-
-dnscry.pt Ljubljana resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTAzOmY4MDozODY6YjdmNjo6MV0gArwSch7FVjFri5gcGGiHilYp2-Xf3K5pHvSesfq-djYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-london-ipv4
 
 dnscry.pt London resolver.
@@ -5892,6 +5771,16 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAElsyYTAzOmUzNDA6MzozOjoxXSAUOrgnHkVDVSRhQdZBpbblvya9jbIs73NOgXzCN9IiARkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
+## dnscry.pt-mumbai02-ipv4
+
+dnscry.pt Mumbai 02 resolver.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADDE1Ny4yMC4yNy43OSCWqeT_u1nn0f3mZBAXCN7K40kyMWyMgma2VqLqJhijIhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+
+
 ## dnscry.pt-mumbai02-ipv6
 
 dnscry.pt Mumbai 02 resolver.
@@ -6062,44 +5951,22 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAE1syNjAyOmY5NTM6NjoyNTo6YV0gVScmW_w9Ems3sm531o-Q1mfDVIMYovs4Pa_jfFTUlrQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-palermo-ipv4
-
-dnscry.pt Palermo resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTkxLjIwMS42Ny4xMDcgDFmzhcwCDBCFt-CFlncGoSihQMmToTh0ncSNWKdHby4ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-palermo-ipv6
-
-dnscry.pt Palermo resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyYTA2OmY5MDU6MToxMDA6OjQwXSAMWbOFzAIMEIW34IWWdwahKKFAyZOhOHSdxI1Yp0dvLhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-paris-ipv4
 
-dnscry.pt Paris resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAACzg5LjExNy4yLjE3IAXdC7hGEegKD86br-tVRwZTcJfJZAEFjW4jCV5lzdutGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+sdns://AQcAAAAAAAAACzg5LjExNy4yLjE3IMC4eSuCrbghtvVsoGHUaT3eBNQLsYxXjNdz_WsChD95GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-paris-ipv6
 
-dnscry.pt Paris resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAAHlsyNDAyOmQwYzA6MjI6NmNkMDo0OjQ6NDo1YjgxXSAF3Qu4RhHoCg_Om6_rVUcGU3CXyWQBBY1uIwleZc3brRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+sdns://AQcAAAAAAAAAHlsyNDAyOmQwYzA6MjI6NmNkMDo0OjQ6NDo1YjgxXSDAuHkrgq24Ibb1bKBh1Gk93gTUC7GMV4zXc_1rAoQ_eRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-perth-ipv4
@@ -6900,26 +6767,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIN5MiNa1GMEMps26xdXOX2IcNa1pjk5vC-otWiEsJusuGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-vientiane-ipv4
-
-dnscry.pt Vientiane resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADzEwMy4yMjguMTAxLjE3OCDsBgKLhj_vw4R4VLAYAe0lINIZEMImGhQboH6ssbjp4xkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-vientiane-ipv6
-
-dnscry.pt Vientiane resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyNDAwOjgxYzA6ZGMwMTo4NTo6Ml0g7AYCi4Y_78OEeFSwGAHtJSDSGRDCJhoUG6B-rLG46eMZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-vilnius-ipv4
