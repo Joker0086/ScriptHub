@@ -314,7 +314,7 @@ sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0gMu27Ecwlj74zws0koUknDwvm9
 CipherDNS Cape Town privacy resolver.
 Based in Cape Town, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
-sdns://AgcAAAAAAAAADjEwMi4yMDkuMjEuMTc2IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50F2N0MS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjEwMi4yMDkuMjEuMTc2oP_qvxWZFJ9BK1V6rOVWoUSdlRS9JwllVzJr6hoRRXifINqSeh5K4YpnPElAq-H8Z9W88gNANHsHDKWZn1t_0K1ID2NpcGhlcmRucy5jby56YQovZG5zLXF1ZXJ5
 
 
 ## cipherdns-ct1-za
