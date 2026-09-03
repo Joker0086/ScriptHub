@@ -22,15 +22,6 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## anon-cipherdns-ct1-za
-
-CipherDNS Cape Town relay.
-Anonymized DNSCrypt relay based in Cape Town, South Africa.
-Provider information is limited to the resolver-list entry; report issues through the dnscrypt-resolvers project.
-
-sdns://gRMxMDIuMjA5LjIxLjE3Njo4NDQz
-
-
 ## anon-cs-austria
 
 CryptoStorm Vienna, Austria relay.
@@ -1932,6 +1923,15 @@ IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gQ04Mi4xMTguMTYuMTIx
+
+
+## dnscry.pt-anon-milan-ipv6
+
+dnscry.pt Milan relay.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gRVbMmEwMjoyN2FlOjgwMDA6OjJhMV0
 
 
 ## dnscry.pt-anon-molln-ipv4
