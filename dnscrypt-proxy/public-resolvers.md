@@ -3898,6 +3898,24 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAGFsyNDAyOjczNDA6NTAwMDo2MjAwOjphXaDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6A2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zeWQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
+## dnscry.pt-doh-taipeh-ipv4
+
+dnscry.pt Taipeh DoH resolver.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://AgcAAAAAAAAADzEwMy4xMzEuMTg5LjE5MaDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6A2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90cGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+
+
+## dnscry.pt-doh-taipeh-ipv6
+
+dnscry.pt Taipeh DoH resolver.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://AgcAAAAAAAAAGlsyNDAzOmNmYzA6MTAwNDo6YjViOjQ3ZmZdoN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3RwZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-doh-tallinn-ipv4
 
 dnscry.pt Tallinn DoH resolver.
@@ -4857,6 +4875,16 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAGVsyNjAyOjJiNzpkMDE6YzI5NTo6YjoxOF0gQprQrFLF3Y2975ylDjnD8kdKAJLUvauubVrBGueEkcgZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+
+
+## dnscry.pt-kyiv-ipv4
+
+dnscry.pt Kyiv resolver.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADTIxNy4xMi4yMjEuNjEgskgLubDTWs4bK9zH1IXKRYSylrG8XVPGWMJpUM37vwUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-lasvegas-ipv4
@@ -6777,6 +6805,26 @@ Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
 
 sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
 sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo1XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
+
+
+## pidoh-mapledns
+
+MapleDNS public recursive resolver. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAADzE4OC4yNDUuMTkyLjE5NiA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE3Mi45My4xNjcuMTc2IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjIzLjI1Mi4xMjMuMTg3IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjEwOS45NC4xNzEuMjM1IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+
+
+## pidoh-mapledns-ipv6
+
+MapleDNS public recursive resolver. IPv6. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0gNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMGM1OjphXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAGFsyNjA3OmYyZDg6ODQxNjoxMTM0OjphXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syYTAzOmQ5YzI6MTAwOjEyY2Q6OmFdIDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
 
 
 ## plan9dns-fl
