@@ -2935,24 +2935,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAE1syNjA1OmZhODA6MToxNzo6YV2g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaW5kMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
-## dnscry.pt-doh-islamabad-ipv4
-
-dnscry.pt Islamabad DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADjEwMy45OS4xMzMuMTEwoN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-islamabad-ipv6
-
-dnscry.pt Islamabad DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFFsyMDAxOmRmMjpkNDA6Mjk6OjJdoN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
 ## dnscry.pt-doh-istanbul-ipv4
 
 dnscry.pt Istanbul DoH resolver.
@@ -3005,24 +2987,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://AgcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXaDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6A2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qa3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-jena-ipv4
-
-dnscry.pt Jena DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAACzgxLjcuMTEuMjQ2oN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2plbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-jena-ipv6
-
-dnscry.pt Jena DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAyOjE4MDo2OjE6OjhiNF2g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPamVuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-johannesburg-ipv4
@@ -3095,6 +3059,24 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://AgcAAAAAAAAAGVsyNjAyOjJiNzpkMDE6YzI5NTo6YjoxOF2g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWNpMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+
+
+## dnscry.pt-doh-kyiv02-ipv4
+
+dnscry.pt Kyiv 02 DoH resolver.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://AgcAAAAAAAAADjE4NS4xMjYuMjU1LjMwoN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lldjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
+## dnscry.pt-doh-kyiv02-ipv6
+
+dnscry.pt Kyiv 02 DoH resolver.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://AgcAAAAAAAAAFVsyYTAxOmY1MDA6MjoxNTAwOjphXaDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6A2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9pZXYwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-lasvegas-ipv4
@@ -4184,24 +4166,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://AgcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdoN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ZpZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-vientiane-ipv4
-
-dnscry.pt Vientiane DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADzEwMy4yMjguMTAxLjE3OKDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6A2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA92dGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-vientiane-ipv6
-
-dnscry.pt Vientiane DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFlsyNDAwOjgxYzA6ZGMwMTo4NTo6Ml2g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdnRlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-vilnius-ipv4
@@ -6534,6 +6498,24 @@ Anycast service operated by Hurricane Electric. Unknown logging policy. https://
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## hqdns-doh
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
+## hqdns-doh-ipv6
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
 ## ibksturm
 
 ibksturm OpenNIC resolver in Switzerland.
@@ -7302,4 +7284,31 @@ Operated by Yandex. Service page: https://dns.yandex.com/
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbKy0haHRNsfeYCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+
+
+## yunzheng
+
+YunZheng LAB public resolver.
+Anycast service with DNSSEC validation and no filtering. No per-query logs are kept. Service addresses: 177.177.83.83, 2602:f3ff:83::83. DoH, DoT and DoQ on dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuODMAEmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
+
+
+## yunzheng-dns64
+
+YunZheng LAB public resolver, DNS64.
+Anycast service with DNSSEC validation and no filtering, plus DNS64 (RFC 6147) on the well-known prefix 64:ff9b::/96: a name with no AAAA record is answered with an address built from its A record, for IPv6-only networks whose NAT64 gateway uses that prefix. No per-query logs are kept. Service addresses: 177.177.83.64, 2602:f3ff:83::64. DoH, DoT and DoQ on dns64.dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuNjQAGGRuczY0LmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
+
+
+## yunzheng-filtered
+
+YunZheng LAB public resolver, filtering.
+Anycast service with DNSSEC validation. Advertising, tracking and known-malware domains are refused and answered with a notice page. No per-query logs are kept. Service addresses: 177.177.83.84, 2602:f3ff:83::84. DoH, DoT and DoQ on filter.dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODQAGWZpbHRlci5kbnMueXVuemhlbmcuc3BhY2UKL2Rucy1xdWVyeQ
 
